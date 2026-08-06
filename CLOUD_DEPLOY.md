@@ -104,6 +104,11 @@ https://xugelxugel.github.io/ai-news-monitor/briefings/YYYY-MM-DD.html
 
 ## 十、常见问题
 
+- **configure-pages 报错 "Resource not accessible by integration / Get Pages site failed (Not Found)"**：
+  这是 GitHub 的已知问题——`enablement: true` 自动启用 Pages 在部分仓库会因 token 权限被拒。
+  **修复（一次性）**：仓库 Settings → Pages → Build and deployment → Source 选 **GitHub Actions** → Save，
+  然后回到 Actions 重新 Run workflow 即可。同时建议检查 Settings → Actions → General →
+  Workflow permissions 是否选了 **Read and write permissions**。
 - **429 限流**：智谱免费档并发高会限流，脚本已内置重试，并在连续失败后自动切到备用供应商
 - **微信没收到**：先确认 Secrets 里 `WECHAT_NOTIFY_KEY` 已配置；Server酱/PushPlus 需先扫码绑定微信并关注服务号
 - **Pages 页面 404**：确认 Settings → Pages 里 Source 是 "GitHub Actions"；推送后等 1-2 分钟再访问
