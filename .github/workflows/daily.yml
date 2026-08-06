@@ -1,0 +1,83 @@
+# 每日AI资讯简报 · 每日云端流水线
+# 每天 22:50 UTC（北京时间次日 06:50）自动运行：
+#   fetch_and_prepare.py 抓取 → llm_analyze.py LLM分析 → gen_briefing.py 生成简报
+#   → publish_pages.py 发布到 docs/（GitHub Pages）+ 微信提醒
+#
+# GitHub Pages 启用（一次性）：仓库 Settings → Pages → Source 选 "GitHub Actions"
+#   （用官方 deploy-pages 工作流部署，绕开 branch 构建器超时问题）
+#
+# 首次配置：仓库 Settings → Secrets and variables → Actions → New repository secret
+#   必填：LLM_API_KEY（智谱 GLM Key）、WECHAT_NOTIFY_KEY（Server酱 SENDKEY 或 PushPlus token）
+#   可选：LLM_FALLBACK_API_KEY（Gemini 备用）、WECHAT_NOTIFY_TYPE（默认 serverchan）
+# 手动测试：仓库 Actions 页面 → 本工作流 → Run workflow
+
+name: AI News Daily Briefing
+
+on:
+  schedule:
+    - cron: "50 22 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: ai-news-daily
+  cancel-in-progress: false
+
+jobs:
+  daily-briefing:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      # 先配置 Pages 站点（自动启用 + 切换为 GitHub Actions 部署模式），
+      # 必须在 keepalive push 之前执行，否则 push 会触发分支构建器。
+      - name: Configure Pages
+        uses: actions/configure-pages@v6
+        with:
+          enablement: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run daily briefing pipeline
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_FALLBACK_API_KEY: ${{ secrets.LLM_FALLBACK_API_KEY }}
+          WECHAT_NOTIFY_TYPE: ${{ secrets.WECHAT_NOTIFY_TYPE }}
+          WECHAT_NOTIFY_KEY: ${{ secrets.WECHAT_NOTIFY_KEY }}
+        run: python run_daily.py
+
+      # 保活 + 去重缓存回传：
+      # 1) .keepalive 时间戳提交推送，防止 GitHub 因仓库 60 天无活动自动暂停定时任务；
+      # 2) data/cache/seen_articles.json 提交回仓库，保证下次运行跨天去重。
+      # docs/ 新简报由下面的工作流部署上传，无需 commit。
+      - name: Keep repository active and sync dedup cache
+        run: |
+          echo "last_run: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" > .keepalive
+          git config user.name "ai-news-bot"
+          git config user.email "actions@github.com"
+          git add .keepalive data/cache/seen_articles.json
+          git commit -m "chore: keepalive + dedup cache $(date -u '+%Y-%m-%d')" || echo "no changes to commit"
+          git push
+
+      # ---- GitHub Pages 工作流部署（官方推荐，纯文件上传，无构建超时）----
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: docs
+          include-hidden-files: true
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

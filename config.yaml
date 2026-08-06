@@ -1,0 +1,37 @@
+feeds:
+  - name: "TechCrunch"
+    url: "https://techcrunch.com/feed/"
+  - name: "The Verge"
+    url: "https://www.theverge.com/rss/index.xml"
+  - name: "Wired"
+    url: "https://www.wired.com/feed/rss"
+  - name: "CNBC Technology"
+    url: "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000115"
+  - name: "Bloomberg Technology"
+    url: "https://feeds.bloomberg.com/technology/news.rss"
+  - name: "VentureBeat"
+    url: "https://venturebeat.com/feed/"
+  - name: "Reuters Technology"
+    url: "https://news.google.com/rss/search?q=site:reuters.com+technology+AI&hl=en-US&gl=US&ceid=US:en"
+  - name: "NYT Technology"
+    url: "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+
+tracking_topics:
+  - "基础模型/Foundation Models"
+  - "新框架/New AI Frameworks"
+  - "算力基础设施/Computing Infrastructure"
+  - "AI投资并购/Major AI Investments & M&A"
+  - "数据中心项目/Data Center Projects"
+
+output:
+  briefings_dir: "data/briefings"
+  articles_file: "data/today_articles.json"
+  cache_file: "data/cache/seen_articles.json"
+  keep_cache_days: 30
+
+fetch:
+  timeout: 30
+  max_per_feed: 50
+
+logging:
+  file: "logs/fetch.log"
