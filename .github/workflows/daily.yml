@@ -3,6 +3,10 @@
 #   fetch_and_prepare.py 抓取 → llm_analyze.py LLM分析 → gen_briefing.py 生成简报
 #   → publish_pages.py 发布到 docs/（GitHub Pages）+ 微信提醒
 #
+# 双 cron 兜底：GitHub 定时任务是 best-effort（高峰期可能延迟甚至跳过）。
+# 第二个触发时间 01:20 UTC（北京时间 09:20）作为兜底重试，
+# run_daily.py 会先检查当天简报是否已生成，已生成则直接跳过，不会重复运行。
+#
 # GitHub Pages 启用（一次性）：仓库 Settings → Pages → Source 选 "GitHub Actions"
 #   （用官方 deploy-pages 工作流部署，绕开 branch 构建器超时问题）
 #
@@ -16,6 +20,7 @@ name: AI News Daily Briefing
 on:
   schedule:
     - cron: "50 22 * * *"
+    - cron: "20 1 * * *"
   workflow_dispatch:
 
 permissions:

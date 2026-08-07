@@ -87,6 +87,9 @@ https://xugelxugel.github.io/ai-news-monitor/briefings/YYYY-MM-DD.html
 ## 八、定时、发布与保活说明
 
 - 定时：cron `50 22 * * *`（UTC）= 北京时间每天早上 6:50（有数分钟延迟，属正常）
+- **双 cron 兜底**：GitHub 定时任务是 best-effort，高峰期可能延迟甚至跳过。额外配置了
+  `20 1 * * *`（UTC）= 北京时间 9:20 的兜底触发；`run_daily.py` 会先检查当天简报是否已生成，
+  已生成则直接跳过，不会重复运行
 - **发布**：workflow 末尾用官方 deploy-pages 动作上传 `docs/`，无构建超时问题
 - **保活**：每天自动 commit `.keepalive` + 去重缓存，防止 GitHub 因仓库 60 天无活动暂停定时任务，同时保证云端跨天去重
 

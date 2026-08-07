@@ -35,6 +35,17 @@ def bj_now_str():
     return datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M")
 
 
+def today_briefing_exists():
+    """检查今天(北京时间)的简报是否已生成。
+    双 cron 兜底用:第二个触发时间发现简报已存在则跳过,避免重复运行。"""
+    date_str = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d")
+    briefing = os.path.join(BASE_DIR, "data", "briefings",
+                            date_str, "ai_briefing.html")
+    if os.path.exists(briefing) and os.path.getsize(briefing) > 1024:
+        return True, date_str
+    return False, date_str
+
+
 def run_step(name, cmd):
     """运行单个子步骤，返回 (returncode, output_text)。"""
     print(f"\n{'=' * 60}\n  {name}\n{'=' * 60}")
@@ -85,7 +96,15 @@ def notify_degraded():
 
 
 def main():
-    print(f"每日AI资讯 · 云端流水线启动 · {bj_now_str()}")
+    now_str = bj_now_str()
+    print(f"每日AI资讯 · 云端流水线启动 · {now_str}")
+
+    # 双 cron 兜底:当天简报已生成则直接跳过(第二个触发时间避免重复运行)
+    exists, date_str = today_briefing_exists()
+    if exists:
+        print(f"[跳过] {date_str} 的简报已生成,本次触发无需重复运行")
+        return 0
+
     failed_steps = []
     degraded = False
     logs = []
