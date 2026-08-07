@@ -121,11 +121,14 @@ def main():
     now_str = bj_now_str()
     print(f"每日AI资讯 · 云端流水线启动 · {now_str}")
 
-    # 双 cron 兜底:当天简报已生成则直接跳过(第二个触发时间避免重复运行)
-    exists, date_str = today_briefing_exists()
-    if exists:
-        print(f"[跳过] {date_str} 的简报已生成,本次触发无需重复运行")
-        return 0
+    # 幂等检查:定时触发时,当天简报已发布则跳过(避免 6:50/9:20 双 cron 重复运行)。
+    # 手动触发(workflow_dispatch)时 FORCE_RUN=1,总是重新生成——手动跑就是要重刷简报。
+    force_run = os.environ.get("FORCE_RUN") == "1"
+    if not force_run:
+        exists, date_str = today_briefing_exists()
+        if exists:
+            print(f"[跳过] {date_str} 的简报已在线上,本次定时触发无需重复运行")
+            return 0
 
     failed_steps = []
     degraded = False
