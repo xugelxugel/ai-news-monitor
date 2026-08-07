@@ -330,7 +330,8 @@ def main():
     max_score = max((analyses.get(a["url"], {}).get("importance_score", 0)
                      for a in articles), default=0)
     fetch_count = stats.get("total_fetched", len(articles))
-    new_count = stats.get("after_dedup", len(articles))
+    new_count = stats.get("new_articles", stats.get("after_dedup", len(articles)))
+    today_count = stats.get("after_dedup", len(articles))
 
     now_str = datetime.now(TZ_BJ).strftime("%Y-%m-%d %H:%M")
     sources_str = "TechCrunch / The Verge / Wired / CNBC / Bloomberg / VentureBeat / Reuters / NYT"
@@ -354,8 +355,8 @@ def main():
         <div class="subtitle">监测美国AI产业动态 · 分析对中国AI产业影响</div>
         <div class="stats-bar">
             <div class="stat-card"><div class="num">{fetch_count}</div><div class="label">抓取文章</div></div>
-            <div class="stat-card"><div class="num">{new_count}</div><div class="label">新增文章</div></div>
-            <div class="stat-card"><div class="num">{len(articles)}</div><div class="label">AI相关</div></div>
+            <div class="stat-card"><div class="num">{new_count}</div><div class="label">本次新增</div></div>
+            <div class="stat-card"><div class="num">{today_count}</div><div class="label">当日累计</div></div>
             <div class="stat-card"><div class="num">{max_score:.1f}</div><div class="label">最高评分</div></div>
         </div>
     </div>

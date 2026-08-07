@@ -229,41 +229,66 @@ class RSSFetcher:
 # 去重
 # ──────────────────────────────────────────────
 class ArticleDeduplicator:
-    """文章去重：URL精确匹配 + 标题相似度匹配"""
+    """
+    文章去重：URL精确匹配 + 标题相似度匹配 + 当天数据合并
+
+    去重策略（关键设计）：
+    - **跨天去重**：文章指纹首次出现日期 < 今天的 → 历史文章，跳过
+    - **当天不去重**：今天采集的文章（无论第几次运行、是否已见）全部保留，
+      保证"只要当天运行，简报始终包含当天全部更新数据"
+    - **当天数据持久化**：当天已采集的文章完整存入缓存（today_articles），
+      GitHub Actions 每次全新 checkout 后，第二次运行从缓存读回第一次的数据合并
+    """
 
     def __init__(self, cache_file: Path, keep_days: int = 30,
                  logger: logging.Logger = None):
         self.cache_file = cache_file
         self.keep_days = keep_days
         self.logger = logger or logging.getLogger("ai_news_fetcher")
-        self.seen: dict = self._load_cache()
+        self.seen: dict = {}            # {fingerprint: 首次见到ISO时间} 跨天去重用
+        self.today_articles: dict = {}  # {YYYY-MM-DD: [文章dict,...]} 当天数据缓存
+        self._load_cache()
 
-    def _load_cache(self) -> dict:
-        """加载去重缓存"""
+    def _load_cache(self):
+        """加载去重缓存。兼容旧格式（纯 {fp: iso}）与新格式（含 seen/today_articles）。"""
         if not self.cache_file.exists():
-            return {}
+            return
 
         try:
             with open(self.cache_file, "r", encoding="utf-8") as f:
-                return json.load(f)
+                data = json.load(f)
+            if isinstance(data, dict) and "seen" in data:
+                # 新格式
+                self.seen = data.get("seen", {}) or {}
+                self.today_articles = data.get("today_articles", {}) or {}
+            else:
+                # 旧格式：整个 dict 是 fp→iso，迁移
+                self.seen = data or {}
+                self.today_articles = {}
         except (json.JSONDecodeError, IOError) as e:
             self.logger.warning(f"缓存文件损坏，重建空缓存: {e}")
-            return {}
+            self.seen = {}
+            self.today_articles = {}
 
     def _save_cache(self):
-        """保存去重缓存"""
+        """保存去重缓存（含跨天去重表 + 当天文章数据）"""
         try:
             self.cache_file.parent.mkdir(parents=True, exist_ok=True)
             with open(self.cache_file, "w", encoding="utf-8") as f:
-                json.dump(self.seen, f, ensure_ascii=False, indent=2)
+                json.dump({
+                    "seen": self.seen,
+                    "today_articles": self.today_articles,
+                }, f, ensure_ascii=False, indent=2)
         except IOError as e:
             self.logger.error(f"保存缓存失败: {e}")
 
     def _cleanup_expired(self):
-        """清理过期缓存条目"""
-        cutoff = datetime.now() - timedelta(days=self.keep_days)
-        cutoff_str = cutoff.isoformat()
+        """清理过期缓存：seen 按 keep_days 清理；today_articles 只保留今天和昨天。"""
+        now = datetime.now()
 
+        # seen: 清理超过 keep_days 的条目
+        cutoff = now - timedelta(days=self.keep_days)
+        cutoff_str = cutoff.isoformat()
         before = len(self.seen)
         self.seen = {
             k: v for k, v in self.seen.items()
@@ -272,6 +297,15 @@ class ArticleDeduplicator:
         removed = before - len(self.seen)
         if removed > 0:
             self.logger.info(f"清理过期缓存: 移除 {removed} 条")
+
+        # today_articles: 只保留今天和昨天（历史日期无用，跨天去重靠 seen）
+        today = now.strftime("%Y-%m-%d")
+        yesterday = (now - timedelta(days=1)).strftime("%Y-%m-%d")
+        stale = [d for d in self.today_articles if d not in (today, yesterday)]
+        for d in stale:
+            del self.today_articles[d]
+        if stale:
+            self.logger.info(f"清理历史当天缓存: 移除日期 {stale}")
 
     @staticmethod
     def _title_similarity(t1: str, t2: str) -> float:
@@ -289,45 +323,68 @@ class ArticleDeduplicator:
                 return True
         return False
 
+    def _today_str(self) -> str:
+        return datetime.now().strftime("%Y-%m-%d")
+
+    def cached_today_articles(self, date_str: str = "") -> list:
+        """返回当天缓存中已采集的文章列表（Article 对象）。"""
+        date_str = date_str or self._today_str()
+        return [Article(**a) for a in self.today_articles.get(date_str, [])]
+
     def deduplicate(self, articles: list) -> tuple:
         """
-        去重处理
-        返回: (新文章列表, 统计信息)
+        去重 + 当天数据合并
+        返回: (当天全部文章列表, 统计信息)
         """
         self._cleanup_expired()
+        today_str = self._today_str()
 
-        new_articles = []
-        seen_titles = []
+        # 合并基准：从缓存读回当天已采集的文章（第一次运行的数据）
+        merged: dict = {}
+        for art in self.today_articles.get(today_str, []):
+            if art.get("url"):
+                merged[art["url"]] = art
 
+        seen_titles = [Article(**a) for a in merged.values()]
+
+        new_count = 0  # 本次真正新增（首次见到）
         for article in articles:
             fp = article.fingerprint()
+            first_seen = self.seen.get(fp, "")
+            first_date = first_seen[:10] if first_seen else ""
 
-            # URL去重
-            if fp in self.seen:
+            # 跨天去重：历史文章（首次见到日期 < 今天）跳过
+            if first_date and first_date < today_str:
                 continue
 
-            # 标题相似度去重（跨源）
-            if self._is_similar_to_existing(article, new_articles + seen_titles):
-                # 标记为已见，避免重复检查
-                self.seen[fp] = datetime.now().isoformat()
+            # 标题相似度去重（跨源，与当天已有文章比较）
+            if self._is_similar_to_existing(article, seen_titles):
+                self.seen.setdefault(fp, datetime.now().isoformat())
                 continue
 
-            # 是新文章
+            # 当天文章：保留（新文章或当天已见——当天数据全部保留）
+            if not first_seen:
+                new_count += 1
             self.seen[fp] = datetime.now().isoformat()
-            new_articles.append(article)
+            merged[article.url] = article.to_dict()
             seen_titles.append(article)
 
+        # 回写当天缓存（供同一天第二次运行合并）
+        self.today_articles[today_str] = list(merged.values())
         self._save_cache()
 
+        new_articles = [Article(**a) for a in merged.values()]
         stats = {
-            "total_fetched": len(articles),
-            "after_dedup": len(new_articles),
+            "total_fetched": len(articles),           # 本次抓取数
+            "after_dedup": len(new_articles),         # 当天累计文章数（含缓存合并）
+            "new_this_run": new_count,                # 本次新增数
             "cache_size": len(self.seen),
         }
 
         self.logger.info(
-            f"去重完成: 抓取 {stats['total_fetched']} 篇, "
-            f"新增 {stats['after_dedup']} 篇, 缓存 {stats['cache_size']} 条"
+            f"去重完成: 本次抓取 {stats['total_fetched']} 篇, "
+            f"本次新增 {stats['new_this_run']} 篇, "
+            f"当天累计 {stats['after_dedup']} 篇, 缓存 {stats['cache_size']} 条"
         )
 
         return new_articles, stats
@@ -390,21 +447,16 @@ def main():
     # Step 1: 抓取RSS
     articles = fetcher.fetch_all()
 
-    if not articles:
-        logger.warning("未获取到任何文章，退出")
-        # 仍然输出空结果，便于下游处理
-        output_path = BASE_DIR / config["output"]["articles_file"]
-        save_articles_json([], output_path, {
-            "total_fetched": 0,
-            "after_dedup": 0,
-            "cache_size": len(deduplicator.seen),
-            "new_articles": 0,
-        })
-        logger.info(f"空结果已保存: {output_path}")
-        return
-
-    # Step 2: 去重
+    # Step 2: 去重 + 当天数据合并
     new_articles, dedup_stats = deduplicator.deduplicate(articles)
+
+    if not new_articles:
+        # 本次没有新增，但当天缓存可能已有数据（当天第二次运行且无新文章）
+        cached = deduplicator.cached_today_articles()
+        if cached:
+            logger.info(f"本次无新增，从当天缓存读回 {len(cached)} 篇文章")
+            new_articles = cached
+            dedup_stats["after_dedup"] = len(cached)
 
     # Step 3: 保存JSON
     output_path = BASE_DIR / config["output"]["articles_file"]
@@ -412,7 +464,7 @@ def main():
         "total_fetched": dedup_stats["total_fetched"],
         "after_dedup": dedup_stats["after_dedup"],
         "cache_size": dedup_stats["cache_size"],
-        "new_articles": dedup_stats["after_dedup"],
+        "new_articles": dedup_stats["new_this_run"],
     }
 
     save_articles_json(new_articles, output_path, stats)
