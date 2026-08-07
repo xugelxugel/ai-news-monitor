@@ -36,13 +36,35 @@ def bj_now_str():
 
 
 def today_briefing_exists():
-    """检查今天(北京时间)的简报是否已生成。
-    双 cron 兜底用:第二个触发时间发现简报已存在则跳过,避免重复运行。"""
+    """判断今天(北京时间)的简报是否已成功发布。
+    双 cron 兜底用:第二个触发时间发现简报已发布则跳过,避免重复运行。
+
+    注意:GitHub Actions 每次都是全新 checkout,本地 data/briefings/ 不存在,
+    因此不能只查本地文件——以"线上 Pages 是否已有今天简报"为准:
+      1. 本地文件存在(本地开发调试时) → 视为已生成
+      2. 线上 Pages URL 返回 200(云端) → 视为已发布成功
+    两者都不满足才需要运行流水线。"""
     date_str = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d")
-    briefing = os.path.join(BASE_DIR, "data", "briefings",
-                            date_str, "ai_briefing.html")
-    if os.path.exists(briefing) and os.path.getsize(briefing) > 1024:
+
+    # 1. 本地文件检查(本地开发用;云端 checkout 后该目录不存在)
+    local = os.path.join(BASE_DIR, "data", "briefings",
+                         date_str, "ai_briefing.html")
+    if os.path.exists(local) and os.path.getsize(local) > 1024:
         return True, date_str
+
+    # 2. 线上 Pages 检查(云端用;GITHUB_REPOSITORY 由 Actions 注入,如 user/repo)
+    repo = os.environ.get("GITHUB_REPOSITORY", "")
+    if repo and "/" in repo:
+        owner, name = repo.split("/", 1)
+        url = f"https://{owner}.github.io/{name}/briefings/{date_str}.html"
+        try:
+            import requests
+            r = requests.get(url, timeout=15)
+            if r.status_code == 200:
+                print(f"[检查] 线上已存在今天的简报: {url}")
+                return True, date_str
+        except Exception as e:
+            print(f"[警告] 线上检查失败({e}),按未发布处理")
     return False, date_str
 
 
