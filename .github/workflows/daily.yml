@@ -67,6 +67,8 @@ jobs:
       # 1) .keepalive 时间戳提交推送，防止 GitHub 因仓库 60 天无活动自动暂停定时任务；
       # 2) data/cache/seen_articles.json 提交回仓库，保证下次运行跨天去重。
       # docs/ 新简报由下面的工作流部署上传，无需 commit。
+      # 注意：定时任务与手动触发可能几乎同时运行，push 前先 rebase 同步远程；
+      # 即使推送失败也只打印警告、不中断任务（keepalive 只是打卡，下次运行会补推）。
       - name: Keep repository active and sync dedup cache
         run: |
           echo "last_run: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" > .keepalive
@@ -74,7 +76,8 @@ jobs:
           git config user.email "actions@github.com"
           git add .keepalive data/cache/seen_articles.json
           git commit -m "chore: keepalive + dedup cache $(date -u '+%Y-%m-%d')" || echo "no changes to commit"
-          git push
+          git pull --rebase origin main || echo "pull skipped (no remote changes or rebase failed)"
+          git push || echo "push skipped (concurrent update, will retry next run)"
 
       # ---- GitHub Pages 工作流部署（官方推荐，纯文件上传，无构建超时）----
       - name: Upload Pages artifact
