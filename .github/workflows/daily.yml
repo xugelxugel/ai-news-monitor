@@ -80,12 +80,16 @@ jobs:
           git push || echo "push skipped (concurrent update, will retry next run)"
 
       # ---- GitHub Pages 工作流部署（官方推荐，纯文件上传，无构建超时）----
+      # 条件：仅当本次运行确实生成了简报（docs/ 存在）才上传部署。
+      # 幂等跳过时 docs/ 不存在，跳过部署（线上已是最新简报），任务干净结束。
       - name: Upload Pages artifact
+        if: hashFiles('docs/**') != ''
         uses: actions/upload-pages-artifact@v5
         with:
           path: docs
           include-hidden-files: true
 
       - name: Deploy to GitHub Pages
+        if: hashFiles('docs/**') != ''
         id: deployment
         uses: actions/deploy-pages@v5
