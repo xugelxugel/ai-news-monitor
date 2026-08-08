@@ -4,7 +4,7 @@
 ====================
 在 GitHub Actions（或任意 Linux 服务器）上串联完整流水线：
 
-  步骤1: fetch_and_prepare.py    抓取 8 个美国媒体 RSS + 去重，生成 today_articles.json
+  步骤1: fetch_and_prepare.py    抓取 7 个美国媒体 RSS + 去重，生成 today_articles.json
   步骤2: llm_analyze.py          调用 LLM API 生成中文分析与战略分析（analysis.json）
   步骤3: gen_briefing.py         生成 HTML 简报
   步骤4: publish_pages.py        发布到 docs/（GitHub Pages）+ 微信提醒

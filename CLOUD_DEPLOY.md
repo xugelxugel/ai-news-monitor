@@ -14,7 +14,7 @@
 
 | 文件 | 作用 |
 |---|---|
-| `fetch_and_prepare.py` | 并发抓取 8 个美国媒体 RSS + 去重，生成 `today_articles.json` |
+| `fetch_and_prepare.py` | 并发抓取 7 个美国媒体 RSS + 去重，生成 `today_articles.json` |
 | `llm_analyze.py` | 调用 LLM API 生成中文分析与战略分析（智谱主用 + Gemini 备用自动切换） |
 | `gen_briefing.py` | 生成 HTML 简报（与 WorkBuddy 版结构一致） |
 | `publish_pages.py` | 发布步骤：复制简报 → `docs/briefings/` + 生成归档索引 `docs/index.html` + 微信提醒 |

@@ -28,7 +28,6 @@ TZ_BJ = timezone(timedelta(hours=8))
 SOURCE_BADGES = {
     "TechCrunch": "badge-tc",
     "The Verge": "badge-verge",
-    "Wired": "badge-wired",
     "CNBC Technology": "badge-cnbc",
     "CNBC": "badge-cnbc",
     "Bloomberg Technology": "badge-bloomberg",
@@ -100,7 +99,6 @@ body {
 }
 .badge-tc { background: #0d9e4e; color: #fff; }
 .badge-verge { background: #e8472d; color: #fff; }
-.badge-wired { background: #1a1a1a; color: #fff; border: 1px solid #555; }
 .badge-cnbc { background: #00559b; color: #fff; }
 .badge-bloomberg { background: #1a1a1a; color: #fd8300; border: 1px solid #fd8300; }
 .badge-vb { background: #3b5998; color: #fff; }
@@ -334,7 +332,7 @@ def main():
     today_count = stats.get("after_dedup", len(articles))
 
     now_str = datetime.now(TZ_BJ).strftime("%Y-%m-%d %H:%M")
-    sources_str = "TechCrunch / The Verge / Wired / CNBC / Bloomberg / VentureBeat / Reuters / NYT"
+    sources_str = "TechCrunch / The Verge / CNBC / Bloomberg / VentureBeat / Reuters / NYT"
 
     html = f"""<!DOCTYPE html>
 <html lang="zh-CN">

@@ -3,8 +3,6 @@ feeds:
     url: "https://techcrunch.com/feed/"
   - name: "The Verge"
     url: "https://www.theverge.com/rss/index.xml"
-  - name: "Wired"
-    url: "https://www.wired.com/feed/rss"
   - name: "CNBC Technology"
     url: "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000115"
   - name: "Bloomberg Technology"

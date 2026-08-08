@@ -2,13 +2,12 @@
 
 每日自动监测美国主流媒体的 AI 产业动态，分析美方战略方向及对中国 AI 产业的影响，生成精美 HTML 简报。
 
-## 监测来源（8 个）
+## 监测来源（7 个）
 
 | 来源 | 类型 | RSS 地址 |
 |------|------|----------|
 | **TechCrunch** | 硅谷科技/创投 | `https://techcrunch.com/feed/` |
 | **The Verge** | 综合科技 | `https://www.theverge.com/rss/index.xml` |
-| **Wired** | 科技深度报道 | `https://www.wired.com/feed/rss` |
 | **CNBC Technology** | 财经商业 | `https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000115` |
 | **Bloomberg Technology** | 财经商业 | `https://feeds.bloomberg.com/technology/news.rss` |
 | **VentureBeat** | AI 产业分析 | `https://venturebeat.com/feed/` |
@@ -81,7 +80,7 @@ C:\Users\xugel\.workbuddy\binaries\python\envs\default\Scripts\python.exe fetch_
 ## 技术架构
 
 ```
-RSS 源 (8个) → fetch_and_prepare.py（抓取+去重）→ today_articles.json
+RSS 源 (7个) → fetch_and_prepare.py（抓取+去重）→ today_articles.json
              → llm_analyze.py（LLM 分析，免费 API）→ analysis.json
              → gen_briefing.py（生成 HTML）→ publish_pages.py（发布+微信提醒）
 ```
