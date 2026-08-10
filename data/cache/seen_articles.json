@@ -573,1131 +573,161 @@
     "42d1215735e0948e055841be650ba8dc": "2026-08-08T23:58:57.207563",
     "b29f781dc36e9c69dae0be5cbbf6c78d": "2026-08-08T23:58:57.330746",
     "247327ca0eb1116f31e5015eccaf859d": "2026-08-08T23:58:57.348814",
-    "8de87db5adcfa2fb290fd195f25ee697": "2026-08-08T23:58:57.364169"
+    "8de87db5adcfa2fb290fd195f25ee697": "2026-08-08T23:58:57.364169",
+    "b4c3c315ac673a86050737871187be33": "2026-08-10T00:02:53.865666",
+    "599239f91c833f6bc862b75b1541a9cb": "2026-08-10T00:02:53.865690",
+    "626fb4a322d37a7378d5fdf2386400fb": "2026-08-10T00:02:53.865699",
+    "61dd046342e07e680e884398eb6a2686": "2026-08-10T00:02:53.865706",
+    "acf86426dbc37c6e996eea0c0e96dd7d": "2026-08-10T00:02:53.865746",
+    "f893fb1dc932c6c8895b1f09243ca698": "2026-08-10T00:02:53.866661",
+    "700247b13669dfea78664234d30c45d2": "2026-08-10T00:02:53.867492",
+    "aa0367c27bfd0cd6a1fafd6c16916095": "2026-08-10T00:02:53.868515",
+    "d2ac7303d6252aa21c360d885ca137e2": "2026-08-10T00:02:53.869616",
+    "35f6bb826f1d0954840be07f6a50c400": "2026-08-10T00:02:53.870247",
+    "b90cd0f3486fd972914fc14f5ec7fb68": "2026-08-10T00:02:53.871099",
+    "e28a1bafae9f54743e43d59739c650c5": "2026-08-10T00:02:53.872027",
+    "e312dab6030f0dc6abe466d15d841f17": "2026-08-10T00:02:53.873686",
+    "fea54e7d9d81fff2677f9f83bd1e59b2": "2026-08-10T00:02:53.876279",
+    "8886fda9e452559a08dd59e0123dbf1d": "2026-08-10T00:02:53.878161",
+    "d03ff25ac03e19fa7d75f46f7566f61e": "2026-08-10T00:02:53.880781",
+    "873028dc5faff9f56e11b3d8cc5e6ff7": "2026-08-10T00:02:53.883614",
+    "10fe396b2a20e1501e9c0945ca0c85e3": "2026-08-10T00:02:53.886554",
+    "eedbb19d29512c3964508007359c80c1": "2026-08-10T00:02:53.889142"
   },
   "today_articles": {
-    "2026-08-07": [
+    "2026-08-10": [
       {
-        "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-        "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-        "source": "TechCrunch",
-        "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
-        "published": "2026-08-06T22:43:53+00:00"
-      },
-      {
-        "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
-        "url": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
-        "source": "TechCrunch",
-        "summary": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco’s Moscone West from October 13-15. That’s exactly what our Exhibit Program offers, and it’s still open to showcase your startup.  Here’s what $12,500 buys you:  Joining fellow exhibitors is the fastest, lowest-lift way for a […]",
-        "published": "2026-08-06T22:00:00+00:00"
-      },
-      {
-        "title": "Vogue just gave another nod of approval to the tech world",
-        "url": "https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/",
-        "source": "TechCrunch",
-        "summary": "Vogue World is coming to San Francisco next year — perhaps another indication that tech bros are now part of the fashion zeitgeist.",
-        "published": "2026-08-06T21:24:47+00:00"
-      },
-      {
-        "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until tomorrow",
-        "url": "https://techcrunch.com/2026/08/06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
-        "source": "TechCrunch",
-        "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
-        "published": "2026-08-06T21:20:00+00:00"
-      },
-      {
-        "title": "Google says hackers are calling financial firm employees to hack and extort victims",
-        "url": "https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/",
-        "source": "TechCrunch",
-        "summary": "Groups of hackers are breaking into large U.S. financial firms to steal sensitive data and extort victims, Google’s security researchers report.",
-        "published": "2026-08-06T19:40:46+00:00"
-      },
-      {
-        "title": "China-linked LightSpy spyware caught targeting victims in 13 countries, including the US",
-        "url": "https://techcrunch.com/2026/08/06/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries-including-the-us/",
-        "source": "TechCrunch",
-        "summary": "Researchers linked the latest malicious activity to a Chinese company, after one of the spyware's operators placed an order with KFC using their real name and office address.",
-        "published": "2026-08-06T19:22:30+00:00"
-      },
-      {
-        "title": "Defense tech Hadrian raises $1.37B at $8B valuation",
-        "url": "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
-        "source": "TechCrunch",
-        "summary": "Hadrian is building automated factories to mass-produce parts for defense vehicles like submarines. It's backed by a long list of well-known investors.",
-        "published": "2026-08-06T19:02:57+00:00"
-      },
-      {
-        "title": "Ford needs another Taurus, and the $30K Fathom EV pickup isn’t it",
-        "url": "https://techcrunch.com/2026/08/06/ford-needs-another-taurus-and-the-30k-fathom-ev-pickup-isnt-it/",
-        "source": "TechCrunch",
-        "summary": "Ford's CEO has described the new Ford Fathom as a \"Model T moment\" for the company. But the EV pickup is unlikely to live up to lofty expectations, and maybe it doesn't have to.",
-        "published": "2026-08-06T17:41:56+00:00"
-      },
-      {
-        "title": "Bumble teases a swipe-free future as it doubles down on IRL meetups",
-        "url": "https://techcrunch.com/2026/08/06/bumble-teases-a-swipe-free-future-as-it-doubles-down-on-irl-meetups/",
-        "source": "TechCrunch",
-        "summary": "Bumble says it’s moving beyond swiping and deeper into real-world social experiences as it courts Gen Z users.",
-        "published": "2026-08-06T17:39:47+00:00"
-      },
-      {
-        "title": "ChatGPT brings unlimited text chats to free users",
-        "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-        "source": "TechCrunch",
-        "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-        "published": "2026-08-06T17:34:42+00:00"
-      },
-      {
-        "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-        "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-        "source": "TechCrunch",
-        "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
-        "published": "2026-08-06T17:00:37+00:00"
-      },
-      {
-        "title": "Hacker pleads guilty to stealing data from more than 165 Snowflake customers",
-        "url": "https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/",
-        "source": "TechCrunch",
-        "summary": "Connor Moucka pled guilty to hacking and stealing data from more than 165 Snowflake customers, which net him and his accomplices more than $2.5 million in ransom payments.",
-        "published": "2026-08-06T16:42:40+00:00"
-      },
-      {
-        "title": "TikTok lays off 250 employees, shutters its Nashville office",
-        "url": "https://techcrunch.com/2026/08/06/tiktok-lays-off-250-employees-shutters-its-nashville-office/",
-        "source": "TechCrunch",
-        "summary": "The social media giant is shuttering an office that housed some members of TikTok’s content-moderation team.",
-        "published": "2026-08-06T16:06:40+00:00"
-      },
-      {
-        "title": "Google Wallet now lets parents set up secure balances for their kids",
-        "url": "https://techcrunch.com/2026/08/06/google-wallet-now-lets-parents-set-up-secure-balances-for-their-kids/",
-        "source": "TechCrunch",
-        "summary": "The tech giant says the new feature will allow parents to teach their kids healthy financial habits while maintaining oversight over their child's spending with built-in safeguards.",
-        "published": "2026-08-06T16:00:00+00:00"
-      },
-      {
-        "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-        "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-        "source": "TechCrunch",
-        "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
-        "published": "2026-08-06T15:53:03+00:00"
-      },
-      {
-        "title": "Tesla and SpaceX will invest $16.8B to start building ‘Terafab’ chip factory in Texas",
-        "url": "https://techcrunch.com/2026/08/06/tesla-and-spacex-will-invest-16-8b-to-start-building-terafab-chip-factory-in-texas/",
-        "source": "TechCrunch",
-        "summary": "After months of speculation, the companies formally announced the massive project will happen just north of Houston.",
-        "published": "2026-08-06T15:21:51+00:00"
-      },
-      {
-        "title": "Hackers Stalked Me by Hijacking a Smartwatch for Kids",
-        "url": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
-        "source": "Wired",
-        "summary": "Security researchers tracked and eavesdropped on a WIRED reporter using vulnerabilities in a pink plastic smartwatch. It’s just one piece of a deeply insecure supply chain of GPS-enabled gadgets.",
-        "published": "2026-08-06T21:35:00+00:00"
-      },
-      {
-        "title": "Why Normal People Aren’t Using AI Agents",
-        "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
-        "source": "Wired",
-        "summary": "The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.",
-        "published": "2026-08-06T19:55:45+00:00"
-      },
-      {
-        "title": "Flock Highlighted Police Departments Using Its Tech. Now 4 Face Allegations of Misuse",
-        "url": "https://www.wired.com/story/flock-videos-highlighted-police-departments-that-face-misuse/",
-        "source": "Wired",
-        "summary": "Flock posted videos on its YouTube channel highlighting at least four police departments whose officers have faced allegations of misusing the company’s tech.",
-        "published": "2026-08-06T19:31:07+00:00"
-      },
-      {
-        "title": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
-        "url": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/",
-        "source": "Wired",
-        "summary": "In today’s episode of Uncanny Valley, we discuss how ICE has been collecting DNA samples of people who have no criminal convictions, including children, which end up in an FBI database indefinitely.",
-        "published": "2026-08-06T19:30:46+00:00"
-      },
-      {
-        "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
-        "url": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
-        "source": "Wired",
-        "summary": "Its WeatherNext model, which will be open-sourced, can accurately predict a storm’s track and intensity using lower-resolution weather data. Researchers don’t yet fully understand how it does this.",
-        "published": "2026-08-06T16:23:04+00:00"
-      },
-      {
-        "title": "There’s No Good Way to Talk About Celebrities and Eating Disorders",
-        "url": "https://www.wired.com/story/theres-no-good-way-to-talk-about-celebrities-and-eating-disorders/",
-        "source": "Wired",
-        "summary": "Online speculation over the weight loss of celebrities like Ariana Grande—even out of genuine concern—can make things worse for people struggling with eating disorders.",
-        "published": "2026-08-06T15:52:53+00:00"
-      },
-      {
-        "title": "Trevor Noah is hosting Google’s Pixel 11 launch event",
-        "url": "https://www.theverge.com/tech/976454/made-by-google-2026-event-pixel-11-trevor-noah",
+        "title": "No Dogs in Space is a music history podcast for true obsessives",
+        "url": "https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast",
         "source": "The Verge",
-        "summary": "Google is set to host its next live Made by Google hardware launch event on August 12th, and the company says in a new video that comedian Trevor Noah will be hosting the show. The video indicates that the event will feature other celebrities and influencers as well, including Call Her Daddy host Alex Cooper […]",
-        "published": "2026-08-06T21:15:47+00:00"
+        "summary": "Sadly, there hasn't been a new episode of No Dogs in Space since July of 2024. Part four of the podcast's series on Can wrapped up an abbreviated season three, which focused on experimental rock. Don't get me wrong, I loved seasons one and two, but the show seemed to be gearing up for a […]",
+        "published": "2026-08-09T20:28:31+00:00"
       },
       {
-        "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+        "title": "Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat",
+        "url": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
         "source": "The Verge",
-        "summary": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in 2027 for a price over $300, reportedly \"will have a unique look, […]",
-        "published": "2026-08-06T20:55:39+00:00"
+        "summary": "Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beacon and Halifax Shipping News, the closest vessel was actually Mark Zuckerberg's super yacht, Launchpad. Michael Love, a passenger on the Wilderness Legacy, posted […]",
+        "published": "2026-08-09T17:20:30+00:00"
       },
       {
-        "title": "The AirPods Pro are $60 off, their best price since late June",
-        "url": "https://www.theverge.com/gadgets/976276/apple-airpods-pro-3-best-buy-apple-deal-sale",
+        "title": "49ers coach says his Tesla was on Autopilot when he crashed",
+        "url": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
         "source": "The Verge",
-        "summary": "Best Buy kicked off a sale on Apple products with discounts on its latest smartwatches to phones. Another deal that caught our eye is on the latest AirPods Pro, Apple’s flagship wireless earbuds, which are down to $189.99 ($60 off), with retailers like Amazon and Walmart matching the price. That’s their lowest price since Prime […]",
-        "published": "2026-08-06T20:00:00+00:00"
+        "summary": "Four weeks ago, San Francisco 49ers coach Kyle Shanahan was involved in an accident near downtown Palo Alto. At the time Shanahan said only that the accident was his fault. But during a recent press conference he shared more details about the incident, including the fact that he had his Tesla's Autopilot engaged at the […]",
+        "published": "2026-08-09T15:56:49+00:00"
       },
       {
-        "title": "The Zelda movie’s Ganondorf casting hints at more movies",
-        "url": "https://www.theverge.com/entertainment/976337/the-legend-of-zelda-movie-ganondorf-multi-picture-deal",
+        "title": "Dropbox is a PC builder’s best friend",
+        "url": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup",
         "source": "The Verge",
-        "summary": "Deadline reported Thursday that the upcoming The Legend of Zelda movie will feature Australian actor Uli Latukefu as the villain Ganondorf, and the publication notes that \"We hear Latukefu inked a multi-picture deal.\" Nintendo or Sony haven't formally confirmed that there's more than one movie in the works, though it's been rumored that Nintendo and […]",
-        "published": "2026-08-06T18:31:57+00:00"
+        "summary": "In 2018 I bet my reputation and self-worth on a huge crowdfunded game design project. It could have been a failure for many reasons, but the one I became most worried about was losing all of the work that was stored locally on my home-built PC - a scenario that would have left a lot […]",
+        "published": "2026-08-09T13:00:00+00:00"
       },
       {
-        "title": "Suno shares plans to combat spammy AI music",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+        "title": "AI detectors are creating a new era of distrust",
+        "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
         "source": "The Verge",
-        "summary": "Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey Shulman laid out the company's principles and the next steps for the company as it seeks legitimacy. The company is rolling out new […]",
-        "published": "2026-08-06T17:39:43+00:00"
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long before ChatGPT became a thing, […]",
+        "published": "2026-08-09T12:00:00+00:00"
       },
       {
-        "title": "Brendan Carr officially unleashes broadcast consolidation",
-        "url": "https://www.theverge.com/policy/976287/fcc-broadcast-ownership-rule-ends",
-        "source": "The Verge",
-        "summary": "The era of set broadcast ownership limits is officially over, after the Federal Communications Commission (FCC) voted Thursday to end the national ownership cap rule. The agency's two Republicans, Chair Brendan Carr and Commissioner Olivia Trusty, voted to end the ownership cap, which restricts broadcast owners from holding stations that reach a combined more than […]",
-        "published": "2026-08-06T17:35:38+00:00"
+        "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+        "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+        "source": "TechCrunch",
+        "summary": "The AI-focused hedge fund is still making some big bets.",
+        "published": "2026-08-09T20:35:17+00:00"
       },
       {
-        "title": "OpenAI is giving ChatGPT free users unlimited text chats",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-        "source": "The Verge",
-        "summary": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Right now, you may run into rate limits if you do too many text chats on those tiers, but […]",
-        "published": "2026-08-06T17:00:00+00:00"
+        "title": "Anthropic is turning Claude Code’s auto mode on by default",
+        "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+        "source": "TechCrunch",
+        "summary": "Programming with Claude Code will soon require even less human oversight.",
+        "published": "2026-08-09T19:20:32+00:00"
       },
       {
-        "title": "TikTok blames &#8216;moderator error&#8217; on slow response to Perez Hilton livestream",
-        "url": "https://www.theverge.com/tech/976228/tiktok-perez-hilton-livestream-moderator-error",
-        "source": "The Verge",
-        "summary": "TikTok says a \"moderator error\" delayed the removal of a livestream that appeared to show blogger Perez Hilton harming himself, as reported earlier by Wired. Jamie Favazza, a spokesperson for TikTok US, tells The Verge that the platform notified law enforcement about the situation and banned Hilton's account for violating its community guidelines. Hilton, or […]",
-        "published": "2026-08-06T16:41:25+00:00"
+        "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
+        "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
+        "source": "TechCrunch",
+        "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "published": "2026-08-09T16:05:00+00:00"
       },
       {
-        "title": "Apple increases trade-in offers and adds new Android devices",
-        "url": "https://www.theverge.com/tech/976210/apple-trade-in-values-increased",
-        "source": "The Verge",
-        "summary": "Apple bumped up its trade-in offers for iPhones, iPads, Macs, Apple Watches, and certain Android phones, with some devices now worth over $100 more, 9to5Mac reports. The Mac Studio's trade-in value increased the most, going up by $260. While some devices' offers are unchanged, most got an increase of around $5 to $20, with a […]",
-        "published": "2026-08-06T15:47:15+00:00"
+        "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+        "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+        "source": "TechCrunch",
+        "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+        "published": "2026-08-09T15:00:00+00:00"
       },
       {
-        "title": "Will see luxury market start to move in next 6-12 months on SpaceX wealth: Altman Bros. Real Estate owner",
-        "url": "https://www.cnbc.com/video/2026/08/06/will-see-luxury-market-start-to-move-in-next-6-12-months-on-spacex-wealth-altman-bros-real-estate-owner.html",
-        "source": "CNBC Technology",
-        "summary": "Josh Altman, Altman Bros. Real Estate owner, joins 'Closing Bell Overtime' to talk how SpaceX investors could be the next market for luxury real estate.",
-        "published": "2026-08-06T21:57:46+00:00"
+        "title": "The AI safety test is becoming a safety risk",
+        "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+        "source": "TechCrunch",
+        "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+        "published": "2026-08-09T14:30:00+00:00"
       },
       {
-        "title": "Homeowners are paying much more for insurance — and keeping coverage is getting harder",
-        "url": "https://www.cnbc.com/2026/08/06/homeowners-insurance-costs-soar-naic-report.html",
-        "source": "CNBC Technology",
-        "summary": "Homeowners insurance premiums have risen faster than inflation across the country, according to a new industry report.",
-        "published": "2026-08-06T19:09:56+00:00"
+        "title": "This ‘adversarial’ pattern can prevent surveillance cameras from detecting you",
+        "url": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
+        "source": "TechCrunch",
+        "summary": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras.",
+        "published": "2026-08-09T14:00:00+00:00"
       },
       {
-        "title": "No cloud, no GPUs, no problem: Liquid AI's new model LFM2.5-2.6B brings powerful AI agents to devices as small as a Raspberry Pi",
-        "url": "https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi",
-        "source": "VentureBeat",
-        "summary": "Earlier this week, the AI startup Liquid, formed in 2023 by former MIT computer scientists, debuted LFM2.5-2.6B , a new open-weight language model designed specifically for agentic workloads. In release materials and a recent interview with VentureBeat, Liquid's researchers said LFM2.5-2.6B can run entirely on local hardware — from smartphones and laptops down to a Raspberry Pi — without relying on cloud inference or GPUs, unlocking edge AI applications and giving more options to enterprises ...",
-        "published": "2026-08-06T22:56:06+00:00"
+        "title": "This former notorious red-light district is now one of the world’s top AI hubs",
+        "url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+        "source": "TechCrunch",
+        "summary": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.",
+        "published": "2026-08-09T13:00:00+00:00"
       },
       {
-        "title": "Qwen 3.8-Max and Claude Opus 5 show why raw benchmark scores don't predict the bill",
-        "url": "https://venturebeat.com/orchestration/qwen-3-8-max-and-claude-opus-5-show-why-raw-benchmark-scores-dont-predict-the-bill",
-        "source": "VentureBeat",
-        "summary": "Alibaba released Qwen 3.8-Max this week and marketed the preview as second only to Claude Fable 5 (their launch-day table was more equivocal: the model leads on one of 12 coding-agent rows). But an independent harness came close to the opposite conclusion: a benchmark run , apparently using the Preview version, put Qwen 3.8-Max's best effort setting mid-pack, and its default setting last. Both results are real and defensible. The gap between them is about token and time budgets, and that matt...",
-        "published": "2026-08-06T16:11:47+00:00"
+        "title": "How David Ellison Won Over Major Movie Theaters",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-08-09/how-david-ellison-won-over-major-movie-theaters",
+        "source": "Bloomberg Technology",
+        "summary": "The world’s two largest movie theater chains just backed a merger that their peers oppose",
+        "published": "2026-08-09T23:00:01+00:00"
       },
       {
-        "title": "AI agents are part of your team now. Here’s how to secure all of them.",
-        "url": "https://venturebeat.com/security/ai-agents-are-part-of-your-team-now-heres-how-to-secure-all-of-them",
-        "source": "VentureBeat",
-        "summary": "Presented by JumpCloud A practical framework for securing every identity in the modern workforce, human or not. Your organization already has a rigorous process for governing human identities. New employees go through onboarding. They get a role, a set of entitlements, and a named manager accountable for their access. When they leave, their credentials are revoked and access is terminated. It’s a well known IT process: every workforce identity that can access your systems needs to be known, s...",
-        "published": "2026-08-06T15:30:00+00:00"
+        "title": "Apple Explores Apple Watch Shake-Up; Company Prepares for September iPhone Event",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-08-09/apple-explores-apple-watch-shake-up-company-prepares-for-september-iphone-event",
+        "source": "Bloomberg Technology",
+        "summary": "Also: The company’s big iPhone event approaches.",
+        "published": "2026-08-09T14:00:01+00:00"
       },
       {
-        "title": "AMD deepens AI inference bet with Taalas deal as chip race heats up",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWUF0eTJUTHJzZWdiSWNVbjA5VGhldm83MG9sZnd2d2ZGRzRISEFDVFUtU3JDSGtTaWJpS0xvM0lhT2FKUnJEUmZIeTdkcElDN0UyMXN6bW5KRlNadEpEVTg5OFloSFBYM0IxclhVNG04eS1GZURWaVRFR21rYmhWWFp0U1JfcnFqTWZ6aEJrcE1tSXpobjNLQ2ZmdG9jd0lxc0JzZnZUN3Q0Wjc0Y1E?oc=5",
+        "title": "China AI Chip Designer Moore Threads Plans Hong Kong Listing",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-09/china-ai-chip-designer-moore-threads-plans-hong-kong-listing",
+        "source": "Bloomberg Technology",
+        "summary": "Artificial intelligence chipmaker Moore Threads Technology Co. said it plans to list in Hong Kong at an “appropriate time” after its shares have surged more than 420% since their Shanghai debut last year.",
+        "published": "2026-08-09T09:39:56+00:00"
+      },
+      {
+        "title": "Retailers tap AI shopping traffic but fight to keep customer data",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcUkyUEpWNlhDYU5LbTVFTjdNa1dWdU9HbDRhWGZsRjVEU1VOY2VMVGZkOWRnY3QyS09OVzlYUWlUOVJ5QnlxaDd4TEp0em5Ea1RoZDFHVTN4UGhJcVFxTlBPZFZHVmFYUlUtSXRXNFAzQzhSWTZyazRWbXNjWEdDWmNjbWJmTWdSekdNdzRXVjRadFRwaXlGNXktYU1wblBnWW90eFhRZ0dHWjJSWXljWmxIdW9icFIzU0Uw?oc=5",
         "source": "Reuters Technology",
-        "summary": "AMD deepens AI inference bet with Taalas deal as chip race heats up Reuters",
-        "published": "2026-08-06T21:29:08+00:00"
+        "summary": "Retailers tap AI shopping traffic but fight to keep customer data Reuters",
+        "published": "2026-08-07T10:11:41+00:00"
       },
       {
-        "title": "DeepSeek invests $20.8 million in Unitree's Shanghai IPO",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOakRHZFBpQllCMmVKOUFvTmpuX04xRDFIQkc5bzdZTGhmZ2ZZdW1lNW5IRUQzanpmTm85U1hkREV3dmx0UnFxQ1B2alVVak5IN21WV3NNYU5BNnlHTTVHc28tVDRlY1BpS0g1cVpaYmphRm85Z0hhX2xBS0lWS0RIUDRwWFJpNHVPMFpWMkQybmV3TFViR2laUDJzWWR2cXpTdWpLWmtaSEs?oc=5",
+        "title": "Google’s $15 billion India data centre project battles water, wildlife concerns",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOGJ0bjViY3QwQ0xySVgtVHMtRjNiM3JvVTNOc3hNQWFkNzFFMmdoRjU0LUdYRlZvWmZtTzJ0RUJEN20ycmZqWklGNWVJSWdETGt3d1hLeGtzbzlYMFNUMkZDc29sdTEyMXE0WmUwQ2lxM1lSWUhQeVhQYlZ2dnlZR2RBVWJ2bkdiU3JFVVRQZHlDc0FpYW9EX0VIQkEwSTVyMUdkSlRvWkRDa3BUbURwWWlpUjJJdWlUWmNpT0tNeGRwSVhJejcwMXRYOA?oc=5",
         "source": "Reuters Technology",
-        "summary": "DeepSeek invests $20.8 million in Unitree's Shanghai IPO Reuters",
-        "published": "2026-08-06T13:45:43+00:00"
+        "summary": "Google’s $15 billion India data centre project battles water, wildlife concerns Reuters",
+        "published": "2026-08-06T09:26:19+00:00"
       },
       {
-        "title": "Furious pace of AI investment on some Fed officials' radar now",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNVJ6UjE0RWczVm91NXNnb2E0aC1mRnpRRExGbG83cnNsWDdQbmt4cHVlMkh6ZWZLaUZUM1pkWGh0TVcydW9IZEpCZFJOSG1MWktFcHM5Y19yV3JqMEJXaDhCZGRwNXpJakRzMXlJUURvMXlkdEI4cS0tMmhLeHFkT1JQWUtuQnFjYjhTVHRpcmJVTmF5Sm5CR3I1SHhZRWxaMmhVNGdUVG1UcklWZkVqNA?oc=5",
+        "title": "EPAM cuts annual revenue forecast on weak software services demand, shares fall",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOElFd2dNbnFFaGJYcU00VGplZlpWbHJUSEFRS1BEMVRXOGhXeGFsa1FqSkQ2d3hVSkxaVzZsS2lqU0h0U3dRMGt0dWNfTU9aSXlyWE90TUYtOXp6SUJVS3oyel92UURoTVhucU1heUJQZjdNanB3VWF4Tmw0aVd4X0x2dm9wMHFJTmJJVjNSYWVlTEpzbTRqOV9jNXRuRGJIM1UzZHdRblpJVXl4bjA4?oc=5",
         "source": "Reuters Technology",
-        "summary": "Furious pace of AI investment on some Fed officials' radar now Reuters",
-        "published": "2026-08-06T19:13:26+00:00"
+        "summary": "EPAM cuts annual revenue forecast on weak software services demand, shares fall Reuters",
+        "published": "2026-08-06T13:45:05+00:00"
       },
       {
-        "title": "F.C.C. Removes Limit on Broadcast TV Ownership",
-        "url": "https://www.nytimes.com/2026/08/06/technology/fcc-broadcast-tv-ownership.html",
-        "source": "NYT Technology",
-        "summary": "The move lifts a rule that said a single television-station owner could not reach more than 39 percent of U.S. households.",
-        "published": "2026-08-06T20:56:19+00:00"
-      },
-      {
-        "title": "French Streamers Convicted in Case Related to Kick Livestream Death",
-        "url": "https://www.nytimes.com/2026/08/06/world/europe/french-streamers-kick-death-convicted.html",
-        "source": "NYT Technology",
-        "summary": "The two men, users of the platform Kick, received suspended sentences and fines.",
-        "published": "2026-08-07T00:17:47+00:00"
-      },
-      {
-        "title": "Tencent AI Spending Key After Magnificent 7 Rout",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-07/tencent-ai-spending-key-after-magnificent-7-rout",
-        "source": "Bloomberg Technology",
-        "summary": "Tencent Holdings Ltd.’s spending plans will draw investor scrutiny as investors cool on lavish outlays on artificial intelligence.",
-        "published": "2026-08-07T00:55:46+00:00"
-      },
-      {
-        "title": "Atlassian Shares Surge as Revenue Jump Douses AI Fears",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-06/atlassian-shares-surge-as-revenue-jump-douses-ai-fears",
-        "source": "Bloomberg Technology",
-        "summary": "Atlassian Corp. shares surged in after-hours trading after quarterly revenue climbed, easing concerns that the software services company would be overtaken by artificial intelligence applications.",
-        "published": "2026-08-06T23:12:28+00:00"
-      },
-      {
-        "title": "Markets Slip as Rising Yields Pressure Tech | The Close 8/6/2026",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-06/the-close-8-6-2026-video",
-        "source": "Bloomberg Technology",
-        "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Kestra Investment Management CIO Kara Murphy, e.l.f. Beauty CEO Tarang Amin, Klaviyo CEO & Co-Founder Andrew Bialecki, CAIS Founder, Chairman, & CEO Matt Brown, Manulife John Hancock Investments Co-Chief Investment Strategist Emily Roland, Placer.ai Analytical Research Head R.J. Hottovy, GoodRx CEO Wendy Barnes, Elanco An...",
-        "published": "2026-08-06T22:07:08+00:00"
-      },
-      {
-        "title": "Conference Board CEO on C-Suite Optimism, Hiring Plans",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-06/conference-board-ceo-on-c-suite-optimism-hiring-plans-video",
-        "source": "Bloomberg Technology",
-        "summary": "Steve Odland, CEO of the Conference Board, discussed the latest CEO confidence survey results, which showed an increase from 47 to 52 between the second and third quarters of 2026, moving the index into positive territory. The second quarter's negative reading was largely attributed to geopolitical tensions in the Middle East, particularly the war in Iran and the resulting spike in oil prices to around $120 per barrel. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
-        "published": "2026-08-06T21:58:57+00:00"
-      },
-      {
-        "title": "RXO CEO on Earnings Beat, Freight Market Outlook",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-06/rxo-ceo-on-earnings-beat-freight-market-outlook-video",
-        "source": "Bloomberg Technology",
-        "summary": "RXO, a leading freight broker, reported second quarter results showing a 25% increase in revenue and adjusted EPS exceeding analyst estimates by 6 cents. CEO Drew Wilkerson highlighted that the company is in the early stages of a freight recovery, driven by a significant rise in spot rates that currently outperform contract rates. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
-        "published": "2026-08-06T21:33:23+00:00"
-      },
-      {
-        "title": "CAIS CEO Talks New Funding Round, AI’s Fintech Impact",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-06/cais-ceo-talks-new-funding-round-ai-s-fintech-impact-video",
-        "source": "Bloomberg Technology",
-        "summary": "Matt Brown, Founder, Chairman, and CEO of CAIS, discussed the company's recent $170 million Series D funding round led by Vista and supported by Allianz Bernstein, Blue Owl, and Carlyle, which values the alternative asset investment platform at over $2 billion—more than double its previous valuation. Brown highlighted CAIS's 37% organic growth and explained that the new capital will be used to pursue strategic mergers and acquisitions in response to ongoing fintech industry consolidation, enh...",
-        "published": "2026-08-06T21:26:28+00:00"
-      },
-      {
-        "title": "Klaviyo CEO on Revenue Growth, E-Commerce Outlook",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-06/klaviyo-ceo-on-revenue-growth-e-commerce-outlook-video",
-        "source": "Bloomberg Technology",
-        "summary": "Andrew Bialecki, CEO of Klaviyo, discussed the company's recent financial performance and growth strategy following a quarter with 26% revenue growth, reaching an almost $1.5 billion run rate. Despite a sequential slowdown from previous higher growth rates, Bialecki emphasized the company's durable growth driven by a broad customer base of over 205,000 businesses, including new large clients such as Warner Music Group and the San Francisco 49ers. He speaks with Romaine Bostick on \"The Close.\"...",
-        "published": "2026-08-06T21:18:57+00:00"
-      },
-      {
-        "title": "Google’s Shakeup Complicates Race With OpenAI, Anthropic",
-        "url": "https://www.bloomberg.com/news/newsletters/2026-08-06/google-s-shakeup-complicates-race-with-openai-anthropic",
-        "source": "Bloomberg Technology",
-        "summary": "The tech giant is entering a new period of transition.",
-        "published": "2026-08-06T21:00:01+00:00"
-      },
-      {
-        "title": "Lyft Delivers Bookings Beat With Premium Rides, Misses on Income",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-06/lyft-delivers-bookings-beat-with-premium-rides-european-demand",
-        "source": "Bloomberg Technology",
-        "summary": "Lyft Inc.’s second-quarter bookings beat expectations, thanks to growing demand for premium rides and strength in European markets, while net income missed estimates.",
-        "published": "2026-08-06T20:09:23+00:00"
-      },
-      {
-        "title": "Cloudflare Lifts Annual Profit Outlook, Beats Wall Street Target",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-06/cloudflare-lifts-annual-profit-outlook-beats-wall-street-target",
-        "source": "Bloomberg Technology",
-        "summary": "Cloudflare Inc. gave a forecast for profit this year that topped Wall Street’s estimates, suggesting that demand for networking services continued to accelerate amid rapid adoption of artificial intelligence.",
-        "published": "2026-08-06T20:29:46+00:00"
-      },
-      {
-        "title": "Fed Silence & Tightening Spread Environment | Real Yield 8/6/2026",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-06/real-yield-8-6-2026-video",
-        "source": "Bloomberg Technology",
-        "summary": "\"Bloomberg Real Yield\" highlights the market-moving news you need to know. Today's guests: JPMorgan Asset Management Head of Market Strategy, Alternative Fixed Income Oksana Aronov and BNP Paribas Global Head, Desk Analysy Viktor Hjort.  (Source: Bloomberg)",
-        "published": "2026-08-06T20:25:03+00:00"
-      },
-      {
-        "title": "Advanced Micro Devices to Buy Startup Taalas for New AI Chips",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-06/advanced-micro-devices-to-buy-startup-taalas-for-new-ai-chips",
-        "source": "Bloomberg Technology",
-        "summary": "Advanced Micro Devices Inc. is buying Canadian startup Taalas, a move that will let it offer another type of artificial intelligence chip to the burgeoning data center industry.",
-        "published": "2026-08-06T20:07:50+00:00"
-      },
-      {
-        "title": "Hackers Target Wall Street in New Set of Attacks",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-06/hackers-target-wall-street-in-new-set-of-attacks-video",
-        "source": "Bloomberg Technology",
-        "summary": "Hackers launched a wave of sophisticated attacks on Wall Street firms in recent days, according to people familiar. Hedge funds have been the main target. Mandeep Singh of Bloomberg Intelligence takes a closer look at what companies are doing to try and protect themselves and how stocks could be impacted. (Source: Bloomberg)",
-        "published": "2026-08-06T20:05:25+00:00"
-      },
-      {
-        "title": "What Is OpenAI’s Device? A Doughnut-Shaped Speaker That Costs Over $300",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300",
-        "source": "Bloomberg Technology",
-        "summary": "A highly anticipated new device from OpenAI will have a unique look, complete with moving parts that help give it personality, and likely cost more than $300, according to people familiar with the matter.",
-        "published": "2026-08-06T19:59:38+00:00"
-      },
-      {
-        "title": "Google Grapples With Exit of AI Pioneer and ‘Most Google Person’",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-06/google-grapples-with-exit-of-ai-pioneer-and-most-google-person",
-        "source": "Bloomberg Technology",
-        "summary": "Days after Google unveiled its first Gemini chatbot in 2023 to compete with ChatGPT, Jeff Dean went to an AI conference where he was promptly swarmed by attendees. Suddenly, the Google executive looked at his watch and realized he was due to give a talk minutes later, spurring a rush to take selfies with the influential tech leader before he left.Now, it’s the employees at Google who are bracing for the AI pioneer’s exit. Dean, who started at the company more than two decades ago, said Wednesday",
-        "published": "2026-08-06T19:55:56+00:00"
-      },
-      {
-        "title": "Why Universal Music Is Struggling to Impress Investors",
-        "url": "https://www.bloomberg.com/news/newsletters/2026-08-06/why-universal-music-is-struggling-to-impress-investors",
-        "source": "Bloomberg Technology",
-        "summary": "In the new AI-era of music, major labels are still scrambling to explain their value",
-        "published": "2026-08-06T19:38:42+00:00"
-      },
-      {
-        "title": "Inside Meta’s $200 Billion Louisiana Data Center Bet",
-        "url": "https://www.bloomberg.com/news/videos/2026-05-18/inside-meta-s-200-billion-louisiana-data-center-bet",
-        "source": "Bloomberg Technology",
-        "summary": "Meta is building one of the largest artificial intelligence data centers in the world, and it's going up in a remote corner of Louisiana. Financed by one of the biggest private capital deals ever assembled, the project in rural Richland Parish will require up to 7.5 gigawatts of power, 5 gigawatts for computing alone, from 10 brand new natural gas plants. In a region desperate for economic revival, the data center has become more than just infrastructure: it’s a bet on the future. (Source: Bl...",
-        "published": "2026-05-18T20:00:06+00:00"
-      },
-      {
-        "title": "India’s Lower House Backs Bill For Merchants to Charge for Online Payments",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-06/india-s-lower-house-backs-bill-for-merchants-to-charge-for-online-payments",
-        "source": "Bloomberg Technology",
-        "summary": "The lower house of India’s Parliament on Thursday approved a legislation that will allow banks and other service providers to levy charges on payments routed through the country’s instant payment network.",
-        "published": "2026-08-06T18:22:45+00:00"
-      },
-      {
-        "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
-        "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
-        "source": "Wired",
-        "summary": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
-        "published": "2026-08-07T01:16:55+00:00"
-      },
-      {
-        "title": "SK Hynix Directs Chip Windfall Into Korean Corporate Bond Market",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-07/sk-hynix-directs-chip-windfall-into-korean-corporate-bond-market",
-        "source": "Bloomberg Technology",
-        "summary": "The AI boom has prompted global tech giants to raise billions issuing bonds, but for at least one major manufacturer the involvement in credit markets doesn’t stop there.",
-        "published": "2026-08-07T01:16:26+00:00"
-      },
-      {
-        "title": "Optical networking firm Lumilens valued at $5.5 billion in latest funding round",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVjlhZ1EwQkxEUGs4N3BzWGVGbk1ncmFIdTE1a1NRSjhqOVQxbXlUbGhYaS1WNWFscjcxOUdpNFMwR2FWVHdmSDNxdUo0cW1oTnpoLU1LYnNNcTJNT21ISUthQXdxRngyQU5aNE1TZ1hsdmhsc3RrYXlweW50RkJGRWJJcDR1RmNVNWZKbkwyUmpTeXBFR2J5a3FrY0ZXSzI3ZGpYVEhLZWZ4NG9EREpXWXl5Qlp5UmxqRWc?oc=5",
+        "title": "Major Wall Street firms targeted in attempted cyberattacks, sources say",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORTh0MGxWX1RCZWdvU0lqaUZVczZzdDJaYlNDVlM5aURvZlVLWUpXaTJPZjRvOXpjQ2c2eUwwbDkzaTZBc3dRaHhyYkViSGdMV25VdWpvWVB6OXphVlZmOXl1OFRXV0pQZ2VxRkZtX1psOTN4UnRQeV9nNllHUzdadnB2Z3M4bTR1NG9HQW1pTVlYNzJBcXJZU0JYcmhEZVNIcWF2RmF6b1pucFFxWFpKWmtMbm10QXd4Vy1CT2V4dWI5NmUycW1fUw?oc=5",
         "source": "Reuters Technology",
-        "summary": "Optical networking firm Lumilens valued at $5.5 billion in latest funding round Reuters",
-        "published": "2026-08-06T13:42:09+00:00"
-      }
-    ],
-    "2026-08-08": [
-      {
-        "title": "The gaming site sponsored by Walmart lays off its editorial staff",
-        "url": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
-        "source": "The Verge",
-        "summary": "Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its \"entire editorial team,\" according to a Friday post from Brandy Berthelson, the site's former editor-in-chief. Other staffers have also posted about being laid off. Restart is operated by Moonrock, a content marketing agency, though its editorial mission […]",
-        "published": "2026-08-07T22:05:08+00:00"
-      },
-      {
-        "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-        "source": "The Verge",
-        "summary": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the company releasing an AI detector that identifies it […]",
-        "published": "2026-08-07T20:01:51+00:00"
-      },
-      {
-        "title": "Watching Roku’s AI channel is like eating from a trough",
-        "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-        "source": "The Verge",
-        "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers access to a constant source of AI-generated content. […]",
-        "published": "2026-08-07T18:59:46+00:00"
-      },
-      {
-        "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-        "source": "The Verge",
-        "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue […]",
-        "published": "2026-08-07T18:40:34+00:00"
-      },
-      {
-        "title": "The only instant cameras worth your money",
-        "url": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
-        "source": "The Verge",
-        "summary": "There’s something magical about using instant cameras that smartphones can’t match. You can capture a moment, print it out, and then give the photo as a gift or hold onto it. Image quality won’t be all that good, but imperfections are part of the allure. We tested instant camera models from popular brands and landed […]",
-        "published": "2026-08-07T18:04:08+00:00"
-      },
-      {
-        "title": "Disney Plus tries a new AI-powered search",
-        "url": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
-        "source": "The Verge",
-        "summary": "Disney is testing a new AI-powered tool for Disney Plus that uses a natural language search, a voice query, or a suggested prompt to create a customized row of show and movie recommendations. Disney Plus, like other streaming services, can recommend shows to watch based on your viewing history. But the company says this new […]",
-        "published": "2026-08-07T17:53:44+00:00"
-      },
-      {
-        "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
-        "url": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
-        "source": "The Verge",
-        "summary": "Microsoft Edge is ending support for the Manifest V2 extensions platform, which will cut off the uBlock Origin adblocker and others like it, just like Google Chrome did earlier this year. According to Microsoft, there are only 58 extensions on the Edge Add-On Store \"with any meaningful usage\" that still use MV2, and only three […]",
-        "published": "2026-08-07T17:43:34+00:00"
-      },
-      {
-        "title": "Grab the entire Lord of the Rings trilogy on 4K Blu-ray for $50",
-        "url": "https://www.theverge.com/gadgets/976792/lord-of-the-rings-trilogy-4k-uhd-blu-ray-deal-sale",
-        "source": "The Verge",
-        "summary": "Looking to spend a weekend inside with a good binge? Gruv has The Lord of the Rings trilogy on 4K Blu-ray marked down to $49.99, just below Amazon’s price and only a little bit higher than the all-time low we usually see around Black Friday. This version includes both the original theatrical releases of all […]",
-        "published": "2026-08-07T16:58:18+00:00"
-      },
-      {
-        "title": "What&#8217;s behind the Google AI shake-up",
-        "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-        "source": "The Verge",
-        "summary": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in […]",
-        "published": "2026-08-07T16:45:14+00:00"
-      },
-      {
-        "title": "Sony could release a cheaper version of its WH-1000XM4 headphones, according to leaks",
-        "url": "https://www.theverge.com/tech/976735/sony-wireless-headphones-anc-wh-1000xm4c-leak",
-        "source": "The Verge",
-        "summary": "Following the release of its premium and very expensive $650 The Collexion headphones in May, Sony could be taking its 1000X line of wireless noise-canceling headphones in a cheaper direction next month. The company is reportedly planning a refreshed and more affordable version of its six-year-old WH-1000XM4 headphones that will feature similar performance and specs […]",
-        "published": "2026-08-07T16:15:46+00:00"
-      },
-      {
-        "title": "OpenAI says it slowed Astra model development over security concerns",
-        "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-        "source": "TechCrunch",
-        "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-        "published": "2026-08-07T22:48:24+00:00"
-      },
-      {
-        "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-        "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-        "source": "TechCrunch",
-        "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-        "published": "2026-08-07T21:30:11+00:00"
-      },
-      {
-        "title": "Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
-        "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
-        "source": "TechCrunch",
-        "summary": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
-        "published": "2026-08-07T21:20:00+00:00"
-      },
-      {
-        "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
-        "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
-        "source": "TechCrunch",
-        "summary": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
-        "published": "2026-08-07T21:00:08+00:00"
-      },
-      {
-        "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-        "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-        "source": "TechCrunch",
-        "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
-        "published": "2026-08-07T16:16:09+00:00"
-      },
-      {
-        "title": "Computer maker Framework notifies ‘all customers’ of a data breach",
-        "url": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
-        "source": "TechCrunch",
-        "summary": "Framework told \"all\" of its customers that hackers accessed their names, email addresses, phone numbers, and physical addresses in a data breach.",
-        "published": "2026-08-07T16:09:04+00:00"
-      },
-      {
-        "title": "Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket",
-        "url": "https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/",
-        "source": "TechCrunch",
-        "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
-        "published": "2026-08-07T15:52:33+00:00"
-      },
-      {
-        "title": "Trump administration has spent nearly $4B to cancel offshore wind farms",
-        "url": "https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/",
-        "source": "TechCrunch",
-        "summary": "The Trump administration has now convinced developers to abandon 12 offshore wind leases. The latest will cost taxpayers $1.2 billion.",
-        "published": "2026-08-07T15:11:03+00:00"
-      },
-      {
-        "title": "Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026",
-        "url": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/",
-        "source": "TechCrunch",
-        "summary": "You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch team helps put it in front of the attendees already in town for Disrupt.",
-        "published": "2026-08-07T14:30:00+00:00"
-      },
-      {
-        "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
-        "url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
-        "source": "TechCrunch",
-        "summary": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured.",
-        "published": "2026-08-07T14:28:31+00:00"
-      },
-      {
-        "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-        "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-        "source": "TechCrunch",
-        "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
-        "published": "2026-08-07T14:22:49+00:00"
-      },
-      {
-        "title": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
-        "url": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
-        "source": "TechCrunch",
-        "summary": "The fab is intended to build chips for data centers that will be run by SpaceX and its xAI subsidiary.",
-        "published": "2026-08-07T14:07:31+00:00"
-      },
-      {
-        "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-        "url": "https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-        "source": "TechCrunch",
-        "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
-        "published": "2026-08-07T12:30:00+00:00"
-      },
-      {
-        "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-        "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-        "source": "TechCrunch",
-        "summary": "Meta's total fine has racked up to $942 million in this case.",
-        "published": "2026-08-07T11:40:37+00:00"
-      },
-      {
-        "title": "The Chinese Philosopher Americans Can’t Stop Fighting About",
-        "url": "https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/",
-        "source": "Wired",
-        "summary": "Yiyang Zhuge was already an intellectual celebrity in China. Her viral interview with Christopher Nolan made her famous in the US—and quickly turned her into a political Rorschach test.",
-        "published": "2026-08-07T18:54:04+00:00"
-      },
-      {
-        "title": "The 7 Best TV Shows to Stream This Month",
-        "url": "https://www.wired.com/story/the-7-best-shows-to-stream-right-now/",
-        "source": "Wired",
-        "summary": "Lanterns, Dark Matter, and the original Star Trek are just a few of the TV shows you should be watching right now.",
-        "published": "2026-08-07T16:48:21+00:00"
-      },
-      {
-        "title": "Zohran Mamdani’s NYC Tech Team Is What DOGE Should Have Been",
-        "url": "https://www.wired.com/story/mamdani-assembles-his-nyc-tech-team/",
-        "source": "Wired",
-        "summary": "The mayor of New York City has assembled a crew of Silicon Valley and United States Digital Service veterans to overhaul city services with better software.",
-        "published": "2026-08-07T15:00:00+00:00"
-      },
-      {
-        "title": "Scientists Used AI to Create 16 New Viruses",
-        "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
-        "source": "Wired",
-        "summary": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.",
-        "published": "2026-08-07T14:13:57+00:00"
-      },
-      {
-        "title": "Our Favorite Fans Are on Sale to Help With Summer Heat Waves (2026)",
-        "url": "https://www.wired.com/story/fan-deals-august-2026/",
-        "source": "Wired",
-        "summary": "We’re still in the dog days of summer—keep your cool with deals on the best fans we’ve tested for on the go and at home.",
-        "published": "2026-08-07T13:56:51+00:00"
-      },
-      {
-        "title": "Best Webcams (2026): My Honest Take After Testing the Best",
-        "url": "https://www.wired.com/story/best-webcams/",
-        "source": "Wired",
-        "summary": "I tested the best webcams across various prices to find the top option. Here’s what I learned.",
-        "published": "2026-08-07T11:32:00+00:00"
-      },
-      {
-        "title": "The 5 Best Laptop Power Banks I've Personally Tested (2026)",
-        "url": "https://www.wired.com/story/best-laptop-power-banks/",
-        "source": "Wired",
-        "summary": "These powerful, high-capacity portable batteries are the best ones when laptop charging is a priority. All have at least 20,000 mAh, enough to charge most laptops twice.",
-        "published": "2026-08-07T11:30:00+00:00"
-      },
-      {
-        "title": "3 Best Cheap Gaming Laptops (2026): Lenovo, MSI, Alienware",
-        "url": "https://www.wired.com/gallery/best-cheap-gaming-laptops/",
-        "source": "Wired",
-        "summary": "As gaming laptop prices continue to rise, it’s increasingly difficult to find affordable options that aren’t terrible. Here are your best options based on performance and cost.",
-        "published": "2026-08-07T11:00:00+00:00"
-      },
-      {
-        "title": "Ranking the Best Smart Glasses: Meta, Viture, & More (2026)",
-        "url": "https://www.wired.com/gallery/best-smart-glasses/",
-        "source": "Wired",
-        "summary": "This burgeoning wearable tech lets you talk to an AI assistant, listen to music, or check out a display screen from the comfort of your very own face.",
-        "published": "2026-08-07T10:30:00+00:00"
-      },
-      {
-        "title": "The ‘Manosphere’ Isn’t a Movement. It’s a Multibillion-Dollar Grievance Industry",
-        "url": "https://www.wired.com/story/the-manosphere-isnt-a-movement-its-a-multibillion-dollar-grievance-industry/",
-        "source": "Wired",
-        "summary": "Many young men are driven to resentment and are financially exploited as influencers sell them classes, pills, and the illusion of clout, a new report reveals.",
-        "published": "2026-08-07T10:30:00+00:00"
-      },
-      {
-        "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
-        "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
-        "source": "Wired",
-        "summary": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
-        "published": "2026-08-07T10:00:00+00:00"
-      },
-      {
-        "title": "Ratio vs. Simply Good: Which Plastic-Free Coffee Maker Is Best?",
-        "url": "https://www.wired.com/story/plastic-free-coffee-makers/",
-        "source": "Wired",
-        "summary": "Microplastics are in everything, especially your coffee. A new generation of plastic-free drip coffee brewers is trying to change this.",
-        "published": "2026-08-07T09:32:00+00:00"
-      },
-      {
-        "title": "Ray-Ban Promo Codes: Save 50% in August 2026",
-        "url": "https://www.wired.com/story/ray-ban-promo-code/",
-        "source": "Wired",
-        "summary": "Upgrade your frames with major savings on classic shapes, custom designs, and prescription lenses using these verified Ray-Ban discounts.",
-        "published": "2026-08-07T05:00:00+00:00"
-      },
-      {
-        "title": "B&H Photo Promo Codes and Deals This August 2026",
-        "url": "https://www.wired.com/story/bh-photo-coupon/",
-        "source": "Wired",
-        "summary": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
-        "published": "2026-08-07T05:00:00+00:00"
-      },
-      {
-        "title": "Surfshark Promo Codes: 87% Off | August 2026",
-        "url": "https://www.wired.com/story/surfshark-coupon/",
-        "source": "Wired",
-        "summary": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
-        "published": "2026-08-07T05:00:00+00:00"
-      },
-      {
-        "title": "Google Workspace Promo Codes: 14% Off for August 2026",
-        "url": "https://www.wired.com/story/google-workspace-promo-code/",
-        "source": "Wired",
-        "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
-        "published": "2026-08-07T05:00:00+00:00"
-      },
-      {
-        "title": "Hotels.com Coupon Codes for August 2026",
-        "url": "https://www.wired.com/story/hotels-com-coupon/",
-        "source": "Wired",
-        "summary": "Unlock significant savings on hotels, resorts, and getaways with our verified Hotels.com promo codes and gift card discounts. Plan your perfect trip today!",
-        "published": "2026-08-07T05:00:00+00:00"
-      },
-      {
-        "title": "Uber Eats Promo Codes: $15 Off│August 2026",
-        "url": "https://www.wired.com/story/uber-eats-promo-code/",
-        "source": "Wired",
-        "summary": "Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.",
-        "published": "2026-08-07T05:00:00+00:00"
-      },
-      {
-        "title": "LG Promo Codes and Coupons for August 2026",
-        "url": "https://www.wired.com/story/lg-promo-code/",
-        "source": "Wired",
-        "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-        "published": "2026-08-07T05:00:00+00:00"
-      },
-      {
-        "title": "Nike Promo Codes and Discounts: 30% for August 2026",
-        "url": "https://www.wired.com/story/nike-promo-code/",
-        "source": "Wired",
-        "summary": "Check out our deals for Nike this August 2026, including 15% off select purchases.",
-        "published": "2026-08-07T05:00:00+00:00"
-      },
-      {
-        "title": "50% Off DoorDash Promo Code | August 2026",
-        "url": "https://www.wired.com/story/doordash-promo-code/",
-        "source": "Wired",
-        "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
-        "published": "2026-08-07T05:00:00+00:00"
-      },
-      {
-        "title": "HP Coupon Codes and Deals August 2026",
-        "url": "https://www.wired.com/story/hp-coupon-code/",
-        "source": "Wired",
-        "summary": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.",
-        "published": "2026-08-07T05:00:00+00:00"
-      },
-      {
-        "title": "Newegg Promo Codes and Coupons for August 2026",
-        "url": "https://www.wired.com/story/newegg-promo-code/",
-        "source": "Wired",
-        "summary": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts.",
-        "published": "2026-08-07T05:00:00+00:00"
-      },
-      {
-        "title": "Dyson Promo Codes: 25% Off in August 2026",
-        "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
-        "source": "Wired",
-        "summary": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
-        "published": "2026-08-07T05:00:00+00:00"
-      },
-      {
-        "title": "K-shaped economy shows up in housing: Luxury sales rise as starter-home buyers struggle",
-        "url": "https://www.cnbc.com/2026/08/07/housing-k-shaped-economy-luxury-starter-homes.html",
-        "source": "CNBC Technology",
-        "summary": "Even as luxury homes fly off the market, sales of starter homes are down despite growing inventory and more price cuts, research shows.",
-        "published": "2026-08-07T12:15:01+00:00"
-      },
-      {
-        "title": "China's EV market is no longer the fastest growing: Southeast Asia scales up",
-        "url": "https://www.cnbc.com/video/2026/08/07/ada-choi-cbre-ev-report.html",
-        "source": "CNBC Technology",
-        "summary": "Ada Choi of CBRE says China has a clear lead in EV adoption, where the EV story has been playing out for several years. She notes that Southeast Asia is now the fastest expanding market, where EV penetration is rising over 10% in key markets, as nearshoring, supply-chain buildup, and local manufacturing ecosystems in places like Thailand and Vietnam accelerate demand.",
-        "published": "2026-08-07T07:03:14+00:00"
-      },
-      {
-        "title": "Meta Ordered to Pay $567 Million Fine by New Mexico Judge",
-        "url": "https://www.nytimes.com/2026/08/06/technology/meta-new-mexico-child-safety.html",
-        "source": "NYT Technology",
-        "summary": "The penalty, imposed by a state judge, is on top of a $375 million fine ordered by a jury that found Meta misled users about the safety of its platforms.",
-        "published": "2026-08-07T09:50:24+00:00"
-      },
-      {
-        "title": "The White House’s Secret A.I. Rules + The State of Model Alignment With METR’s Chris Painter + The Final Hot Mess Express",
-        "url": "https://www.nytimes.com/2026/08/07/podcasts/hardfork-white-house-secret-rules.html",
-        "source": "NYT Technology",
-        "summary": "A few details from the White House’s A.I. plan have leaked to the news media, but the administration has officially communicated almost nothing.",
-        "published": "2026-08-07T14:11:57+00:00"
-      },
-      {
-        "title": "Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks",
-        "url": "https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks",
-        "source": "VentureBeat",
-        "summary": "As enterprise codebases grow, AI agents tasked with analyzing them are buckling under the weight of long-horizon tasks that require multiple interactions and tool calls. Dividing the work among a team of agents seems like the obvious fix, but it introduces a fatal flaw: most multi-agent systems are not designed for agents to coordinate among themselves mid-task and in real time. To solve this, researchers at Coral AI Labs and multiple universities introduced AgentRadio , an asynchronous messa...",
-        "published": "2026-08-07T21:45:39+00:00"
-      },
-      {
-        "title": "Stanford is running 37,000 AI agents as a virtual biotech — and one of its drug designs got independently confirmed by Merck",
-        "url": "https://venturebeat.com/orchestration/stanford-is-running-37-000-ai-agents-as-a-virtual-biotech-and-one-of-its-drug-designs-got-independently-confirmed-by-merck",
-        "source": "VentureBeat",
-        "summary": "For developers, the operating assumption has been one engineer, one agent — the model Claude Code and similar tools. At VB Transform 2026 , James Zou, associate professor of biomedical data science at Stanford University, argued that assumption is about to break: the next frontier isn't a single, more capable agent, it's tens of thousands of them collaborating. For developers and product builders, the most critical takeaway from Zou’s presentation is how these massive systems are orchestrated...",
-        "published": "2026-08-07T17:05:52+00:00"
-      },
-      {
-        "title": "Tencent's Team Memory shares AI agent memory across a team — with no governance yet for when it's wrong",
-        "url": "https://venturebeat.com/data/tencents-team-memory-shares-ai-agent-memory-across-a-team-with-no-governance-yet-for-when-its-wrong",
-        "source": "VentureBeat",
-        "summary": "A VB Pulse survey this June found that 57% of enterprises had traced a confidently wrong agent answer back to missing or inconsistent context — the latest sign of how central context has become to whether AI agents can be trusted to act on their own. Most of the fixes so far have solved a narrower version of that problem: one agent remembering more, in one session. What's been missing is a way for a team of agents to draw on the same context at once, and that gap is where a newer problem is s...",
-        "published": "2026-08-07T16:30:29+00:00"
-      },
-      {
-        "title": "OpenAI Pauses Some Work on New Astra Model on Cyber Concerns",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-07/openai-pauses-some-work-on-new-astra-model-over-cyber-concerns",
-        "source": "Bloomberg Technology",
-        "summary": "OpenAI is pausing some internal work around one of its upcoming artificial intelligence models to implement stricter safeguards after the system was found to be significantly more adept at cybersecurity tasks.",
-        "published": "2026-08-07T17:15:04+00:00"
-      },
-      {
-        "title": "Data Center Firm Switch to File Confidentially for IPO",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-07/data-center-firm-switch-is-said-to-file-confidentially-for-ipo",
-        "source": "Bloomberg Technology",
-        "summary": "Switch Inc. filed confidentially for a US IPO, according to people familiar with the matter, joining its data center peers in tapping demand for exposure to the artificial intelligence theme.",
-        "published": "2026-08-07T21:23:00+00:00"
-      },
-      {
-        "title": "SoftBank-Backed 3D Printer Maker Formlabs Said to Weigh IPO",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-07/softbank-backed-3d-printer-maker-formlabs-is-said-to-weigh-ipo",
-        "source": "Bloomberg Technology",
-        "summary": "Formlabs, a maker of 3D printers, is in early talks with potential advisers for an initial public offering, according to people familiar with the matter.",
-        "published": "2026-08-07T20:23:15+00:00"
-      },
-      {
-        "title": "PGA Tour CEO Exclusive and David Kelly Talks Investing | Bloomberg Money 8/7/2026",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-07/bloomberg-money-8-7-2026-video",
-        "source": "Bloomberg Technology",
-        "summary": "Bloomberg Money takes the pulse of your financial life, powered by the reporting of our global newsroom. Today's guests: Meredith Whitney Advisory Group CEO Meredith Whitney, JPMorgan Asset Management Chief Global Strategist David Kelly, and PGA Tour CEO Brian Rolapp. (Source: Bloomberg)",
-        "published": "2026-08-07T21:03:12+00:00"
-      },
-      {
-        "title": "Spelman President on Federal Funding, AI Popularity",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-07/spelman-president-on-federal-funding-ai-popularity-video",
-        "source": "Bloomberg Technology",
-        "summary": "Spelman College President, Dr. Ayanna Howard, sits down with Romaine Bostick to discuss the impact of federal funding rollbacks for HBCUs, and the impact of AI on college graduates. (Source: Bloomberg)",
-        "published": "2026-08-07T21:02:05+00:00"
-      },
-      {
-        "title": "Akamai CEO on Earnings, Cloud Industry, New Investment",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-07/akamai-ceo-on-earnings-cloud-industry-new-investment-video",
-        "source": "Bloomberg Technology",
-        "summary": "Akamai's shares declined following the release of its second-quarter earnings report, despite the company beating earnings estimates. Tom Leighton, Co-Founder and CEO of Akamai, joined the program to discuss the company's performance and recent developments. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
-        "published": "2026-08-07T20:35:08+00:00"
-      },
-      {
-        "title": "Gen CEO on Earnings, New Cybersecurity Attack Tracker",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-07/gen-ceo-on-earnings-new-cybersecurity-attack-tracker-video",
-        "source": "Bloomberg Technology",
-        "summary": "Gen Digital's shares are reaching their highest levels in nearly a year following an upward revision of its earnings forecast. Vincent Pilette, President and CEO of Gen Digital, expressed strong confidence in sustaining double-digit growth over the coming quarters, driven by increased demand for cybersecurity solutions amid growing concerns related to AI and agentic technologies. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
-        "published": "2026-08-07T20:17:50+00:00"
-      },
-      {
-        "title": "US Sanctions Iranian Crypto Exchanges As Talks Continue",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-07/us-sanctions-iranian-digital-exchanges-as-trump-promises-deal",
-        "source": "Bloomberg Technology",
-        "summary": "The US ramped up economic pressure on Iran with more sanctions targeting digital asset exchanges and networks connected to the country’s shadow-banking system, as Washington seeks leverage amid ongoing negotiations over the war.",
-        "published": "2026-08-07T18:03:49+00:00"
-      },
-      {
-        "title": "JPMorgan Boosts Tech Bond Sales Outlook as AI Debt Binge Expands",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-07/jpmorgan-boosts-tech-bond-sales-outlook-as-ai-debt-binge-expands",
-        "source": "Bloomberg Technology",
-        "summary": "JPMorgan Chase & Co. sees bond sales from technology-related firms exceeding half a trillion dollars this year, as hyperscalers’ appetite to deploy capital for the artificial intelligence buildout shows no sign of abating despite growing investor fatigue.",
-        "published": "2026-08-07T19:03:40+00:00"
-      },
-      {
-        "title": "Jobs Shock Sends Stocks Higher | Open Interest 8/7/2026",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-07/open-interest-8-7-2026-video",
-        "source": "Bloomberg Technology",
-        "summary": "Get a jump start on the US trading day with Dani Burger on \"Bloomberg Open Interest.\" Stocks rise after data showed US employers unexpectedly cut jobs in July. Meanwhile, oil wavers as prospects for a lasting agreement to reopen the Strait of Hormuz remain elusive. National Economic Council Director Kevin Hassett, BlackRock’s Rick Rieder and Julia Coronado of MacroPolicy Perspectives react to the surprising jobs report and what it means for the economy and Fed policy. Tanger CEO Stephen Yalof...",
-        "published": "2026-08-07T17:38:02+00:00"
-      },
-      {
-        "title": "Jobs, AI, and Tech Earnings | Bloomberg Tech 8/07/2026",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-07/bloomberg-tech-8-07-2026-video",
-        "source": "Bloomberg Technology",
-        "summary": "Bloomberg’s Ed Ludlow breaks down the latest jobs data, as US employers unexpectedly cut jobs in July and questions grow over AI’s role in the labor market. Plus, the CEOs of Twilio, Lyft, and DraftKings join to discuss their latest earnings. And, OpenAI’s first consumer device is taking shape, an AI smart speaker designed to look like a doughnut. (Source: Bloomberg)",
-        "published": "2026-08-07T17:05:02+00:00"
-      },
-      {
-        "title": "Why Twilio Sees More AI Upside Ahead",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-07/why-twilio-sees-more-ai-upside-ahead-video",
-        "source": "Bloomberg Technology",
-        "summary": "Twilio shares surged after the cloud communications company beat expectations and delivered record profitability and free cash flow. CEO Khozema Shipchandler joins Bloomberg to explain why AI is still only a modest contributor to revenue today, how Twilio’s global communications infrastructure creates a competitive moat, and why he sees agentic AI as a long-term tailwind for the business. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-        "published": "2026-08-07T17:04:00+00:00"
-      },
-      {
-        "title": "World Cup Gives DraftKings a New Growth Engine",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-07/world-cup-gives-draftkings-a-new-growth-engine-video",
-        "source": "Bloomberg Technology",
-        "summary": "DraftKings shares rallied as investors looked beyond a disappointing quarter to stronger momentum heading into the second half of the year. CEO Jason Robins joins Bloomberg to discuss how the World Cup brought in new and returning customers, why engagement remained strong after the tournament ended, and how DraftKings is approaching the increasingly competitive prediction-markets business. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-        "published": "2026-08-07T17:02:05+00:00"
-      },
-      {
-        "title": "Why Take-Two Won’t Share ‘Grand Theft Auto VI’ Pre-Order Numbers",
-        "url": "https://www.bloomberg.com/news/newsletters/2026-08-07/why-take-two-won-t-share-grand-theft-auto-vi-pre-order-numbers",
-        "source": "Bloomberg Technology",
-        "summary": "CEO Strauss Zelnick says he doesn’t want to mislead shareholders",
-        "published": "2026-08-07T17:00:01+00:00"
-      },
-      {
-        "title": "GTA VI Preorders Are ‘Unprecedented,’ Take-Two Says",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-07/gta-vi-preorders-are-unprecedented-take-two-says-video",
-        "source": "Bloomberg Technology",
-        "summary": "Take-Two shares climbed after quarterly bookings beat estimates, but investors remain focused on the biggest event in the company’s pipeline, the launch of Grand Theft Auto VI. Bloomberg’s Jason Schreier discusses what Take-Two is calling “unprecedented” preorder demand, why expectations for the game are so high, and what to watch for when Rockstar unveils an extended look at GTA VI gameplay ahead of its November release. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-        "published": "2026-08-07T17:00:00+00:00"
-      },
-      {
-        "title": "FCC Removes Nationwide Cap Limiting Local TV Ownership",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-07/fcc-removes-nationwide-cap-limiting-local-tv-ownership-video",
-        "source": "Bloomberg Technology",
-        "summary": "The Federal Communications Commission voted along party lines Thursday to repeal a nationwide audience cap that historically has limited the number of TV-viewing households a single broadcaster could reach. \nFCC Chairman Brendan Carr led the vote overturning two decades of precedent in favor of a new case-by-case approach and teeing up a legal issue that is almost certainly headed for federal appeals court. Bloomberg's Matthew Schettenhelm joined Bloomberg Intelligence to discuss. (Source: Bl...",
-        "published": "2026-08-07T16:55:03+00:00"
-      },
-      {
-        "title": "EU Accelerates Sovereign Satellite Plans Citing Defense Needs",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-07/eu-accelerates-sovereign-satellite-plans-citing-defense-needs",
-        "source": "Bloomberg Technology",
-        "summary": "The European Union said it’s bulking up plans for a sovereign satellite constellation and will accelerate its service launch by a year to 2029, citing a changing security environment that will require greater communication capacity.",
-        "published": "2026-08-07T16:21:54+00:00"
-      },
-      {
-        "title": "Lyft Is Transforming Into a Global Brand, CEO Says",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-07/lyft-is-transforming-into-a-global-brand-ceo-says-video",
-        "source": "Bloomberg Technology",
-        "summary": "Lyft CEO David Risher discusses the company's growth compared to Waymo, its plans to expand internationally and where Lyft is focused internally. He speaks with Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-        "published": "2026-08-07T16:02:42+00:00"
-      },
-      {
-        "title": "QVC Issues $1.2 Billion of 10% Yield Debt as It Exits Bankruptcy",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-07/qvc-issues-1-2-billion-of-10-yield-debt-as-it-exits-bankruptcy",
-        "source": "Bloomberg Technology",
-        "summary": "QVC Group has issued $1.2 billion in so-called take-back debt as part of its emergence from Chapter 11 bankruptcy, with the TV shopping network looking to grow its digital footprint.",
-        "published": "2026-08-07T15:49:12+00:00"
-      },
-      {
-        "title": "Airbnb hits four-year high as investors cheer revenue forecast raise, AI payoff",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUFoX09xbjhoRkMwSkV6RnpjWDJ6V2dSRzBNdzdKWVAtRUpzRjdJUjNkQ2NvVUxEa3A4VFg0WXZKZ0I1cGV6VmdFQTVxU2RNbW82eTkzMWRjX2dwcGdQVlRDd2FsS3lreVJVMkpvVVlkZUZBanI2YlRCeXlFd0oybXVEXzlsNUFfdE94ZC1XZ183UHFvTWJ0LVVwVF9yY1NLZE1TQ0pWU19YRzhGN0wwdXhR?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Airbnb hits four-year high as investors cheer revenue forecast raise, AI payoff Reuters",
-        "published": "2026-08-07T13:55:12+00:00"
-      },
-      {
-        "title": "EXCLUSIVE: Alibaba plans to charge big users of its next open-source AI model, sources say",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbE5xeXpfUzZwaHRia2xzb1A2V3VQU0xPVmpLWG1rckR6dzJYUW51Y1NjdzdtQjUzWlFRdGVJcXE5Y29NZGlKMHdxZDU3dkpHY3BTREx3U0xjVXJ6S1QtSXgwb2xEeHpveEVuVmJIYTRkMDNTNE1lTlM4Wng3V2JMcTNYWExvWnpCZW4xWEdqQ2ktdThBWnJXX0haRW1TRjUwOExfVHBGQ1dHQTNibWNmTjRNQzVMb0ozTGRnMkx6dE9VbXNVR25BYmplc2ZoQQ?oc=5",
-        "source": "Reuters Technology",
-        "summary": "EXCLUSIVE: Alibaba plans to charge big users of its next open-source AI model, sources say Reuters",
-        "published": "2026-08-07T01:04:00+00:00"
-      },
-      {
-        "title": "ByteDance targets mega AI model that could match Mythos scale, FT reports",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY191Y2FEemJtMWI3NGhTYXBXTUEtQnZiWE9lTG1CVWhaWnc3aUVuZC1sTXNkdXc4eFRtSExvaS1UaUFqYi10X1VLZzN3cXF0N0JXeHYtY1p0QXJQLVlCTlV5LVpPYjQzUGpmbTg2ZzI4a29MMi1FeWl0LVlmRW9ObkpHVlBCNjUtRHljZWg5NzVTU0l5bURsSFBvWDlnWjNja2FQbWVESGZha29OQjJmZC1YRVczdw?oc=5",
-        "source": "Reuters Technology",
-        "summary": "ByteDance targets mega AI model that could match Mythos scale, FT reports Reuters",
-        "published": "2026-08-07T04:43:00+00:00"
-      },
-      {
-        "title": "Who is liable when AI goes rogue? Lawyers see new risks",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm5IRWdwV3E1N1BVWXFDY21mTGJoMTg1TXB3VXFyYXRodDYycGNpZkhxOVp5SGF0NzkwVFlXaHpER2Mwdk1IcU5OaENIMV9MTkZJZFNTU0E5ODV6a1BqS2VacDVZeWhtbWRnaHpIVVpMOGRqR2l4bHNpYW8wZmxvcm90SGxNelNmUmVNS3hSbHhTY1RPem5GTmd0NF91bnNw?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Who is liable when AI goes rogue? Lawyers see new risks Reuters",
-        "published": "2026-08-07T10:19:08+00:00"
-      },
-      {
-        "title": "Trump says Congress wants to regulate AI industry 'out of business'",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaVE4dmstNmk3N1JPOUFaN1kyQlJEbUNjUTdadXBXNGRyNzRvaWpNNXd2VDFQdU5JQ3JmejhVZHlKYU1KeXFvQnVFZHhpVGJkTGR2NjZWakJmeUl6TVRlTVNOWEROdF8yd0ZQb3FWTUJhWUxkT2dIYXo1TGJkMEFuYkNSWXZjbk9MNGJmNHdjaDBtOVRqb2F1SVpEYUk2Y0tMR2RqcW5VQlRTSVBlOTZCMC1B?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Trump says Congress wants to regulate AI industry 'out of business' Reuters",
-        "published": "2026-08-07T18:35:44+00:00"
-      },
-      {
-        "title": "Firmus nearly doubles valuation to over $10.5 billion in Nvidia-backed fundraise",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWFNzZU1VX09CY1g1VGo1a0E5eFI1b08waGZBR2R0dkl1TVpGc2RSVVJzSU55NzUxR000Uy1uOGpTejhyUWVENVBoTl93S1hldHlYLXNiZkJtWlMzZDRuRFZWaVg2WFFCb1Q2V2s3UzljczN3Y2ZtS1hTMmVRMXhCd0RGSkpYRHZVRXRlWjI0dUxIVWlFRDBNY2dydEEwWmNURmNENHhjdTJXak54SHB2ZnJGQzFTcHBkcWRsUEJQOXM?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Firmus nearly doubles valuation to over $10.5 billion in Nvidia-backed fundraise Reuters",
-        "published": "2026-08-07T02:29:00+00:00"
-      },
-      {
-        "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-        "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-        "source": "TechCrunch",
-        "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
-        "published": "2026-08-08T21:24:02+00:00"
-      },
-      {
-        "title": "OpenAI acquires presentation startup NextSlide",
-        "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-        "source": "TechCrunch",
-        "summary": "NextSlide says its team members are now working on ChatGPT.",
-        "published": "2026-08-08T19:41:13+00:00"
-      },
-      {
-        "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
-        "url": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
-        "source": "TechCrunch",
-        "summary": "X is winding down its existing Revenue Sharing program.",
-        "published": "2026-08-08T16:34:22+00:00"
-      },
-      {
-        "title": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
-        "url": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
-        "source": "TechCrunch",
-        "summary": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size.",
-        "published": "2026-08-08T16:00:00+00:00"
-      },
-      {
-        "title": "Google’s top hacker hunter explains why hacking groups get codenames",
-        "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
-        "source": "TechCrunch",
-        "summary": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codenames.",
-        "published": "2026-08-08T15:00:00+00:00"
-      },
-      {
-        "title": "An Amazon data center could have the worst polluting power plant in the country",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-        "source": "The Verge",
-        "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment from Amazon and, […]",
-        "published": "2026-08-08T17:53:34+00:00"
-      },
-      {
-        "title": "Buc-ee’s dodges John Oliver to sue another small business",
-        "url": "https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart",
-        "source": "The Verge",
-        "summary": "Buc-ee's became something of a viral sensation during the World Cup, but it has a troubling history of suing small gas stations and convenience stores. On a recent episode of Last Week Tonight, John Oliver literally begged the company to sue him for selling merch featuring his squirrel mascot, Mr. Nutterbutter, with branding that reads […]",
-        "published": "2026-08-08T15:47:30+00:00"
-      },
-      {
-        "title": "Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro",
-        "url": "https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview",
-        "source": "The Verge",
-        "summary": "Tom Vek burst onto the scene in 2005 with his album We Have Sound, which garnered a solid 7.6 from the tastemakers of the day over at Pitchfork. His undeniably catchy brand of dancy indietronica landed him an appearance on The OC and placement on the Grand Theft Auto IV soundtrack. His follow-up, Leisure Seizure, […]",
-        "published": "2026-08-08T15:00:00+00:00"
-      },
-      {
-        "title": "Is this $450 laptop from an unknown brand too good to be true?",
-        "url": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
-        "source": "The Verge",
-        "summary": "Finding a good laptop under $500 was hard enough before RAMageddon. They nearly always had cheap hardware and underpowered, often outdated chips. That's what made the MacBook Neo so disruptive: It offered great build quality and good-enough performance starting at $599. Windows laptops couldn't touch it. Even though it's gone up to $699, it's still […]",
-        "published": "2026-08-08T12:00:00+00:00"
-      },
-      {
-        "title": "My favorite feel-good show is back",
-        "url": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
-        "source": "The Verge",
-        "summary": "Hi, friends! Welcome to Installer No. 139, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, barbecue sauce, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Johnny Knoxville and Google Zero and the history of the bicycle, […]",
-        "published": "2026-08-08T12:00:00+00:00"
-      },
-      {
-        "title": "Nitecore’s latest power bank is the lightest and most compact yet",
-        "url": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
-        "source": "The Verge",
-        "summary": "There's two things you should know about me, your intrepid reviewer: I hate the feature creep associated with modern power banks, and I love shaving grams off the gear I carry when backpacking, bikepacking, and trail running. So imagine my delight when Nitecore released a new generation of its ultralight NB10000 battery. After a few […]",
-        "published": "2026-08-08T07:00:00+00:00"
-      },
-      {
-        "title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbXVFWnRmd080YXVJQl95andMTEs4bzBySU9OUzFROUdVcVU5UUtjMFF1LVY3WWNEMTZ3di1hM203OUhjQ2d6MFF0NlNWcUdJUndQZXlBWmRXZVhXc2RnSVdORFdmVEZFTWFkNnVVSjVOZFV4NDFkcVo3Z1VramQ5NUZPSkhJclk4R2tuVEtVRzJRNkVmYXhSeTk5NmJ5d0JIRkdSQ1RVR1NnOG5hdmJON0Zlb2t4QV82SWhvZkhWbS1PZw?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Apple says Mac users in China can connect to Alibaba's Qwen AI service Reuters",
-        "published": "2026-08-08T12:35:45+00:00"
-      },
-      {
-        "title": "Breakingviews - Corporate AI is still chasing theoretical benefits",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd0xaVUgwZG03bExtR1JBU1BiTDl3bl9xd1RjcUpESkc5MFkyVEdkT3F5eXhIRjdBZ3d5UFJmZlZiS1N2dy1uMEhPRDNGRm1sRmF2VU05UTRYUTdlaFZCRGZiay1PV1RNTTFWRlZyYmotWTdyMEJ1czFab1ZUOTFSV3NxUTJGYkRPYWZoZmg4bjFNMkV2TVdRMjQ2TVYzaHpDSE9RY3BWQ1loVlNEdXo0WA?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Breakingviews - Corporate AI is still chasing theoretical benefits Reuters",
-        "published": "2026-08-07T15:58:57+00:00"
-      },
-      {
-        "title": "Battery technology firm Sila receives $1.4 billion Pentagon loan commitment",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb2N5NFc0bmFRVVg1d2duUTVhbFphZWQ0QTIxcVJqcjFOTDFQYzBoeUo3dDdkNTJZS0luc2k3WXFYV0c3dUJKSHpEcHJVajJsS1BfNjJFQWRkTi1WRU5TUnNDbWlwTlVMc1ZVd1ZqdzNPVjlrUV80TEVzdTF0M3ZLcHFPUmM2X3VILWk4b0lueUxWTlA4V1RDS3U1aGViTDNQOXNiY1hULU9ZY3d2akFsRzBhdFd5Y3M4a1I3Qw?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Battery technology firm Sila receives $1.4 billion Pentagon loan commitment Reuters",
-        "published": "2026-08-07T21:58:02+00:00"
-      },
-      {
-        "title": "Citadel funds gain in July as many hedge funds nurse AI selloff related losses",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMHhpSGlESVJCQlFvN3kxZXlKcFVVdk1nV05nallYenVpVS1sc0hGcDJzV183RHFQampGM3FIUzlCVl9NYU9Yb1N4WkhZcGZGYjhaZU5fV0dORjVPRWJuWEFaZTBBWUZRdW1pV0NZOVY3Z3NNdWE5V3V2cHZPYlhPazV0c2p3emlhelNnQnBocFF2dTFpRTQtaHNNcmtCaGVmdjRITXJIYTBocG1QTl9qdm5aam1mcklXeFE?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Citadel funds gain in July as many hedge funds nurse AI selloff related losses Reuters",
-        "published": "2026-08-05T13:04:53+00:00"
-      },
-      {
-        "title": "Breakingviews - Music giants’ AI bets fail to hit the right notes",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVDgxSXIzLXlJaldIUy1pQURYNDdiSGZGRy1aaGtWZkh2WDIteDJsTXZMc1YycUxNeU00bzlUVHNMUUNYS2otR3NpRFRINFdDeW5WUUxtWldaNi15aFBudm5TSVlJQ3JHcnJoa3c2dGNCeFc0OHpwSVVKZWdmTEN4b1dnRUtETUJVNHIxWjhJN0FUTVFQanZLU0ZaVE1RYlNSOEdJTw?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Breakingviews - Music giants’ AI bets fail to hit the right notes Reuters",
-        "published": "2026-08-05T12:36:29+00:00"
-      },
-      {
-        "title": "Singapore to Ensure AI Helps Workers Worried About Jobs, PM Says",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-08/singapore-to-ensure-ai-helps-workers-worried-about-jobs-pm-says",
-        "source": "Bloomberg Technology",
-        "summary": "Singapore is benefitting from the rapid growth of artificial intelligence and the government is making use of the technology to ensure higher productivity and better jobs for workers who are worried about their livelihoods, Prime Minister Lawrence Wong said.",
-        "published": "2026-08-08T11:13:30+00:00"
-      },
-      {
-        "title": "SK Hynix Said to Mull Options for $3 Billion Chongqing Plant",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-07/sk-hynix-is-said-to-mull-options-for-3-billion-chongqing-assets",
-        "source": "Bloomberg Technology",
-        "summary": "South Korea’s SK Hynix Inc. is considering options for its Chongqing, China-based facility, including bringing in an investor to help accelerate growth, according to people with knowledge of the matter.",
-        "published": "2026-08-07T13:36:44+00:00"
+        "summary": "Major Wall Street firms targeted in attempted cyberattacks, sources say Reuters",
+        "published": "2026-08-05T21:51:04+00:00"
       }
     ]
   }
