@@ -1393,529 +1393,36 @@
     "22a5e1b89505e94298acd59f769b41b1": "2026-08-21T23:48:01.462535",
     "b008800c4171381377169984a75a90d2": "2026-08-21T23:48:01.471825",
     "55689353dbe93e33d47aecd4ca920d35": "2026-08-21T23:48:01.481981",
-    "4a8342297331b69a3144fbc01b203b70": "2026-08-21T23:48:01.493338"
+    "4a8342297331b69a3144fbc01b203b70": "2026-08-21T23:48:01.493338",
+    "5e050820a4e7df12ac9877cdf8e99be3": "2026-08-22T23:40:30.118093",
+    "61851d0e4abbbf60c3458ed0b14d67ac": "2026-08-22T23:40:30.118118",
+    "573c5961dd88431aab985ee9639c573e": "2026-08-22T23:40:30.118129",
+    "9a8065f0fb41ff5b01eb4481bec9fe43": "2026-08-22T23:40:30.118137",
+    "f11860d53fccf024557d92e39ac3d414": "2026-08-22T23:40:30.118144",
+    "480d7ab40672be7790e59678fa0dc20a": "2026-08-22T23:40:30.119399",
+    "05cdf650ffdb6c9d273a9ef3e9cddde7": "2026-08-22T23:40:30.120273",
+    "f264c057671cd86d4444910e93407ee2": "2026-08-22T23:40:30.121773",
+    "39119bad22dbbf0e98d96157ef02ef70": "2026-08-22T23:40:30.122586",
+    "796f7a9c48e9a9c827ae0aeb2eaff187": "2026-08-22T23:40:30.123360",
+    "c25ecbf51b53aad7781dbdd72fcdcca1": "2026-08-22T23:40:30.124078",
+    "8bda54eb52dfe3c1e02ba359f101e232": "2026-08-22T23:40:30.124880",
+    "8014b9bf1f1852249ef2111ba7bc1b1c": "2026-08-22T23:40:30.125808",
+    "9596b975c1976c7e8178c7caad28e56b": "2026-08-22T23:40:30.126675",
+    "e2c8ceb7ee36a288399a22b9df497500": "2026-08-22T23:40:30.129570",
+    "4186bc7916d6dd5096f7e54c1715915c": "2026-08-22T23:40:30.131921",
+    "2a330871fda8439c320e421151ed9d49": "2026-08-22T23:40:30.134814",
+    "37952803003b6c6c9e40297d415c0138": "2026-08-22T23:40:30.138262",
+    "5c1f5972eaa2d93e9a4472249206aa32": "2026-08-22T23:40:30.140999",
+    "a25e03574ef2bd6e84d315cde7a1c022": "2026-08-22T23:40:30.143982",
+    "accc721bdf701aeb847ae3e205cf2329": "2026-08-22T23:40:30.147056",
+    "fbd232fa36c1b03c78ed5e99c72ce690": "2026-08-22T23:40:30.150463",
+    "a95f994b59f4ffa949ce1a4b41d94fa8": "2026-08-22T23:40:30.154110",
+    "3d3e49074ce0ae48336766d2726b2670": "2026-08-22T23:40:30.157684",
+    "cc86781983e929e1f0e625ac2b8a9f4f": "2026-08-22T23:40:30.161104",
+    "d896fbb3e5b27426299f40d89c587496": "2026-08-22T23:40:30.164503",
+    "23c9edc58ffd35372bcc197100f1e40f": "2026-08-22T23:40:30.167138"
   },
   "today_articles": {
-    "2026-08-20": [
-      {
-        "title": "Learn what VCs actually want, from a founder who’s raised $1B",
-        "url": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
-        "source": "TechCrunch",
-        "summary": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders leverage, valuation, and even a term sheet. In this episode of Build Mode, host Isabelle Johannessen sits down with Sasha Orloff, founder and CEO of Puzzle […]",
-        "published": "2026-08-20T23:32:27+00:00"
-      },
-      {
-        "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-        "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-        "source": "TechCrunch",
-        "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
-        "published": "2026-08-20T22:36:37+00:00"
-      },
-      {
-        "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-        "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-        "source": "TechCrunch",
-        "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
-        "published": "2026-08-20T22:09:51+00:00"
-      },
-      {
-        "title": "The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss",
-        "url": "https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/",
-        "source": "TechCrunch",
-        "summary": "An effort to transform the world of sports through steroid use doesn't exactly seem to be bearing financial fruit.",
-        "published": "2026-08-20T21:08:34+00:00"
-      },
-      {
-        "title": "OK, can we actually cool data centers with our pee?",
-        "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-        "source": "TechCrunch",
-        "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
-        "published": "2026-08-20T20:53:13+00:00"
-      },
-      {
-        "title": "Someone targeted security researchers using a fake crypto conference as a lure",
-        "url": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/",
-        "source": "TechCrunch",
-        "summary": "A hacker pretending to work for a leading cryptocurrency news website targeted several cybersecurity professionals using Google Docs as a way to deliver malware.",
-        "published": "2026-08-20T20:00:00+00:00"
-      },
-      {
-        "title": "Mark buys a castle",
-        "url": "https://techcrunch.com/2026/08/20/mark-buys-a-castle/",
-        "source": "TechCrunch",
-        "summary": "Mark Zuckerberg just bought a cozy abode somewhat close to Meta’s international headquarters in Ireland.",
-        "published": "2026-08-20T19:55:40+00:00"
-      },
-      {
-        "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-        "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-        "source": "TechCrunch",
-        "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
-        "published": "2026-08-20T19:18:21+00:00"
-      },
-      {
-        "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-        "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
-        "source": "TechCrunch",
-        "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
-        "published": "2026-08-20T19:15:05+00:00"
-      },
-      {
-        "title": "Castelion hits $13B valuation to mass-produce hypersonic missiles",
-        "url": "https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/",
-        "source": "TechCrunch",
-        "summary": "Founded in 2022, Castelion set out to manufacture hypersonic weapon systems at a lower cost and at faster speeds than traditional defense primes.",
-        "published": "2026-08-20T19:01:41+00:00"
-      },
-      {
-        "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-        "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-        "source": "TechCrunch",
-        "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-        "published": "2026-08-20T18:20:35+00:00"
-      },
-      {
-        "title": "Grok keeps sending gibberish responses to users",
-        "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-        "source": "TechCrunch",
-        "summary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
-        "published": "2026-08-20T17:32:16+00:00"
-      },
-      {
-        "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-        "url": "https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-        "source": "TechCrunch",
-        "summary": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt this year.",
-        "published": "2026-08-20T17:27:47+00:00"
-      },
-      {
-        "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
-        "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-        "source": "TechCrunch",
-        "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
-        "published": "2026-08-20T17:18:58+00:00"
-      },
-      {
-        "title": "Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner",
-        "url": "https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/",
-        "source": "TechCrunch",
-        "summary": "At Mayfield, Singh will focus on semiconductor, cybersecurity, and physical AI investments.",
-        "published": "2026-08-20T17:04:53+00:00"
-      },
-      {
-        "title": "Ramp launches its own AI model router, called Router",
-        "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-        "source": "TechCrunch",
-        "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
-        "published": "2026-08-20T16:46:00+00:00"
-      },
-      {
-        "title": "Senators demand answers from TikTok over experiment that disabled safeguards",
-        "url": "https://techcrunch.com/2026/08/20/senators-demand-answers-from-tiktok-over-experiment-that-disabled-safeguards/",
-        "source": "TechCrunch",
-        "summary": "The safeguard was designed to prevent users from being overwhelmed by harmful content, but TikTok wanted to determine whether it made the app less engaging.",
-        "published": "2026-08-20T16:22:19+00:00"
-      },
-      {
-        "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-        "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-        "source": "TechCrunch",
-        "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
-        "published": "2026-08-20T16:07:26+00:00"
-      },
-      {
-        "title": "The 2026 Startup Battlefield 200 is here — see who made the cut",
-        "url": "https://techcrunch.com/2026/08/20/the-2026-startup-battlefield-200-is-here-see-who-made-the-cut/",
-        "source": "TechCrunch",
-        "summary": "We’re thrilled to unveil the 2026 Startup Battlefield 200, our annual handpicked list of the 200 most promising early-stage startups from around the world.",
-        "published": "2026-08-20T16:00:00+00:00"
-      },
-      {
-        "title": "Patreon launches 30 new creator features, including short-form Clips and revamped discovery",
-        "url": "https://techcrunch.com/2026/08/20/patreon-launches-30-new-creator-features-including-short-form-clips-and-revamped-discovery/",
-        "source": "TechCrunch",
-        "summary": "Patreon is overhauling how creators get discovered, adding short-form Clips, topic-based communities, and a revamped recommendation system designed to give smaller creators more visibility.",
-        "published": "2026-08-20T16:00:00+00:00"
-      },
-      {
-        "title": "Watch CNBC's full interview with Morgan Stanley's Lauren Hochfelder",
-        "url": "https://www.cnbc.com/video/2026/08/20/watch-cnbcs-full-interview-with-morgan-stanleys-lauren-hochfelder.html",
-        "source": "CNBC Technology",
-        "summary": "Lauren Hochfelder, head of global real assets at Morgan Stanley, joins 'Squawk on the Street' to discuss the state of the real estate market, the AI industry's increasing effect on real estate and more.",
-        "published": "2026-08-20T16:05:33+00:00"
-      },
-      {
-        "title": "Industrial real estate is a side-door way into AI, says Morgan Stanley’s Lauren Hochfelder",
-        "url": "https://www.cnbc.com/video/2026/08/20/industrial-real-estate-is-a-side-door-way-into-ai-says-morgan-stanleys-lauren-hochfelder.html",
-        "source": "CNBC Technology",
-        "summary": "Lauren Hochfelder, head of global real assets at Morgan Stanley, joins 'Squawk on the Street' to discuss the state of the real estate market, the AI industry's increasing effect on real estate and more.",
-        "published": "2026-08-20T16:05:29+00:00"
-      },
-      {
-        "title": "Where commercial real estate demand is the highest, according to new data",
-        "url": "https://www.cnbc.com/2026/08/20/commercial-real-estate-demand-nar-data.html",
-        "source": "CNBC Technology",
-        "summary": "The National Association of Realtors has released a new index that uses factors in local economies to indicate future demand.",
-        "published": "2026-08-20T14:21:00+00:00"
-      },
-      {
-        "title": "One in five enterprises can't stop a runaway AI agent's spending in real time",
-        "url": "https://venturebeat.com/orchestration/one-in-five-enterprises-cant-stop-a-runaway-ai-agents-spending-in-real-time",
-        "source": "VentureBeat",
-        "summary": "Enterprise AI teams have stopped betting on a single orchestration platform. The median enterprise now runs three at once — not by accident, but because none of them fully trusts a single vendor to run the show, according to VB Pulse data . This is not just to avoid vendor lock-in and retain flexibility (although that’s a big part of it). There’s still a lot of uncertainty, even distrust, in vendors’ security and permissioning capabilities. Enterprises want the ability to impose their own. Mi...",
-        "published": "2026-08-20T19:57:01+00:00"
-      },
-      {
-        "title": "NanoClaw comes to Slack, letting you create persistent AI agent teams and colleagues from a single message",
-        "url": "https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message",
-        "source": "VentureBeat",
-        "summary": "Adding an AI agent to Slack sounds appealing to many enterprises — but, as VentureBeat has experienced ourselves first hand — the reality is often far more complex and clunkier than it first seems. Now NanoCo ., the company behind the hit open source, enterprise-friendly, autonomous AI agent harness NanoClaw (a more sandboxed, lower code version of OpenClaw), is hoping to make it just as easy as typing a Slack message. To go one step further: the company's new NanoClaw Slack integration lets ...",
-        "published": "2026-08-20T17:25:44+00:00"
-      },
-      {
-        "title": "Serval’s super agent Catalyst creates roving background agents to identify and fix IT issues before they’re ticketed",
-        "url": "https://venturebeat.com/infrastructure/servals-super-agent-catalyst-creates-roving-background-agents-to-identify-and-fix-it-issues-before-theyre-ticketed",
-        "source": "VentureBeat",
-        "summary": "Serval is making Catalyst , its AI agent for building enterprise automations, generally available Thursday and enabling it by default for customers — allowing teams of AI agents to decide what should be automated and then build the automation itself. Catalyst sits above Serval’s AI-native service management platform as an admin-facing “super agent.” It can inspect ticket history, standard operating procedures or natural-language instructions, identify recurring work, and draft the workflows, ...",
-        "published": "2026-08-20T14:42:07+00:00"
-      },
-      {
-        "title": "TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% cheaper task completion than Claude Managed Agents",
-        "url": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents",
-        "source": "VentureBeat",
-        "summary": "Another day, another new AI agent harness is released. Only this time, it's one that aims to solve a growing enterprise problem as AI agents proliferate: enabling greater developer control of agents and tools, while reducing cost. TrueFoundry , a San Francisco B2B machine learning startup co-founded in 2021 by former Meta engineers, has released its own custom TrueForge harness under the permissive MIT License on Github . Thus, it can be used with any of a developer (or their parent enterpris...",
-        "published": "2026-08-19T23:50:00+00:00"
-      },
-      {
-        "title": "Google Discover is getting an AI chatbot-tuned feed",
-        "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-        "source": "The Verge",
-        "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the option within the three-dot menu on your […]",
-        "published": "2026-08-20T21:50:22+00:00"
-      },
-      {
-        "title": "Riot is ending development on its League of Legends fighting game",
-        "url": "https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development",
-        "source": "The Verge",
-        "summary": "Riot Games is already winding down work on 2XKO, the free-to-play League of Legends fighting game, less than a year after its initial launch. Riot says \"active development\" will conclude at the end of 2026 because the company hasn't \"seen enough players stick with the game to get to a path toward sustainability.\" Servers will […]",
-        "published": "2026-08-20T19:59:09+00:00"
-      },
-      {
-        "title": "The Genesis GV90 blows the bloody doors off what’s possible in EV design",
-        "url": "https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor",
-        "source": "The Verge",
-        "summary": "Genesis, Hyundai's luxury brand, just revealed its first full-size, three-row electric SUV for the US market, the GV90. And arguably it has some of the wildest designs and features in the auto market today. Right off the bat, the coach-style doors signal that things aren't what they seem with the GV90. When the front and […]",
-        "published": "2026-08-20T19:52:57+00:00"
-      },
-      {
-        "title": "Mark Zuckerberg bought an Irish castle",
-        "url": "https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland",
-        "source": "The Verge",
-        "summary": "Meta CEO Mark Zuckerberg now owns an actual castle. Zuckerberg and his wife Priscilla Chan bought Strancally Castle and its 440-acre estate in Ireland \"several weeks ago,\" according to The Irish Times. While the exact price of the purchase is unclear, the family could have paid \"anywhere between €20 million and €30 million\" for the […]",
-        "published": "2026-08-20T18:50:14+00:00"
-      },
-      {
-        "title": "Australia says Roblox hasn&#8217;t fixed its child predator problem",
-        "url": "https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety",
-        "source": "The Verge",
-        "summary": "Roblox is promising more changes to its child safety features following testing from Australia's online safety regulator, eSafety. eSafety has been looking into concerns that the company hasn't been in compliance with Australia's Online Safety Act, including \"allegedly failing to have sufficient measures in place to prevent contact between adults and children under 16.\" While […]",
-        "published": "2026-08-20T17:42:34+00:00"
-      },
-      {
-        "title": "FCC officially decides gigabit speeds are too good for you",
-        "url": "https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal",
-        "source": "The Verge",
-        "summary": "Another day, another sad thing to report about our compromised Federal Communications Commission. Chairman Brendan Carr has followed through on his 2025 threat to kill long-term broadband speed goals established during the Biden administration, which aimed for eventually getting us to gigabit download and half-gigabit upload speeds. How dare we dream of spreading great download […]",
-        "published": "2026-08-20T17:38:30+00:00"
-      },
-      {
-        "title": "Framework says it&#8217;s addressing a BIOS update that bricked some of its older laptops",
-        "url": "https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty",
-        "source": "The Verge",
-        "summary": "Some Framework Laptop 13 owners with last-gen AMD chips have reported that a recent BIOS update is bricking their laptops on both Windows and Linux. The BIOS update causing this issue is version 3.20 for Ryzen 7040-series mainboards, released back in July and still available on Framework's site at the time of this writing. Upon […]",
-        "published": "2026-08-20T17:16:02+00:00"
-      },
-      {
-        "title": "It’s Greg Brockman’s OpenAI now",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-        "source": "The Verge",
-        "summary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives […]",
-        "published": "2026-08-20T15:45:55+00:00"
-      },
-      {
-        "title": "This app makes the Pixel 11&#8217;s HiLight feature actually useful",
-        "url": "https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful",
-        "source": "The Verge",
-        "summary": "Google's new HiLight notification LED on the Pixel 11 Pro is nearly useless. Out of the box, the only two things it can glow for are when the phone is face down and you're interacting with Gemini, or when you get a call from a favorite contact. And even then, it can only glow one […]",
-        "published": "2026-08-20T15:30:34+00:00"
-      },
-      {
-        "title": "LG’s 65-inch B6 OLED is $300 lower than its previous best price",
-        "url": "https://www.theverge.com/gadgets/982695/lg-b6-65-inch-oled-doordash-digital-game-deal-sale",
-        "source": "The Verge",
-        "summary": "Best Buy has a whole host of LG products discounted for today’s Deal of the Day festivities, including laptops, home theater gear, and more. One that stood out is a price cut on LG’s 65-inch B6 OLED TV that’s deeper than I’ve seen before. At Best Buy, it’s $1,399.99 (originally $1,999.99) for the rest of […]",
-        "published": "2026-08-20T15:08:38+00:00"
-      },
-      {
-        "title": "New Jersey Teenager Drops Bellwether Social Media Addiction Lawsuit",
-        "url": "https://www.nytimes.com/2026/08/20/technology/social-media-addiction-lawsuit-dropped.html",
-        "source": "NYT Technology",
-        "summary": "The case was the third of nine major personal injury cases that could expose Meta, YouTube, Snap and TikTok to financial damages and force them to change the designs of their platforms.",
-        "published": "2026-08-20T22:46:15+00:00"
-      },
-      {
-        "title": "Two Binance Employees Detained in the U.A.E. Amid Police Inquiries",
-        "url": "https://www.nytimes.com/2026/08/20/technology/two-binance-employees-detained-uae.html",
-        "source": "NYT Technology",
-        "summary": "The detentions of the workers, who have been released, are a sign of legal pressure that the world’s largest crypto exchange faces in the Emirates, which is home to its main regulator.",
-        "published": "2026-08-20T19:57:52+00:00"
-      },
-      {
-        "title": "Stocks Fall as Bond Yields Rise | The Close 8/20/2026",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-20/the-close-8-20-2026-video",
-        "source": "Bloomberg Technology",
-        "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Rockefeller Global Family Office CIO Jimmy Chang, Agility Robotics CEO Peggy Johnson, UBS Equity Research Analyst Michael Lasser, LVMH North America Former Chairman Pauline Brown, Laffer Tengler Investments CEO & CIO Nancy Tengler, Telsey Advisory Group CEO & Chief Research Officer Dana Telsey, J&J Snack Foods CEO Dan Fac...",
-        "published": "2026-08-20T22:11:30+00:00"
-      },
-      {
-        "title": "Maisonette Tackles \"Untapped\" Retail Market",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-20/maisonette-tackles-untapped-retail-market-video",
-        "source": "Bloomberg Technology",
-        "summary": "The curated online marketplace Maisonette is expanding it to what it describes as an untapped market by launching a new platform targeted to tweens and teens. President AJ Nicholas saying the company is looking to tap into the demographic of kids that \"start to exert some independence and autonomy and really have a say over their style.\" As Maisonette has been around for 9 years, Nicholas says its important that the company grows organically as its customers' families grow up as well, allowin...",
-        "published": "2026-08-20T22:10:53+00:00"
-      },
-      {
-        "title": "Open Machine CEO on Anthropic, OpenAI IPO Potential",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-20/open-machine-ceo-on-anthropic-openai-ipo-potential-video",
-        "source": "Bloomberg Technology",
-        "summary": "Allie Miller, CEO of Open Machine, shared insights on how top technology companies are managing their AI investments to balance cost and return. She explained that frontier companies typically divide their AI efforts into two groups: one focused on raising the baseline capabilities across departments like finance, legal, marketing, and sales with modest subscription-level spending, and a second, smaller 'frontier' team that operates with significantly higher budgets and greater experimentatio...",
-        "published": "2026-08-20T21:49:52+00:00"
-      },
-      {
-        "title": "Bonds Fall on Doubts Over Treasury's Plan | Real Yield 8/20/2026",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-20/real-yield-8-20-2026-video",
-        "source": "Bloomberg Technology",
-        "summary": "\"Bloomberg Real Yield\" highlights the market-moving news you need to know. Today's guests: Ian Lyngen, Head of US Rates Strategy at BMO Capital Markets, Stephanie Roth, Chief Economist at Wolfe Research, Meghan Robson, Head of US Credit Strategy at BNP Paribas, and Milwood Hobbs, Deputy CIO of Oaktree's Strategic Credit Platform. (Source: Bloomberg)",
-        "published": "2026-08-20T21:02:41+00:00"
-      },
-      {
-        "title": "Agility Robotics CEO on Plans To Go Public, China Rivals",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-20/agility-robotics-ceo-on-plans-to-go-public-china-rivals-video",
-        "source": "Bloomberg Technology",
-        "summary": "Peggy Johnson, CEO of Agility Robotics, discussed the company's upcoming public debut, positioning it as the only pure-play US public company focused on humanoid robots with proven commercial applications. Agility Robotics is valued at a $2.5 billion pre-money valuation and expects to go public in the fall. She speaks with Romaine Bostick & Sally Bakewell on \"The Close.\" (Source: Bloomberg)",
-        "published": "2026-08-20T20:56:42+00:00"
-      },
-      {
-        "title": "ChatGPT Can Now Control iMessage, Potentially Raising Apple Privacy Concerns",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-20/chatgpt-can-now-control-imessage-potentially-raising-apple-privacy-concerns",
-        "source": "Bloomberg Technology",
-        "summary": "OpenAI rolled out support on Thursday for controlling Apple Inc.’s iMessage service via ChatGPT, a move with the potential to raise privacy concerns for the iPhone maker.",
-        "published": "2026-08-20T20:56:33+00:00"
-      },
-      {
-        "title": "Apple’s AirPods Should Avoid Meta’s Mistakes",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-20/opinion-apple-s-airpods-should-avoid-meta-s-mistakes-video",
-        "source": "Bloomberg Technology",
-        "summary": "Bloomberg Opinion columnist Dave Lee explains Apple’s plans for AI-enhanced AirPods and smart glasses, and why the company should learn from Meta’s mistakes. (Source: Bloomberg)",
-        "published": "2026-08-20T16:38:11+00:00"
-      },
-      {
-        "title": "OpenAI, Meta Seek Help to Combat Data Center PR Problem",
-        "url": "https://www.bloomberg.com/news/newsletters/2026-08-20/openai-meta-seek-help-to-combat-data-center-pr-problem",
-        "source": "Bloomberg Technology",
-        "summary": "Tech firms are trying to quell growing opposition to their AI plans",
-        "published": "2026-08-20T20:00:01+00:00"
-      },
-      {
-        "title": "Anthropic Expects to Match or Top SpaceX’s Record IPO Size",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-expects-to-match-spacex-s-record-ipo-size-or-top-it",
-        "source": "Bloomberg Technology",
-        "summary": "Anthropic PBC expects to match or beat the size of SpaceX’s record-setting initial public offering, according to people familiar with the matter, in the latest sign of overwhelming demand from investors looking to profit from the artificial intelligence boom.",
-        "published": "2026-08-20T17:56:02+00:00"
-      },
-      {
-        "title": "China Says Trump Economic Warfare Won't Solve Iran Crisis",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-20/china-says-trump-economic-warfare-won-t-solve-iran-war-video",
-        "source": "Bloomberg Technology",
-        "summary": "Anna Ashton, former Defense Department analyst for China, says that the US has significantly weakened its relationships and its weapons stockpiles ahead of President Xi's visit to the US in September and that Xi Jinping feels as if he has the upper hand heading into those talks.  Ashton also weighed in on the US positioning in the region amid war with Iran, saying that the US is giving Beijing numerous signals that it's 'abandoning the Pacific as an area of primary focus.' (Source: Bloomberg)",
-        "published": "2026-08-20T19:02:32+00:00"
-      },
-      {
-        "title": "America’s Battle Over Data Centers: Live Q&A",
-        "url": "https://www.bloomberg.com/sessions/2026-08-26/live-q-amp-a-america-s-battle-over-data-centers",
-        "source": "Bloomberg Technology",
-        "summary": "Bloomberg journalists answer your questions about how the demand for AI data centers has sparked outrage across the US in a Live Q&A on Wednesday, Aug. 26 at 1 p.m. EDT.",
-        "published": "2026-08-20T18:52:41+00:00"
-      },
-      {
-        "title": "Alibaba's AI Spending Spree, Concerns of Circular AI Financing | Bloomberg Tech 8/20/2026",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-20/bloomberg-tech-8-20-2026-video",
-        "source": "Bloomberg Technology",
-        "summary": "Bloomberg’s Ed Ludlow breaks down the plunge in Alibaba's profit after the company increased its quarterly capex to almost $10 billion for AI. Plus, a look at how Meta has quietly become one of Microsoft's largest AI customers, and at defense tech startup Castelion's plans to boost production of its hypersonic missile systems. (Source: Bloomberg)",
-        "published": "2026-08-20T18:23:21+00:00"
-      },
-      {
-        "title": "Mayfield Bets on AI’s Earliest Founders",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-20/mayfield-bets-on-ai-s-earliest-founders-video",
-        "source": "Bloomberg Technology",
-        "summary": "Mayfield has invested more than $3 billion in AI companies, much of it before founders have built a product or even formed a company. Managing Partner Navin Chaddha joins Bloomberg to discuss why he sees AI as a “100x opportunity,” why venture returns still depend on finding a handful of exceptional founders, and why Mayfield is resisting the industry’s push toward ever-larger funds to stay focused on early-stage investing. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-        "published": "2026-08-20T18:18:54+00:00"
-      },
-      {
-        "title": "The Defense Startup Taking a SpaceX Approach to Missiles",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-20/the-defense-startup-taking-a-spacex-approach-to-missiles-video",
-        "source": "Bloomberg Technology",
-        "summary": "Defense startup Castelion has raised $1 billion at a $13 billion valuation as it races to scale production of its Blackbeard hypersonic weapon system and develop new long-range and defensive capabilities. Co-founder and CFO Andrew Kreitz discusses why manufacturing thousands of weapons at low cost is the company’s central challenge, and how his experience at SpaceX shaped Castelion’s approach. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-        "published": "2026-08-20T18:17:58+00:00"
-      },
-      {
-        "title": "Meta Is Now One of Microsoft's Largest AI Customers",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-20/meta-is-now-one-of-microsoft-s-largest-ai-customers-video",
-        "source": "Bloomberg Technology",
-        "summary": "Meta has quietly become one of Microsoft's largest AI customers, spending hundreds of millions of dollars a year to access the Azure cloud service - and reviving concerns around circular business dealings in the AI space. Bloomberg's Brody Ford joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-        "published": "2026-08-20T18:14:44+00:00"
-      },
-      {
-        "title": "Tanner Grigoli of Atlantic Records Looks to Summer Camps to Build his Fan Base",
-        "url": "https://www.bloomberg.com/news/newsletters/2026-08-20/tanner-grigoli-of-atlantic-records-looks-to-summer-camps-to-build-his-fan-base",
-        "source": "Bloomberg Technology",
-        "summary": "While much of the fan-building process happens online now, one artist took to East Coast summer camps to reach his audience",
-        "published": "2026-08-20T18:00:01+00:00"
-      },
-      {
-        "title": "Anthropic Plans to Change Data Retention Policy for Advanced AI",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-plans-to-change-data-retention-policy-for-advanced-ai",
-        "source": "Bloomberg Technology",
-        "summary": "Anthropic PBC plans to allow business customers to keep greater control of their data when using its most capable artificial intelligence models, a stark change from an earlier data retention policy intended to mitigate potential cyberattacks.The Claude chatbot maker expects to roll out a new safety system later this year that will still require enterprise customers to retain data for 30 days but with the option to do so on their own cloud computing infrastructure rather than Anthropic’s, accord",
-        "published": "2026-08-20T17:51:00+00:00"
-      },
-      {
-        "title": "Walmart Warning Hits Retail and Markets | Open Interest 8/20/2026",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-20/open-interest-8-20-2026-video",
-        "source": "Bloomberg Technology",
-        "summary": "Get a jump start on the US trading day with Dani Burger on \"Bloomberg Open Interest.\" Walmart’s earnings disappoint, flashing a warning sign for the broader retail sector, while the 30-year bond rally unravels and markets question whether Scott Bessent can tame rising yields. State Street’s Lori Heinel breaks down what’s driving the bond market, CFTC Chairman Michael Selig lays out the path forward for crypto regulation, and Brown Harris Stevens CEO Bess Freedman warns New York’s housing poli...",
-        "published": "2026-08-20T17:37:47+00:00"
-      },
-      {
-        "title": "Bitcoin Roars Past $70,000 as Yields Sink, Trump Sparks Optimism",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-20/bitcoin-roars-past-70k-as-trump-sparks-optimism-video",
-        "source": "Bloomberg Technology",
-        "summary": "Bitcoin surpassed $70,000 for the first time in over two months, propelled by US Treasury Secretary Scott Bessent’s move to push US bond yields lower and a high-stakes meeting President Donald Trump held with crypto industry leaders. Bloomberg's Mike McGlone joins to discuss bitcoin as well as the recent climb in oil. Oil climbed to the highest in almost a month due to Donald Trump’s threat to crush the Iranian economy. (Source: Bloomberg)",
-        "published": "2026-08-20T16:26:35+00:00"
-      },
-      {
-        "title": "Super Micro Says Current Leaders Weren’t Aware of Smuggling Plot",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-20/super-micro-says-top-management-didn-t-know-of-diversion-scheme",
-        "source": "Bloomberg Technology",
-        "summary": "Super Micro Computer Inc. completed an independent probe into the alleged smuggling of Nvidia Corp. chips into China, with the investigation team concluding the company’s current senior management had no knowledge of the purported scheme.",
-        "published": "2026-08-20T13:35:10+00:00"
-      },
-      {
-        "title": "Micron unveils $10 billion AI memory research lab in Boise",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU0dOS0FhM005bXNxVTkwWUNSR3pCaHJKb01nbXpualU1V0FNakliNmJMeHZsdXYtREhjOThWLUdVVGlTZExHZXBaVDFHcHJ3ZHRPY3BsLUxfX2NHMmV4U2hmRm9ibE1MTkhmV3FFWXY3aXVsYWRaWElRa2MwdDdaNVI4VnFXYWZvQ0FLeFlWY2dFNWlhVlB1TUh5dEwyeUFXV1hLNHZWX1Y3dUx2WVE?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Micron unveils $10 billion AI memory research lab in Boise Reuters",
-        "published": "2026-08-20T13:45:44+00:00"
-      },
-      {
-        "title": "US CFTC seeks comment on compute derivatives as AI demand grows",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR2RaUzNkSDIxUUhEVG9SMmlBcmdCNW1TWkVqX1BQV0lfNVhoUG92R0xuc3NVcUlEZGV6V1c3NWZUM3M5YmVyZ2pxOGJGYjNZQ2Z3UjhST1lJVmtaQWw3c3dyeFpYRWhMMmFWM25CS21UeUdwUVZVemE4cWZKQTZGb2FNSGVBUnBfYmNmZE5jVVZ1dzBlaVpFVFlESC1aTHQ1dDF2OA?oc=5",
-        "source": "Reuters Technology",
-        "summary": "US CFTC seeks comment on compute derivatives as AI demand grows Reuters",
-        "published": "2026-08-19T17:41:00+00:00"
-      },
-      {
-        "title": "Citi, HSBC, StanChart adopt Ant International’s forex AI tool",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbUpsbUhGRVo0V2tja0RmZS05YUUySzFMNWVuTERqc2R2ZWhyZlRqVEI5QTVYLUpxMkFGRDVrQVBUVHppY3hRQkdieEFPRkhmSFdsV0dGUHVCNmN3VzltT2pnb3IxQmZ1bDNLNmZRVFBuOXJYZXVLd1c1ampCZ1Fqc0tnN0tOQURWdHNDQldPUk1xUW9SZG5vQV9nZExUM0duQTdnLWd4WmQ5LTR3ZW8zRg?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Citi, HSBC, StanChart adopt Ant International’s forex AI tool Reuters",
-        "published": "2026-08-20T02:06:00+00:00"
-      },
-      {
-        "title": "Uber launches autonomous rides in Zagreb, its first in Europe",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeFZaRlM2dzEwaFFCbGlkMmdaVGk2dGRIQ2liQzBuV2lxVTE0VUZKVUotTktnX1F2Q0x6dDcxRGhjS1A3ZFlDYktSb1RDb25aS1ZXWUVzZHFjcHQ2Y0plaExtZnA3VW1ad3JxejhWRUdyVnQwaEh1bzYzZy0yckRnQlI2Rk9NWmpQZ0xkMk81NUs2cTFabkZwSlFJVUhlWkpWM2dF?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Uber launches autonomous rides in Zagreb, its first in Europe Reuters",
-        "published": "2026-08-19T19:29:58+00:00"
-      },
-      {
-        "title": "UK's Pinewood Technologies​ to go private in $739 million Ridgeview deal",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQenZqdm1zT1dPeml5ZDA3bmNnR25DQUwweHp4YmtJeUFVN1BkV1lNNFFEY1BmcXRTS3ZaLXNjZnlfVmNQQXlXZkV1bEZKcDJ0aXlhejF0SmlkYzF2QTdIS1pMemg5NVk4YWNlbkZ3dnpvZDVpbXRwWmZNNmM5ZEEwc0hEM2ZtUEdlX182SFdPS3ZxbWZ3SGI1WlF2ME00Znc4dzM4bnU3OFNGVGJFT2Vka2pHSmRsNmg5VGc?oc=5",
-        "source": "Reuters Technology",
-        "summary": "UK's Pinewood Technologies​ to go private in $739 million Ridgeview deal Reuters",
-        "published": "2026-08-19T11:55:37+00:00"
-      },
-      {
-        "title": "NEWSLETTER: AI firms can't yet contain what they've built, study finds",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0VxNEg5YTBJS3ExWnBST21CakVKTlF4WU1qbmFlZEJYS19MblFGZjZwM3F2b1FjYUg3Ym1WbXBmSFc5Mms2Qy02WTh2QXVCWE5GYzVHRUZHRXFyQlRvODJlTGdWaW1BbzZNTmV5eFRNemM1eExfekNqXzJWakM0eS15SnVzVktvZzJQZnBvSFBfU1dPSzdsUDBjRnFPMWd1Y3RsUFEwajFCSmhycHF1TkJzZ3dVVHhSc0FsY3FIdElmMlA1?oc=5",
-        "source": "Reuters Technology",
-        "summary": "NEWSLETTER: AI firms can't yet contain what they've built, study finds Reuters",
-        "published": "2026-08-19T21:25:00+00:00"
-      },
-      {
-        "title": "Alibaba profit falls 75% after ramping up AI infrastructure spending",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2tiUnl3QjZwYUtIMS10blVfb0hldWgzc21OVk40S3lIV0g1LTdiakVxYkt5Wk9BTUdOQ3FwTEpVV1JwRi05aGRVR1B0c1Bya29xMGpxdEZiR255eEdDdUZURlJtbXJ6QUpiQktIT0hGSEF4ZkV3Ry0zNlV2aXhUYzFZVVJWMllsQ3FFZ1FiMGk0bUNlTHhHcnBNMlMyUmJTYTdSTg?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Alibaba profit falls 75% after ramping up AI infrastructure spending Reuters",
-        "published": "2026-08-20T15:07:05+00:00"
-      },
-      {
-        "title": "Nvidia denies report it is rolling out China AI chip by year-end",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMldWMkxfMnFZbHg4YnI0RTdoZGtfMXJIT1hTdHg4aGUyMWhvazNtdWVoLW4wMDR0cXkybXhEMHdqanBCZ0Nmb21xVVVua2lYOTQ4elZsUFlMbTBVYkpwRDBaVWs5Y0xRTUc1U3BSVng1WlpteXhqS0NhdWZ4cmthTlpFYTJJX2hrdGc0Y1VZUTJ5aXNzQWlvb19nei05RHJIYlhEZXRSYko?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Nvidia denies report it is rolling out China AI chip by year-end Reuters",
-        "published": "2026-08-20T20:16:35+00:00"
-      },
-      {
-        "title": "Gains in AI company stakes juice second-quarter earnings for S&P 500",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEoyTlBhdlZxOEhhZFREWWpnNDdtV0RDODN4eFFTcmV5T1RfenE3eFRHYzd0VUlrclYwN0w3YUJnWGRzSWZITEx5a2xvQkdVYmVzcHJsSGxBV2JCN2pIOVlhb19pSXVJTWVHVVRFSnVmTXlZWkMwSUFhMWRQeDAzVXY1WUVoWDliVGhJNE9vN3dJV2FyZTZqYmJZc1h3TFE5WDItZFprR1Y?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Gains in AI company stakes juice second-quarter earnings for S&P 500 Reuters",
-        "published": "2026-08-20T10:25:03+00:00"
-      },
-      {
-        "title": "China puts robocops on traffic duty, minus the arrest powers",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNblFqaGhQV3N2aDFBakVtbzBDMUphR0RiVVNZb2JjdksxdW5vSEpZcVdObmRDeVNZeUJwdUZra3J3eWVTX0RFSTRIQTExRWtnenU4UmZEenI5bWczLWdyNUFOZnE0RlNlRFFkVGNoSjd6RUU4OUZwTlZHZVZRT1R3VWNxS1A2TVV5LUllS2ZpWmdudU5ha2xZN003NDFZVVNz?oc=5",
-        "source": "Reuters Technology",
-        "summary": "China puts robocops on traffic duty, minus the arrest powers Reuters",
-        "published": "2026-08-20T06:17:00+00:00"
-      },
-      {
-        "title": "UK cinemas restricting Meta AI and other smart glasses over piracy concerns",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMkl2b3pLTG1FMTdCTGgzZGxhMmF3MFJqck5Ga29PQ2RFNFVqc0pSdThiZjBkbXEtVWNSc0NZc2daN2tIZHZyNjdGdFRReTZkRk9sZlNzZm9CNXVqdGU1dVl4RXhadmZUTzkxNVZrbFBHZ3luaW9zal8yaU5GMHFIVmdQYWJ5NVBwWFg4Sk9DeW56QkNsXzdmUXZWby11U0NKRWNwUlRySzdyX0lVdmFTQjAyeEpkNXdFUVVhaE96Ym1COFhnMC1qWXhR?oc=5",
-        "source": "Reuters Technology",
-        "summary": "UK cinemas restricting Meta AI and other smart glasses over piracy concerns Reuters",
-        "published": "2026-08-20T20:58:59+00:00"
-      },
-      {
-        "title": "Broadcom seeks more than $60 billion in latest AI debt deal, Bloomberg News reports",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWjl6el9aTXd3V2hKVng5WF9iUUJpOG9zdXBWZzJhQkt1aUtVWE5wWi1MRGVXX0hCU25sR0NXTE9ocGU5SVZqYUJlZmZFRF81MmdxLU1xcEtLaVZnMGg2ejluTjgyN0Fyb2I2bWxFZzlSM3N6N3VDbXpFR09FMGthQXFBSF9rNzRDTkxJbjk2aGsxQ3Nxb2JIcFhZTFozaExoVm50a1FBSnl2TEhoWXhreG1kWTFrRld1eEs2X0haTXA5aFU?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Broadcom seeks more than $60 billion in latest AI debt deal, Bloomberg News reports Reuters",
-        "published": "2026-08-20T23:24:10+00:00"
-      },
-      {
-        "title": "EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRG1ONC11bUpzNWFwMGdRbVVUM0ZHb0l0VHJfU0dsYi1KdmxTZVRnRllWaDE2MkZtSFExX0U5MGtGRFpkOGFYZmY1OHJtMEV4UG9MVUlfc3hUQ2dMTlJOZ2d0R3cwZjB4OFkxbW1rNHhaNEt0alp6RGdGVTRJb201WWloTTR3Y2hKVVdzN0paZXFEUmVmQl9VeHFqZ1dyQQ?oc=5",
-        "source": "Reuters Technology",
-        "summary": "EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt Reuters",
-        "published": "2026-08-20T21:09:55+00:00"
-      },
-      {
-        "title": "The new kingmakers: Crypto, AI and betting firms fuel record spending on the 2026 midterms",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeENQNnM1RGoxMUFwdGJ2c19GUDRnTUhiWVdieDZNZG1qX2QzN29SYVBqU0NBcnVaMjRISjB3ZFc5WTlRbXYwQ1FkallpcmdLeEcwWk1wcS1pbG9TbTB6WFQ4VENCa25wMTE1TmJMeGJ1dEFtY0xrX0hOb0ZURkZJWlRmM3lFcHFZaXpqTWFCYVhHdDc0UXJzNEpPTUo5LXdBYzlCcXppZklKbkN5cnc4NGFsU3p5U0xPNnJ1dGUxYWEzQVI0Y3ZqcA?oc=5",
-        "source": "Reuters Technology",
-        "summary": "The new kingmakers: Crypto, AI and betting firms fuel record spending on the 2026 midterms Reuters",
-        "published": "2026-08-20T22:46:25+00:00"
-      },
-      {
-        "title": "Unitree surges in Shanghai debut, a milestone for China's humanoid robotics sector",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ0pzN014Mm10emZneHNXYjBENjZ0VXFKamZHVUNpQ3hkYjdmU05wRWR5VW96TFowS21LYU5hd3poMUJJWnR3VHJIYVJQM0U5QktkWS1hS19OWlNDbjdGcFhUbV93d2ZKa2ZzdzBWTmJJYV9yNk1VNGlqVERldF9zVWVQS2RrX3FxYTJ2QW9NZERpSXZycl91TGxFUG1ZZUw4bmJIS2YyWWhaTGlDY0h6TXh5WGVYb0VVV0V6TjJGTkd6UQ?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Unitree surges in Shanghai debut, a milestone for China's humanoid robotics sector Reuters",
-        "published": "2026-08-19T01:27:00+00:00"
-      }
-    ],
     "2026-08-21": [
       {
         "title": "Anthropic’s Opus 4.6 is a smut-machine",
@@ -2350,6 +1857,197 @@
         "source": "CNBC Technology",
         "summary": "AI-related roles now account for nearly one-third of all tech-talent job listings in the U.S., per the new CBRE report.",
         "published": "2026-08-21T10:36:07+00:00"
+      }
+    ],
+    "2026-08-22": [
+      {
+        "title": "Doodle generative compositions in your browser with Musical Spirograph",
+        "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
+        "source": "The Verge",
+        "summary": "I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm hooked. Musical Spirograph is a relatively simple concept. A set of points dash around the screen according to […]",
+        "published": "2026-08-22T17:00:00+00:00"
+      },
+      {
+        "title": "W. Kamau Bell has the most practical ‘most indispensable tool’",
+        "url": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
+        "source": "The Verge",
+        "summary": "W. Kamau Bell is one of those people who has always just seemed to be there. From Totally Biased, to Politically Re-Active, United Shades of America, and We Need to Talk About Cosby, his blend of comedy, social commentary, and political activism has helped him stand out. He's won a Peabody and four Emmys, been […]",
+        "published": "2026-08-22T15:00:00+00:00"
+      },
+      {
+        "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
+        "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
+        "source": "The Verge",
+        "summary": "Citing \"significant increases in memory and storage component costs,\" Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent, as first reported by Fortune. The cheapest products in Amazon's lineup were hit hardest, with the Echo Dot smart speaker jumping from $49.99 to $79.99. The Fire TV Stick 4K […]",
+        "published": "2026-08-22T13:41:01+00:00"
+      },
+      {
+        "title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
+        "url": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
+        "source": "The Verge",
+        "summary": "Laptop prices are out of whack. $500 used to get you a tolerable laptop, and $900 got you a really good one. They often had similar CPU, RAM, and storage options because that stuff was comparatively cheap; the difference was often in build quality and screen rather than power. But RAMageddon has thrown everything off. […]",
+        "published": "2026-08-22T13:00:00+00:00"
+      },
+      {
+        "title": "Two great new repairable gadgets",
+        "url": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
+        "source": "The Verge",
+        "summary": "Hi, friends! Welcome to Installer No. 141, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm newish here too, and also you can read all the old editions at the Installer homepage.) This week, I've been getting back into the Installer groove, trying out some ergonomic Switch […]",
+        "published": "2026-08-22T12:00:00+00:00"
+      },
+      {
+        "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+        "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+        "source": "TechCrunch",
+        "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+        "published": "2026-08-22T21:46:56+00:00"
+      },
+      {
+        "title": "Will the DOJ’s investigation into a16z spook other VCs?",
+        "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+        "source": "TechCrunch",
+        "summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
+        "published": "2026-08-22T20:24:20+00:00"
+      },
+      {
+        "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+        "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+        "source": "TechCrunch",
+        "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+        "published": "2026-08-22T19:00:00+00:00"
+      },
+      {
+        "title": "OpenAI says California should strengthen its AI safety bill",
+        "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+        "source": "TechCrunch",
+        "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+        "published": "2026-08-22T16:30:34+00:00"
+      },
+      {
+        "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+        "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+        "source": "TechCrunch",
+        "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+        "published": "2026-08-22T16:00:00+00:00"
+      },
+      {
+        "title": "US battery startups have found a lifeline in defense",
+        "url": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
+        "source": "TechCrunch",
+        "summary": "U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives were slashed.",
+        "published": "2026-08-22T15:20:00+00:00"
+      },
+      {
+        "title": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade",
+        "url": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
+        "source": "TechCrunch",
+        "summary": "Google’s Pixel 11 Pro XL brings snappier cameras and genuinely useful AI features like Rambler, but its iterative upgrades may not be enough to tempt recent Pixel owners.",
+        "published": "2026-08-22T14:00:00+00:00"
+      },
+      {
+        "title": "Michael Polansky is training an AI model on skin that’s still alive",
+        "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+        "source": "TechCrunch",
+        "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public about it.",
+        "published": "2026-08-22T01:31:04+00:00"
+      },
+      {
+        "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+        "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+        "source": "TechCrunch",
+        "summary": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
+        "published": "2026-08-22T01:03:06+00:00"
+      },
+      {
+        "title": "Enterprises winning with AI agents are limiting how much the agents can do alone",
+        "url": "https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone",
+        "source": "VentureBeat",
+        "summary": "For much of the past two years, the general belief in enterprise AI has been that more autonomy equals better performance. Build agents that can plan, decide, and act across multi-step workflows, and give them as much room to run as possible. That assumption is now being tested at scale, in real production environments — and in a lot of deployments it's failing. The companies that end up benefiting from agentic AI won't necessarily be the ones that have given their agents the most flexibility...",
+        "published": "2026-08-22T21:30:00+00:00"
+      },
+      {
+        "title": "Anthropic Could Aim to Raise $100 Billion in Blockbuster I.P.O.",
+        "url": "https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html",
+        "source": "NYT Technology",
+        "summary": "The offering could value the five-year-old A.I. start-up at $2 trillion, its bankers have told potential investors, which would exceed Elon Musk’s SpaceX.",
+        "published": "2026-08-22T00:24:21+00:00"
+      },
+      {
+        "title": "Sick of Constant Pings, They’re Sending Texts at the Speed of Carrier Pigeon",
+        "url": "https://www.nytimes.com/2026/08/22/technology/carrier-pigeon-app-texting-technology.html",
+        "source": "NYT Technology",
+        "summary": "Apps that let users send digital messages at ultraslow speeds have taken off, with users reveling in a slower pace of life. (Just don’t use the them to make dinner plans.)",
+        "published": "2026-08-22T15:34:31+00:00"
+      },
+      {
+        "title": "Six investors reveal the biggest market risks — and one strategy they agree on",
+        "url": "https://www.cnbc.com/2026/08/22/investors-market-risks-diversification-stocks-kospi.html",
+        "source": "CNBC Technology",
+        "summary": "Investors see different risks threatening markets, but broadly agree that traders should diversify beyond recent winners.",
+        "published": "2026-08-22T05:00:01+00:00"
+      },
+      {
+        "title": "Scenes From the 2026 Beijing World Humanoid Robot Games",
+        "url": "https://www.bloomberg.com/news/videos/2026-08-22/scenes-from-the-2026-beijing-world-humanoid-robot-games-video",
+        "source": "Bloomberg Technology",
+        "summary": "The 2026 World Humanoid Robot Games have begun. 666 teams from around the world are competing with more than 2,000 humanoid robots. (Source: Bloomberg)",
+        "published": "2026-08-22T19:12:16+00:00"
+      },
+      {
+        "title": "Nvidia Customers Notified About AI-Related Price Hikes Above 15%",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15",
+        "source": "Bloomberg Technology",
+        "summary": "Some of Nvidia Corp.’s biggest customers have been told that the prices of servers containing its artificial intelligence chips are going up more than 15% in many cases with memory chip costs soaring.",
+        "published": "2026-08-22T18:42:34+00:00"
+      },
+      {
+        "title": "Apollo’s Slok Says AI Weighs On Pay Without Cutting Jobs — Yet",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-22/apollo-s-slok-says-ai-weighs-on-pay-without-cutting-jobs-yet",
+        "source": "Bloomberg Technology",
+        "summary": "Torsten Slok found something surprising when Apollo Global Management Inc. looked at how the adoption of artificial intelligence was playing out in the labor market.",
+        "published": "2026-08-22T12:00:00+00:00"
+      },
+      {
+        "title": "Alphabet raises $3.9 billion in inaugural Australian dollar bond",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWowTDhsUGNUOXVDQ1Q0STlaemFrQ2tRQUFsUVo0Z3VaYURVQnV3U1VhUV9oTmthdm9PM2xFaUhzRlhGQ2JyNGJYMjVIX1FrT0Z5R0RjXzhsWUVSMXRGWGg4eHd5VlhRQjUtTS1id0YzTXhpdE9GN2hCVHFVQi0wNkFsd3NBUFEyc0pyRVBZcnB1OTZBQ0RDdlpQSzk3NHVTdHRRVjB4T1FpeVJ0ODBQbjZn?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Alphabet raises $3.9 billion in inaugural Australian dollar bond Reuters",
+        "published": "2026-08-19T20:25:43+00:00"
+      },
+      {
+        "title": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVBSYzdnbW5mTHlUTzVRb3JaenRKVncwMjliZ3RZSy1xb3hNaEZxelZ0Z0FYMzRYOEF3MnNpajNwLUtFbkdpbzNIUmNFTWlOMVRINmxaTGJibjNWN05xMERzaU5lUXcwTHBDZC1GRm0xMG9PbjYxRzNyOXFrMFZKM0FMeXcyM1ZwT05tUkNUbjc4YXBySm5XMG1EY0JtZlFkdTBVZmhXbm83YWtXMTVrcVBKbnlKRFNjcnc?oc=5",
+        "source": "Reuters Technology",
+        "summary": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20% Reuters",
+        "published": "2026-08-21T21:30:13+00:00"
+      },
+      {
+        "title": "Breakingviews - Washington and AI debt deluge is rinsing consumers",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbWJUSXlHU0xZT3lHcjBUdjBVOVpSQ1k1b3Bqd0NscHFJYzRXWHdYSjRNdGk0WUhJVDBlRDVVUFZoRFFZcVQzb2VIYWJyM25ORHM4dDNpYWw0c0c2c0dHREItQ0VPUFE3X0hGMUhoTGRYZG1aVTFha0VnZ2ZpMFdrRXFiWXZJNWVDSXhtQkFxNlMydlBqYnVOQmNMek9FQmtQNmw0TVFGcHZabXc?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Breakingviews - Washington and AI debt deluge is rinsing consumers Reuters",
+        "published": "2026-08-20T13:27:07+00:00"
+      },
+      {
+        "title": "D.E. Shaw owns more than $1 billion stake in Sysco, sources say",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM04xTTVhTzFwQm53RWdOV2RoZUVQYVJDU2UzQWoxTTAxZmZORlJBZXJLM2dRbkdPbkc2X01kdklYSVZJbFpjNGNzTWNUX2M2d3ZqTUdkZ0JlZG53ZkszVU5idGpZXzRaRDlQazZlM2ZtVHd2SzhKQzVXSG9DWVdGcVRWRE1tbnEzbkU5U25ybWRGa0lUN3p2WllNOHVwRTV5aHhr?oc=5",
+        "source": "Reuters Technology",
+        "summary": "D.E. Shaw owns more than $1 billion stake in Sysco, sources say Reuters",
+        "published": "2026-08-20T19:33:51+00:00"
+      },
+      {
+        "title": "Nvidia invests in data center developer Cloverleaf Infrastructure",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYnVtUUVfYWJoSUhsRXpLZGNEdHM0eFBmU0hVZzZiVzlDdUZXWkV2X3k1bGppdnp5Zy1fcy1HYnBGc0pPXzZoRmpsZmtPTDRqSFd5anNGR1hnMDlOYjk2U1BZeU42UTh4RUxiaE1XSWRyZW9RTjUtWjYzVXM5N0ZYU0VXdXRSNmNmZnRpREUzdDE4U3l4VDBIa3JPdklOUjdvbFp3dGRZdlZnQjBwSEE?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Nvidia invests in data center developer Cloverleaf Infrastructure Reuters",
+        "published": "2026-08-21T14:44:25+00:00"
+      },
+      {
+        "title": "Robots poised for 'ChatGPT moment,' Unitree CEO says",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTBFUDUyY3VFZGlQY0VvSDFSRDV6bTJLSVV5OVd4Zk9tbzFjYkdVZ3Fxc3ZZbGNKU3lMdGhxRU4wb0F1QzIzMzFOUHBvdVlWVHB0MEFQSkN0eDVHOF9VMktYR1pETnpfcUt2TEJwLUJyMDZRam55a3hhUHFWN0ZwVWlEV0FRX21aN0lyNjhKVll1ck1CWE52cjgzNEFQeGV1Rnc?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Robots poised for 'ChatGPT moment,' Unitree CEO says Reuters",
+        "published": "2026-08-20T04:18:00+00:00"
       }
     ]
   }
