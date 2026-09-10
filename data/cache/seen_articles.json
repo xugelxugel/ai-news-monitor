@@ -1,87 +1,5 @@
 {
   "seen": {
-    "b5e0104f574c505ddc4a116ba34442d5": "2026-08-11T00:05:33.132806",
-    "48cf888df40480174853e169dd093af8": "2026-08-11T00:05:33.132833",
-    "a97b7da869b07611ff7264dccd54993b": "2026-08-11T00:05:33.132843",
-    "cb35a4edee6db5c250cfd203da53a835": "2026-08-11T00:05:33.132850",
-    "4676e3778a958b5b54984fd668a7db4c": "2026-08-11T00:05:33.132855",
-    "559fae1965599d6d964d8b8a7b6cae08": "2026-08-11T00:05:33.132861",
-    "9f4258eff4d02539395a594529ffb43c": "2026-08-11T00:05:33.132866",
-    "92f40b79e3f85b6b478d4f76e81cd5c6": "2026-08-11T00:05:33.132872",
-    "4100cae384dfb14f33fbac666b309105": "2026-08-11T00:05:33.132877",
-    "bae604ce77b93f2a202cd3d13151ced2": "2026-08-11T00:05:33.132882",
-    "604117c8d4e6141c6098ae03a22f6a88": "2026-08-11T00:05:33.132887",
-    "4662a98c4da9d5a35fdeb378bc1ce210": "2026-08-11T00:05:33.132892",
-    "b16a9d72067a00cced27c0d15cebaff5": "2026-08-11T00:05:33.132897",
-    "c06a72559449c1c8fd85cf5093007666": "2026-08-11T00:05:33.132902",
-    "ecdd6bda7b67965cd76f0655c4201e49": "2026-08-11T00:05:33.132907",
-    "8add5efe536dc268d7064ca2cf6ab20e": "2026-08-11T00:05:33.132911",
-    "ee092482a3ff90447be5bb5aa17e06c9": "2026-08-11T00:05:33.132916",
-    "d2a64df2821ee278eeaa4b71aa342707": "2026-08-11T00:05:33.132921",
-    "b6a795d1e48ad3aa58e4086569a6e6c0": "2026-08-11T00:05:33.135061",
-    "f24d1353fcb38750b9ec87f152cd3d0f": "2026-08-11T00:05:33.138048",
-    "f15deb717ebd2103730ff7d85c6e0ea5": "2026-08-11T00:05:33.141058",
-    "9c23ee05b40f278958db882c884dac47": "2026-08-11T00:05:33.144420",
-    "5e5146ac75f072d52ed9d08ce929d52c": "2026-08-11T00:05:33.146914",
-    "24603351c3d95a2fc7ab41834965424e": "2026-08-11T00:05:33.149431",
-    "8146f3b7fccd003aea6ef5c03a3bc0ec": "2026-08-11T00:05:33.151897",
-    "b375b1ce8162a61720f94a6a2c86e11a": "2026-08-11T00:05:33.154484",
-    "c4948ee58fc68f2e7875eabbaa82e766": "2026-08-11T00:05:33.157325",
-    "c6e4a85273e069335b56d9147bdce66a": "2026-08-11T00:05:33.159344",
-    "75f09a8efd42cbd80379fe75434f1e15": "2026-08-11T00:05:33.165060",
-    "d00bef7582fc37b09a84855ba1393156": "2026-08-11T00:05:33.170766",
-    "59bbd29b3aad772bc481e18bb23640e0": "2026-08-11T00:05:33.175976",
-    "71de8eb88657dfac9f670229b121b6b0": "2026-08-11T00:05:33.183321",
-    "5a970416c035fddb26b90ce26ca0f2e0": "2026-08-11T00:05:33.186659",
-    "93402afcce148c62fe6d2c4350be6914": "2026-08-11T00:05:33.190345",
-    "ea00b02758443a9911e4c57a729d6ee3": "2026-08-11T00:05:33.196409",
-    "c587bfc6377b9071558c265f43e11785": "2026-08-11T00:05:33.202363",
-    "b6ef5cb5775f0ed0c1e4e1936f185c9d": "2026-08-11T00:05:33.207878",
-    "3a9016cb07d439854903e5bb48b108c7": "2026-08-11T00:05:33.213125",
-    "c9c61c009f1640aaab8824db68dafce9": "2026-08-11T00:05:33.217463",
-    "a4de08d4359a1d430fad07f437f86e7d": "2026-08-11T00:05:33.222719",
-    "bc2a0d64f3d55bce26ed31a4a8c2e442": "2026-08-11T00:05:33.228959",
-    "befcc592170d2d8bbd76f9dda56234c2": "2026-08-11T00:05:33.234856",
-    "b637e3dadcc917246c768dea608cb58d": "2026-08-11T00:05:33.240424",
-    "25611372878956389cd81521dff6b1f3": "2026-08-11T00:05:33.245021",
-    "949cc95a15f41d6c7e2c0992406603cf": "2026-08-11T00:05:33.249996",
-    "8ba65f99af23173354e68a5f85d1fd27": "2026-08-11T00:05:33.253007",
-    "87c8d400c2277c382ec07d8737a7dd04": "2026-08-11T00:05:33.257745",
-    "87eea0ed2976d91dbed9527869b43b29": "2026-08-11T00:05:33.262324",
-    "974f03fce3546924dd0c9f8b5505c59e": "2026-08-11T00:05:33.267735",
-    "4ec0aac423d090e10b3e44362a0df8e5": "2026-08-11T00:05:33.273246",
-    "c55f70ba5c079cb2183f9be571cc06d9": "2026-08-11T00:05:33.277161",
-    "ef91f1459bd4e422c4f4e9ed931ac3a9": "2026-08-11T00:05:33.282881",
-    "ce9759fb328d75d0fac107c3323384a7": "2026-08-11T00:05:33.287121",
-    "3cde5618ea7ce6b4fc10b98dd6a78096": "2026-08-11T00:05:33.291545",
-    "07b309796d1739633a96aaf8274ef51b": "2026-08-11T00:05:33.295875",
-    "140a58270d7f6ca4831c4cba8e512e29": "2026-08-11T00:05:33.300403",
-    "326cb2469fcee9e573a91665ff68bd46": "2026-08-11T00:05:33.304690",
-    "0485749d6ffa0d1bc061631d2a27b824": "2026-08-11T00:05:33.312686",
-    "4a43d3af80cd559b02f16c252c40de79": "2026-08-11T00:05:33.320794",
-    "ed91da7e51c9e2f0def13c98a098097c": "2026-08-11T00:05:33.328501",
-    "9cfb24e2979aa287e024d907e3d4313e": "2026-08-11T00:05:33.338553",
-    "a56c9619eed9f48b93334178c3702897": "2026-08-11T00:05:33.344838",
-    "b45b56ec46cf96e17e6bc582207acae5": "2026-08-11T00:05:33.351119",
-    "416063d287aaacacf23d1d767868ccb9": "2026-08-11T00:05:33.357977",
-    "a2644ae0322136475657b59c680d9ba9": "2026-08-11T00:05:33.368647",
-    "3c7ca9766dac4773e75c66f509a72b2c": "2026-08-11T00:05:33.378603",
-    "b44ee96a26bc91da599d961efaad37f8": "2026-08-11T00:05:33.388893",
-    "6ec7c270f76a11fe56035c9fbf9d7ded": "2026-08-11T00:05:33.398158",
-    "5d9ea48aa2d24e8063630e376b95c98f": "2026-08-11T00:05:33.405707",
-    "b1d73b0a3410daa6ee50794aa466bdd7": "2026-08-11T00:05:33.415205",
-    "dfdbaeb8f1b7ea8e43f550fa4b1b02dc": "2026-08-11T00:05:33.426689",
-    "7e695323fae7e9b93073db8f62df55fb": "2026-08-11T00:05:33.437949",
-    "7171d403e7ae32a0832525587ae6c125": "2026-08-11T00:05:33.447092",
-    "6dbbbd536caf840ebe64535c79b30351": "2026-08-11T00:05:33.456917",
-    "902bfb5f36be8322f54b8cd3fbf8655e": "2026-08-11T00:05:33.468287",
-    "2d07fb731054dd2bc21af75723e40eb9": "2026-08-11T00:05:33.478378",
-    "f42641da03f5987b7b7371fb8c4ec440": "2026-08-11T00:05:33.488331",
-    "003341ff4f10fddfab54c26f6a21902d": "2026-08-11T00:05:33.494426",
-    "6ca0055d8fe225c568666ef0d72975ec": "2026-08-11T00:05:33.507004",
-    "bdca7b1e15386ae0e854f432dfd3fc18": "2026-08-11T00:05:33.517102",
-    "179097e1f67317bb06be32e892ebe943": "2026-08-11T00:05:33.528923",
-    "d25572d8495e748a7d1801bfa4730484": "2026-08-11T00:05:33.538944",
     "40443c208af1b06233de55fdfedcdc95": "2026-08-12T05:16:18.154176",
     "10bc1f3f0bcc7c9e8a1ce441056bbc1a": "2026-08-12T05:16:18.154199",
     "2deee44b21d97eea44880bd28ac59aa7": "2026-08-12T05:16:18.154209",
@@ -1774,312 +1692,83 @@
     "7ff402ea4612646952c8220c9494b626": "2026-09-09T00:42:45.026674",
     "a9a23439680bb9c17d355ca37fe4f21c": "2026-09-09T00:42:45.031107",
     "5a59619f191799cccdfc4def70310cbb": "2026-09-09T00:42:45.036359",
-    "dfaf93f21bfdb0e3b346976a2ad1329f": "2026-09-09T00:42:45.042181"
+    "dfaf93f21bfdb0e3b346976a2ad1329f": "2026-09-09T00:42:45.042181",
+    "e9590b50c0bc2cebd88db59a1485c5a8": "2026-09-10T00:39:42.541052",
+    "cc108cfc0ac643d3e0dfb1ebdbf8fb5f": "2026-09-10T00:39:42.541076",
+    "a62cdeb365cc8615e68f0ace4c1c81cf": "2026-09-10T00:39:42.541085",
+    "7540bc2c5d65debfe0f75999269b4c26": "2026-09-10T00:39:42.541091",
+    "6caff675a3423d6b3007d689f8197d05": "2026-09-10T00:39:42.541096",
+    "24345bcea52aca91d83f97b7047b3efc": "2026-09-10T00:39:42.541102",
+    "30c9efdd025bbbb82485a8bbfc54863c": "2026-09-10T00:39:42.541108",
+    "775a2dbbd21976b91fc6bf2b62524b23": "2026-09-10T00:39:42.541113",
+    "7d5a9a7d20772468db600246c7e3233c": "2026-09-10T00:39:42.541118",
+    "dd52005631ef70a0bb92f4f3a77756db": "2026-09-10T00:39:42.541123",
+    "ef66728a9235556e84bd2aa22aa2d5b3": "2026-09-10T00:39:42.541128",
+    "41fc243c5eb6113f538293a24734556a": "2026-09-10T00:39:42.541133",
+    "73877e938b552e90d0966fd93c08a44f": "2026-09-10T00:39:42.541138",
+    "c9b53fb8ed34f49d547b7351bd1e4516": "2026-09-10T00:39:42.541142",
+    "675612fe5f173182849ff4db5add6772": "2026-09-10T00:39:42.541147",
+    "d6fa9228458515d21846527e846b569f": "2026-09-10T00:39:42.541152",
+    "974e0dc97a17fbfc15867ce2f038e84c": "2026-09-10T00:39:42.541157",
+    "048ef16923d0f28a00ca9364aa087c53": "2026-09-10T00:39:42.541162",
+    "8d46cc5a0f61112fd2b463d1871e12a0": "2026-09-10T00:39:42.541167",
+    "21c2a27323ca42ee82a92fa2ae58c0dc": "2026-09-10T00:39:42.541172",
+    "a24afc2eb70bc440c2057c206dc17534": "2026-09-10T00:39:42.544406",
+    "374e4cfadd47f3f90a182ea42defa2aa": "2026-09-10T00:39:42.545794",
+    "4aa81586dd0633f10a2e6798f35b004d": "2026-09-10T00:39:42.547793",
+    "ecce8ce32496bc5e3e201b8a286ba3ec": "2026-09-10T00:39:42.550122",
+    "bfd11789e826da362f067a2c39c5a583": "2026-09-10T00:39:42.552016",
+    "65f77bd4eb92a79746bd51e2917797ec": "2026-09-10T00:39:42.555323",
+    "2ce844f1d2cad0d30c375750ce6f5f76": "2026-09-10T00:39:42.558649",
+    "0a721c2e70b7f85e200b4b98a73f7f2c": "2026-09-10T00:39:42.562781",
+    "dbd1a6f65f8c9f614e90ba851fac43ce": "2026-09-10T00:39:42.565536",
+    "aff47c563dff5cd8025f1b25d63ffa64": "2026-09-10T00:39:42.568787",
+    "c224b7dad0e1bf467b26bf816a2b3e1b": "2026-09-10T00:39:42.574993",
+    "783692438761783687cf7113cabb88fa": "2026-09-10T00:39:42.579112",
+    "eb5b729388040dadc8bd5ef95453aaa3": "2026-09-10T00:39:42.583466",
+    "1b7bfff697cad99ae438c5aeaacfc3f6": "2026-09-10T00:39:42.587318",
+    "d203a66ab7e2a9e9d3162ab89e1c0a83": "2026-09-10T00:39:42.593662",
+    "4d0f17ceed63ee8c7bdce42ef54e9af7": "2026-09-10T00:39:42.598390",
+    "ca7e8388cced1b54c3988aac3aa68245": "2026-09-10T00:39:42.603854",
+    "d805de21345dca8d028aa95f15ec8a61": "2026-09-10T00:39:42.608608",
+    "02a1f993e773e8b281f1b71877e7c122": "2026-09-10T00:39:42.611767",
+    "a96f6e7f2675b78cc0d9c1ac49acdb66": "2026-09-10T00:39:42.617938",
+    "f946b8976714723d8a7ffba4a580c5f1": "2026-09-10T00:39:42.622326",
+    "0455b6c7f8f481bce2f6a1ce6339c7d9": "2026-09-10T00:39:42.626374",
+    "9864bae2038a95c58d701f433a230815": "2026-09-10T00:39:42.630334",
+    "b10c2c6854bd637198c91f05a44f228f": "2026-09-10T00:39:42.634604",
+    "22980d420eabbca3a427f310cb6125fd": "2026-09-10T00:39:42.639371",
+    "c4346e00f2b14ba3206e0e5613eda615": "2026-09-10T00:39:42.644495",
+    "4ca8a29298a8c1615aacaeada2f6770a": "2026-09-10T00:39:42.648579",
+    "6006f846be2934d1df332f6ef5ce3188": "2026-09-10T00:39:42.653694",
+    "0c823c0ef61350bed33f552ebe5a0de3": "2026-09-10T00:39:42.659107",
+    "0c7b83041cf27d8724df9fa066ed5513": "2026-09-10T00:39:42.663578",
+    "e0a79c3637bc13fef011d0d9f6b445a6": "2026-09-10T00:39:42.668649",
+    "905d54ae416a46943cf80ad9b37a642f": "2026-09-10T00:39:42.672783",
+    "235c4c9ef98b23e722526a9bff320049": "2026-09-10T00:39:42.677124",
+    "5f7f55e68d7c9b15ed7ccab132e3f502": "2026-09-10T00:39:42.681895",
+    "6bd18c76146a4a99714e80483bd3e85b": "2026-09-10T00:39:42.688289",
+    "34fa73710cfe33a942596807e9842340": "2026-09-10T00:39:42.693642",
+    "9ad9978174e28a991fee8a74f13965d2": "2026-09-10T00:39:42.703891",
+    "e8256d6fc31fec2f464db56810202956": "2026-09-10T00:39:42.716054",
+    "9910bcd2f08e37042f4bcdadcf8cd882": "2026-09-10T00:39:42.722690",
+    "c0f8b2447eed98552823a67a9586c229": "2026-09-10T00:39:42.731975",
+    "41cb9e68714a1fc1c084d9a107decd13": "2026-09-10T00:39:42.739023",
+    "f8bc7e6805f1beb6ca7a563bb92b833f": "2026-09-10T00:39:42.748281",
+    "7ddd6c5cfd3b33e16be7c6a0f6db1d10": "2026-09-10T00:39:42.757096",
+    "414b70ee4684169a993036a30c9e160e": "2026-09-10T00:39:42.766790",
+    "c11374df76a4da708abc46805e656152": "2026-09-10T00:39:42.773682",
+    "70c408fe09c117bd98183018496b3985": "2026-09-10T00:39:42.782901",
+    "befacb2911f709112a8b9746c594c26c": "2026-09-10T00:39:42.792662",
+    "5252cc6d03f3d6462e3406b540bef6da": "2026-09-10T00:39:42.805804",
+    "707dfc7f1333e6b14bf5b9f4c5d2688e": "2026-09-10T00:39:42.813761",
+    "2d7c7875e708e2d8d1745f0af1c9901f": "2026-09-10T00:39:42.822810",
+    "a56957848818451d697d49243370af4a": "2026-09-10T00:39:42.831372",
+    "4956bc83811570d2a60129e89914e9c2": "2026-09-10T00:39:42.840432",
+    "bcd8657cf8c9c79c312b0934f7eec266": "2026-09-10T00:39:42.850009",
+    "5a554d31ad69786e426618e00fe724ef": "2026-09-10T00:39:42.858592"
   },
   "today_articles": {
-    "2026-09-08": [
-      {
-        "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
-        "url": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
-        "source": "The Verge",
-        "summary": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want something affordable? Great, here's a range loser. Want something that goes the distance? Be ready to pay the price. Surprisingly, here comes […]",
-        "published": "2026-09-07T20:03:41+00:00"
-      },
-      {
-        "title": "Six years later, Sony revisits its legendary XM4 headphones",
-        "url": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
-        "source": "The Verge",
-        "summary": "Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. They sat atop best headphones lists for years, thanks to their great sound, competitive ANC, and compact size, […]",
-        "published": "2026-09-07T16:00:00+00:00"
-      },
-      {
-        "title": "EcoFlow makes the miniature power station even smaller",
-        "url": "https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller",
-        "source": "The Verge",
-        "summary": "If you're in the market for a tiny power station that punches well above its size and weight then have a look at EcoFlow's new fourth-generation River series. The River 260 Gen4 features a 256Wh capacity battery while the 520 Gen4 packs in 512Wh - storing about 2.5x and 5x the energy of the largest […]",
-        "published": "2026-09-07T14:59:41+00:00"
-      },
-      {
-        "title": "The real reason your phone is getting more expensive",
-        "url": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
-        "source": "The Verge",
-        "summary": "When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest sign yet that soaring memory costs have become unavoidable - with no end to the memory crunch in sight. Call it \"chipflation\" […]",
-        "published": "2026-09-07T12:00:00+00:00"
-      },
-      {
-        "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
-        "url": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
-        "source": "The Verge",
-        "summary": "Thanks to their ability to provide a smooth ride and quiet powertrain with ease, electric vehicles are a true shoo-in for the high-end luxury automotive segment. Rolls-Royce has the Spectre, Cadillac's Celestiq is taking bespoke to a whole new level, and Mercedes has given the EQS the full Maybach treatment. From Volkswagen Auto Group, Bentley […]",
-        "published": "2026-09-07T11:00:00+00:00"
-      },
-      {
-        "title": "Huawei copies Samsung’s privacy display in its latest trifold",
-        "url": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
-        "source": "The Verge",
-        "summary": "Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Not only does the Mate XT 2 adopt the inward-folding form factor used on Samsung's Galaxy Z TriFold, it's also the first foldable to include a privacy-enhancing display, much like the one Samsung […]",
-        "published": "2026-09-07T10:09:42+00:00"
-      },
-      {
-        "title": "This investor thinks the U.S. economy is strong enough to handle higher rates",
-        "url": "https://www.cnbc.com/video/2026/09/07/this-investor-thinks-the-us-economy-is-strong-enough-to-handle-higher-rates.html",
-        "source": "CNBC Technology",
-        "summary": "Jeff Palma from Cohen & Steers says the U.S. economy's underlying momentum is strong enough to absorb today's interest rates. He points to that same resilient growth, combined with sticky inflation, as the reason the neutral rate is moving structurally higher. Given that backdrop, he favors real assets such as infrastructure, natural resource equities and real estate.",
-        "published": "2026-09-07T03:41:45+00:00"
-      },
-      {
-        "title": "Opaque recurrence, and other AI terms that you should probably know",
-        "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-        "source": "TechCrunch",
-        "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-        "published": "2026-09-07T19:24:00+00:00"
-      },
-      {
-        "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
-        "url": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
-        "source": "TechCrunch",
-        "summary": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
-        "published": "2026-09-07T18:02:29+00:00"
-      },
-      {
-        "title": "What we expect from the upcoming Apple launch",
-        "url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
-        "source": "TechCrunch",
-        "summary": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
-        "published": "2026-09-07T15:58:00+00:00"
-      },
-      {
-        "title": "Virtual Taekwondo Takes the Contact Out of a Combat Sport",
-        "url": "https://www.nytimes.com/2026/09/07/sports/virtual-taekwondo-asian-games.html",
-        "source": "NYT Technology",
-        "summary": "The contactless version of the Korean martial art is making its debut at this year’s Asian Games. Critics say it’s a glorified video game.",
-        "published": "2026-09-07T12:20:03+00:00"
-      },
-      {
-        "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
-        "url": "https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html",
-        "source": "NYT Technology",
-        "summary": "Artificial intelligence was used to help develop a drug candidate, rentosertib, for a rare lung condition. Its maker says the drug also seems to reduce the biological hallmarks of age.",
-        "published": "2026-09-07T15:12:14+00:00"
-      },
-      {
-        "title": "Longsys Set to Debut in Hong Kong After $903 Million Listing",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-07/longsys-set-to-debut-in-hong-kong-after-903-million-listing",
-        "source": "Bloomberg Technology",
-        "summary": "Shenzhen Longsys Electronics Co. is set to begin trading in Hong Kong on Tuesday after raising HK$7.08 billion ($903 million) in an upsized share sale, testing the resilience of investor enthusiasm after a flurry of artificial intelligence supply chain offerings in the city.",
-        "published": "2026-09-07T23:00:00+00:00"
-      },
-      {
-        "title": "Australia’s Web of Pacific Alliances Set to Expand to Solomons",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-07/australia-s-web-of-pacific-alliances-set-to-expand-to-solomons",
-        "source": "Bloomberg Technology",
-        "summary": "Australia is in the process of finalizing a treaty with another Pacific island nation, with the national broadcaster reporting that Canberra has struck an “in-principle” agreement with the Solomon Islands.",
-        "published": "2026-09-07T22:34:59+00:00"
-      },
-      {
-        "title": "OpenAI Top Scientist Urges ‘Extreme Caution’ With Pace of AI",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-07/openai-chief-scientist-urges-extreme-caution-with-pace-of-ai",
-        "source": "Bloomberg Technology",
-        "summary": "OpenAI’s top scientist has warned that artificial intelligence is evolving so rapidly that it is becoming increasingly difficult for humans to understand and control, and said he expects AI labs to voluntarily slow development for safety reasons.",
-        "published": "2026-09-07T16:12:43+00:00"
-      },
-      {
-        "title": "Dronemaker UForce In Talks For Around $5 Billion Value In Valor Equity-Led Raise",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-07/dronemaker-uforce-in-talks-for-around-5-billion-value-in-valor-equity-led-raise",
-        "source": "Bloomberg Technology",
-        "summary": "Uforce, a London-based drone startup, is in discussions to raise new financing at a valuation of about $5 billion, according to people familiar with the matter.",
-        "published": "2026-09-07T14:51:52+00:00"
-      },
-      {
-        "title": "Europe’s Top Carriers in Talks for Satellite-to-Mobile Venture",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-07/europe-s-top-carriers-in-talks-for-satellite-to-mobile-venture",
-        "source": "Bloomberg Technology",
-        "summary": "A group of Europe’s biggest mobile operators are in early talks to create a consortium to bid on satellite spectrum and offer direct-to-mobile service, which would rival Elon Musk’s Starlink service on the continent, people familiar with the matter said.",
-        "published": "2026-09-07T16:35:26+00:00"
-      },
-      {
-        "title": "Top Indian Banks Buy State Power Lender REC’s Tokenized Bond",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-07/top-indian-banks-buy-state-power-lender-rec-s-tokenized-bond",
-        "source": "Bloomberg Technology",
-        "summary": "Top lenders HDFC Bank Ltd. and ICICI Bank Ltd. are among buyers of India’s first tokenized bond offered by state-run REC Ltd., according to people familiar with the matter, signaling interest for such issuances that could help deepen debt market liquidity.",
-        "published": "2026-09-07T15:45:10+00:00"
-      },
-      {
-        "title": "How the AI ROI Gap Comes Down to Trust",
-        "url": "https://www.bloomberg.com/news/videos/2026-09-07/how-the-ai-roi-gap-comes-down-to-trust-video",
-        "source": "Bloomberg Technology",
-        "summary": "Companies investing in trustworthy AI practices are far more likely to see strong returns from the technology, according to new research from SAS. But trust remains a hurdle: 97% of users override AI recommendations at least some of the time, while employees are less likely to trust increasingly autonomous AI agents. Jay Upchurch, SAS Executive Vice President and Chief Information Officer, joins Bloomberg's Anna Edwards on Bloomberg Television. (Source: Bloomberg)",
-        "published": "2026-09-07T15:38:00+00:00"
-      },
-      {
-        "title": "Huawei’s $3,000 Device Is China’s Answer to Foldable iPhone",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-07/huawei-xiaomi-to-debut-new-top-phones-on-eve-of-foldable-iphone",
-        "source": "Bloomberg Technology",
-        "summary": "Huawei Technologies Co. and Xiaomi Corp. are raising the stakes in China’s smartphone arena just days before Apple Inc.’s first foray into the foldable category.",
-        "published": "2026-09-07T04:42:45+00:00"
-      },
-      {
-        "title": "ByteDance Founder Joins AI Elite in Race to Perfect World Models",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-07/bytedance-founder-joins-ai-elite-in-race-to-perfect-world-models",
-        "source": "Bloomberg Technology",
-        "summary": "ByteDance Ltd. is readying an AI model geared for real-time spatial video generation, taking on Meta Platforms Inc. and Alphabet Inc. in an arena with applications in robotics and autonomous systems.",
-        "published": "2026-09-07T12:25:45+00:00"
-      },
-      {
-        "title": "Preferred Networks CEO Eyes IPO Amid AI Chip Race",
-        "url": "https://www.bloomberg.com/news/videos/2026-09-07/preferred-networks-ceo-eyes-ipo-amid-ai-chip-race-video",
-        "source": "Bloomberg Technology",
-        "summary": "Japanese startup Preferred Networks is seeking to go public to mass-produce its chips, reflecting the rising cost and scale needed to stay competitive in the global AI race, CEO Daisuke Okanohara said in an interview with Bloomberg News. (Source: Bloomberg)",
-        "published": "2026-09-07T12:01:05+00:00"
-      },
-      {
-        "title": "When Will We Achieve AGI? AI Leaders Now Say It’s a Fuzzy Target",
-        "url": "https://www.bloomberg.com/news/newsletters/2026-09-07/when-will-we-achieve-agi-ai-leaders-now-say-it-s-a-fuzzy-target",
-        "source": "Bloomberg Technology",
-        "summary": "Reaching the point when AI handles most tasks better than humans had been seen as a measurable achievement",
-        "published": "2026-09-07T11:02:01+00:00"
-      },
-      {
-        "title": "CD Projekt Ramps Up Spending on Next ‘Witcher’ Game as Pipeline Expands",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-07/cd-projekt-ramps-up-spending-on-next-witcher-game-as-pipeline-expands",
-        "source": "Bloomberg Technology",
-        "summary": "CD Projekt Red SA is ramping up investment as it prepares the next chapter of its flagship monster-hunting Witcher franchise, with several projects now in development.",
-        "published": "2026-09-07T10:41:52+00:00"
-      },
-      {
-        "title": "Deadly Amazon Cargo Plane Crash Overshoots Runway in Miami",
-        "url": "https://www.bloomberg.com/news/videos/2026-09-07/deadly-amazon-cargo-plane-crash-overshoots-miami-runway-video",
-        "source": "Bloomberg Technology",
-        "summary": "An Amazon cargo plane overran a runway at Miami International Airport, killing at least five people and temporarily shutting down the airport’s runways during the busy Labor Day travel weekend. (Source: Bloomberg)",
-        "published": "2026-09-07T10:29:55+00:00"
-      },
-      {
-        "title": "Uber Meets With Investors Ahead of Debut Five-Part Euro Bond",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-07/uber-technologies-hires-banks-for-debut-euro-bond-offering-mtqywy52",
-        "source": "Bloomberg Technology",
-        "summary": "Uber Technologies Inc. has hired banks to hold calls with investors this week for a debut euro bond sale, the latest US tech firm to raise money in Europe.",
-        "published": "2026-09-07T08:17:41+00:00"
-      },
-      {
-        "title": "Japan’s Preferred Networks Seeks IPO to Keep Up in AI Chip Race",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-07/japan-s-preferred-networks-seeks-ipo-to-keep-up-in-ai-chip-race",
-        "source": "Bloomberg Technology",
-        "summary": "Japanese startup Preferred Networks Inc. is seeking to go public to mass-produce its chips, a reflection of the rising cost and scale needed to stay relevant in a global AI race.",
-        "published": "2026-09-07T09:10:50+00:00"
-      },
-      {
-        "title": "AI-Discovered Drug Reverses Aging Markers in Study, Biotech Says",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-07/ai-discovered-drug-reverses-aging-markers-in-study-biotech-says",
-        "source": "Bloomberg Technology",
-        "summary": "An experimental lung disease drug developed using artificial intelligence showed promise in reversing biological signs of aging, pointing to broader potential use of the treatment, according to its developer.",
-        "published": "2026-09-07T09:00:00+00:00"
-      },
-      {
-        "title": "IQE CEO Warns of Emerging China Supply Risk for Chip Industry",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-07/iqe-ceo-warns-of-emerging-china-supply-risk-for-chip-industry",
-        "source": "Bloomberg Technology",
-        "summary": "IQE Plc Chief Executive Officer Jutta Meier said access to indium phosphide substrates is emerging as a key risk for the semiconductor industry as Chinese export controls create uncertainty over supplies.",
-        "published": "2026-09-07T08:51:49+00:00"
-      },
-      {
-        "title": "Zeiss Overhauls SAP Cloud Migration After Costs Hit €200 Million",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-07/zeiss-overhauls-sap-cloud-migration-after-costs-hit-200-million",
-        "source": "Bloomberg Technology",
-        "summary": "Germany’s Zeiss Group, a key supplier to the global semiconductor industry, overhauled plans to move to a new cloud-based SAP SE software service after costs swelled to more than €200 million ($232 million) over several years.",
-        "published": "2026-09-07T08:24:40+00:00"
-      },
-      {
-        "title": "Malaysia Eyes Huawei Chips for AI Project Despite US Warning",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-07/malaysia-eyes-huawei-chips-for-ai-project-despite-us-warning",
-        "source": "Bloomberg Technology",
-        "summary": "Malaysia is leaning toward relying on Huawei Technologies Co.’s artificial intelligence chips to power its sovereign AI efforts, in what would be a major victory for Chinese AI technology in the face of strong opposition from President Donald Trump’s administration.",
-        "published": "2026-09-07T07:01:38+00:00"
-      },
-      {
-        "title": "AI could pose 'existential' risk to humanity, UN rights chief warns",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV3llNF9IYW5jOC1zYWZwY2hlYVR4RndlVWkxemtJNjlOSVhuZkhZR3d1TnE4c2sxcFlvSEd2YmJaQXBTeHpJV1NqQ0t6OGgtOGVRWXRTTDJmdHFFd0tvZ2VYZzJUU3BGTzVqZHJqRV9CUHN6VkpSWkZsdUZJV0p5ZDR0TlFSZ2dqNkRvdWMzSG44bTZFV3B4QW9pcmhmN1lmUlNtSmRvdWVuX2Fo?oc=5",
-        "source": "Reuters Technology",
-        "summary": "AI could pose 'existential' risk to humanity, UN rights chief warns Reuters",
-        "published": "2026-09-07T14:30:23+00:00"
-      },
-      {
-        "title": "Breakingviews - COMMENTARY: China's AI dragons breathe fire on Nvidia's moat",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2V3MzMyWDhGbmtOTkItcEdzR2dPdHNPelhqSG9sbEw1Mk0xTE85N29vZmtoTnZOa2NpOWFpNF9BSmd5N2EwMDVNOEFWWFlZR2l3SUlSNTdxR2wtT01Kc3RoUmh1bm9xTHBZNjItVXJ0dHZCeHNfX0pRTDBfdlh0QVV0N21fT2ZUZlF1WVFBWW5TejczdUE5MmRkaHpNeGZkTG1zVTlzbw?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Breakingviews - COMMENTARY: China's AI dragons breathe fire on Nvidia's moat Reuters",
-        "published": "2026-09-07T11:58:15+00:00"
-      },
-      {
-        "title": "Cathay Pacific, Google expand AI trials to cut climate-warming aircraft contrails",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLUVhRVhEYXF3MTFzVmxLR2FzM3BrWkJjVktYdEJ1azR2RnVuaURRX1Y4Q1UtUEp5Qjg5ekhPQ1pNOFpEWkM5TDAzMVJFd1k4LXBfVW5FdVB1aDNkRE1UeVlDSDM3MGZnWlVTeWtTVGU4SVlodWUzWUtmdmxrOFdsX0s5RVFWMHluSkRhcVpHSEFqS0JHN05Qc04yLWx0dUpuUjRBTEpiay1CSllUTllZdk9IY28tVHVGRkJwODBrM3d6OWhhTXdnNTJQY0U?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Cathay Pacific, Google expand AI trials to cut climate-warming aircraft contrails Reuters",
-        "published": "2026-09-07T08:23:53+00:00"
-      },
-      {
-        "title": "From dance floor to war: China readies humanoid robots for combat",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQamhrcXpRZjBTb3Q3bTlPX2VUODd2Qnd1NUlGWklQSWZ4dDNpZnRRZ2xlOXlYZ1hFaXE0UUc3Yk8xOEFOZFZmLWthbm4tbXg0eTltVmo0ZFFyUi0zWThENzNFZmJtUXlTM1NHVGVKVVZOS0pIODR1dk5RbnBYV1ZZZ0dhVmZGazlleFM2bFJpR3E1RWRHRWxLSEZpZ1kyMjkxRXc?oc=5",
-        "source": "Reuters Technology",
-        "summary": "From dance floor to war: China readies humanoid robots for combat Reuters",
-        "published": "2026-09-07T06:04:00+00:00"
-      },
-      {
-        "title": "Huawei, Xiaomi launch new foldable smartphones ahead of Apple event",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVS1jR3lPTW1TQVB1Y3owVjhXcWx1aTBvdzZIOTY1SnFLTVhSLVRwbEkyMUhIZXRaSWd4UjllLXV4alo1MjhRemwyUjZ4elQ5MGhNOEhTUHhZVnBPNXZGaHpfTkZPdkc3cEFtNXJ1ejBUbms0U1doa0tXVjJLQnViNE5xczgybk5yTi1zYk5sdmdBazQ3WnVvWDJJMHY1WmcwSmJmYmdmX1IxYjFCanhyY09hTXNSalB5SV9obHJydUYzcXM?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Huawei, Xiaomi launch new foldable smartphones ahead of Apple event Reuters",
-        "published": "2026-09-07T14:43:05+00:00"
-      },
-      {
-        "title": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5",
-        "source": "Reuters Technology",
-        "summary": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior Reuters",
-        "published": "2026-09-06T19:28:51+00:00"
-      },
-      {
-        "title": "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbXNPeUFiR3h1WlFQd1pXTkFsRHlPUmt2TUJVYlp2QXlQbko1SFltZk9Qb1RoRmR6YkNHTTFxQUZqX3N5ZDJMZ0xwRUZJd1VCVklLSzdFM3Z5TFNUcWIxN2dBdnI1VUVlaTJ2V21wOGFtSFo0Z3pqYnlxNjZ6TE1jQTRUb1EyZHlGVGdVYVczNXNITURObXBHcEpqVlhmUy0wV3FjQk42VVh6QmZnX2tWQjVGaGlNVER4d0JtallNR2g?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies Reuters",
-        "published": "2026-09-07T02:26:00+00:00"
-      },
-      {
-        "title": "Italian tech collective to shut down after US terrorist designation",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcEs1RjJIeGp0TTRxMkYtbWZCTEhmT0VVZXRxc1pOa092ODZjLTlaaFN1Nl9yLWdJUzFKRzVoMnJVRmtJZ3QzekI1dUQ1Y3NjenUwYkZraE5jM2xfc3VfbHNybXMtc2lJeVlrNEo1bnRxUmdsVVl3TVNHa3JoU0JPeUZfOVRwTW5Ucnh0VklxZzhpTEtXOGRlOG1GTEdqV2lzRUhDZUpXRHc1Q21RWG5vdw?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Italian tech collective to shut down after US terrorist designation Reuters",
-        "published": "2026-09-07T09:47:20+00:00"
-      },
-      {
-        "title": "India's TCS unit to invest up to $7.4 billion in AI data center campus",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMUtHcGEzeDRCRGZiVEZVT0M4cUM4SktyLWxnY3ZsY3ZHVEFoelhtU1IzUlo5Qm9DRzAweWQxQmZCU01kQXVBMkFsb0JqWkNKS2w2ZFpRSnAxMnFKU2NNeFpfMmpOYVd3ejJZeWZNbW8tWC11RlRGSXEyY29KTUpnbkc4UTV1emlla0VLWm5vRGRLY0Vka3I0QlpJZkZjLVI0YXZBdnp4ZVRHQQ?oc=5",
-        "source": "Reuters Technology",
-        "summary": "India's TCS unit to invest up to $7.4 billion in AI data center campus Reuters",
-        "published": "2026-09-05T12:27:43+00:00"
-      },
-      {
-        "title": "Bitcoin-based Liquid Network says $320 million withdrawn in hack",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1lpQVdhRENMSUQ3NnJWZkxyRlRjN0hHS2xsek1XbFo2ZEVCNnJ6RGRsNUZubmRCUURNbl9hbk5WSXJ4X0ZrTVJ3YW4wdHl5d05lOER2a1JZRUtkQmxKcy1DVjFGdFJfTGF5b1JtbE5BLVNoMGhGVEZKdm5ZZlcwQU9EQ2U4MWlmZEtNbEdxb1d1cWtSQzlLckJsdHRpWEM2TlJ2S0JYVnNySXM?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Bitcoin-based Liquid Network says $320 million withdrawn in hack Reuters",
-        "published": "2026-09-07T04:05:00+00:00"
-      },
-      {
-        "title": "Germany plans anti-sabotage shield after airport drone attack",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYlY5UWtzNjhvVnRzNHJpWk54ZTYwMjZNeWIwUTVNU1RSOFl2X19NcGZvRnJxNDZUMmt5LWlvZnROeVlHQ052V2UtaUViYjFBWFhJSlJqN3p5TC1kZHZPZ3hPdDRETE9INHpnYm04eXItcGZhUVRNUVFNbTNTSUoydUdRX3ZtWmFHdnB4cVNNWnRjTTFmN0E5ekFzcEFxcGhzbnR5QU41c2dLcml4Z0l3ZzcwRFhQRlBQdTRmQi0wMnRxUlFkNGI0TmRNZFRhdw?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Germany plans anti-sabotage shield after airport drone attack Reuters",
-        "published": "2026-09-06T11:47:14+00:00"
-      },
-      {
-        "title": "Breakingviews - COMMENTARY: How to make the world safer for AI",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdHhsMk9Ic1dobWlDbFhLb1R2eVZyOWZkUC04dWFGc3VMR2FHVUdfUENEcU9ERW1YV2lkNjVXbjJjNGFlU3ExUEVOYTBHVzkweDZkcVpVUW9fekpzUHBVUXZJdHRld3BjcUFEYXBxSHFORVI1UzNXNDdSVXNsbk9xODlNQ3ZlYmRrVGhtVQ?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Breakingviews - COMMENTARY: How to make the world safer for AI Reuters",
-        "published": "2026-09-07T05:00:00+00:00"
-      }
-    ],
     "2026-09-09": [
       {
         "title": "Sony isn’t phasing out discs quite as quickly as we thought",
@@ -2619,6 +2308,526 @@
         "source": "Reuters Technology",
         "summary": "China pauses approvals for battery storage manufacturing projects, Cailianshe reports Reuters",
         "published": "2026-09-07T04:55:00+00:00"
+      }
+    ],
+    "2026-09-10": [
+      {
+        "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+        "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+        "source": "TechCrunch",
+        "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+        "published": "2026-09-10T00:00:37+00:00"
+      },
+      {
+        "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
+        "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+        "source": "TechCrunch",
+        "summary": "Mullenweg said in a company Slack message that it was against his will.",
+        "published": "2026-09-09T23:14:29+00:00"
+      },
+      {
+        "title": "OpenAI adds a prominent AI doomer to its board of directors",
+        "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+        "source": "TechCrunch",
+        "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+        "published": "2026-09-09T22:25:22+00:00"
+      },
+      {
+        "title": "Massachusetts hits data centers with new clean power rules",
+        "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+        "source": "TechCrunch",
+        "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+        "published": "2026-09-09T21:43:34+00:00"
+      },
+      {
+        "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
+        "url": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
+        "source": "TechCrunch",
+        "summary": "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere.",
+        "published": "2026-09-09T20:58:09+00:00"
+      },
+      {
+        "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+        "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+        "source": "TechCrunch",
+        "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+        "published": "2026-09-09T20:24:48+00:00"
+      },
+      {
+        "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+        "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+        "source": "TechCrunch",
+        "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+        "published": "2026-09-09T20:03:43+00:00"
+      },
+      {
+        "title": "There are new shiny iPhones, so Apple is making you pay more for older models",
+        "url": "https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/",
+        "source": "TechCrunch",
+        "summary": "Apple is raising the price of its existing iPhone models by $100, including iPhone 16, iPhone 17, and iPhone Air.",
+        "published": "2026-09-09T19:56:18+00:00"
+      },
+      {
+        "title": "The hinge for Apple’s new foldable phone was built with AI",
+        "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+        "source": "TechCrunch",
+        "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
+        "published": "2026-09-09T19:21:48+00:00"
+      },
+      {
+        "title": "Apple Watch’s new feature listens to your chats and recaps them",
+        "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/",
+        "source": "TechCrunch",
+        "summary": "The Siri Recap feature is similar to other note-taking apps like Granola.",
+        "published": "2026-09-09T19:08:59+00:00"
+      },
+      {
+        "title": "Harvey hits $15.5B valuation, months after reaching $11B",
+        "url": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
+        "source": "TechCrunch",
+        "summary": "The legal AI startup and VC darling has nearly doubled its valuation in nine months.",
+        "published": "2026-09-09T18:34:24+00:00"
+      },
+      {
+        "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
+        "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+        "source": "TechCrunch",
+        "summary": "The update uses Apple Intelligence to make better sense of your health data.",
+        "published": "2026-09-09T18:16:29+00:00"
+      },
+      {
+        "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
+        "url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/",
+        "source": "TechCrunch",
+        "summary": "Most notably, Apple is taking aim at the growing wave of AI wearables with new \"Audio Intelligence\" features that let you rewind moments and remember details from daily conversations.",
+        "published": "2026-09-09T18:08:46+00:00"
+      },
+      {
+        "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
+        "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+        "source": "TechCrunch",
+        "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+        "published": "2026-09-09T18:08:35+00:00"
+      },
+      {
+        "title": "Apple shows off AirPods 5 with improved active noise cancellation",
+        "url": "https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/",
+        "source": "TechCrunch",
+        "summary": "The AirPods 5 support better noise cancellation, Siri AI, and offer volume controls on the stem.",
+        "published": "2026-09-09T18:06:40+00:00"
+      },
+      {
+        "title": "Apple unveils its first foldable, the iPhone Duo",
+        "url": "https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/",
+        "source": "TechCrunch",
+        "summary": "Unlike early iterations of foldables, which looked like vertical slabs, Apple adopted a wider form factor that could aid in a better aspect ratio while watching videos when the device is unfolded.",
+        "published": "2026-09-09T17:58:14+00:00"
+      },
+      {
+        "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+        "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+        "source": "TechCrunch",
+        "summary": "The company also argued that its on-device models offer consumers more privacy.",
+        "published": "2026-09-09T17:36:05+00:00"
+      },
+      {
+        "title": "Apple launches iPhone 18 Pro with upgraded camera",
+        "url": "https://techcrunch.com/2026/09/09/apple-launches-iphone-18-pro-with-upgraded-camera/",
+        "source": "TechCrunch",
+        "summary": "Apple's new iPhone 18 Pro lineup upgrades the camera and comes in burgundy.",
+        "published": "2026-09-09T17:26:05+00:00"
+      },
+      {
+        "title": "DOJ wants more answers on Fox’s $22B Roku deal",
+        "url": "https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/",
+        "source": "TechCrunch",
+        "summary": "The investigation also comes as the DOJ has faced criticism over how it handles major mergers, including questions about political influence.",
+        "published": "2026-09-09T16:44:21+00:00"
+      },
+      {
+        "title": "Superintelligence is coming. Should we let it?",
+        "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+        "source": "TechCrunch",
+        "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably control what these systems do?  On this episode of TechCrunch’s Equity podcast, Rebecca Bellan is joined by Connor Leahy, an AI researcher, entrepreneur, and now the U.S. Executive Director of […]",
+        "published": "2026-09-09T16:05:35+00:00"
+      },
+      {
+        "title": "There aren’t AirPods with cameras yet and I hope it stays that way",
+        "url": "https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event",
+        "source": "The Verge",
+        "summary": "September Apple events are always a swirl of information and new, exciting products, and today's was no different. Apple announced its first foldable, the iPhone Duo, alongside the iPhone 18 Pro and Pro Max; active noise cancellation (ANC) is now on the cheapest AirPods model, the AirPods 5; and a Siri Recap feature comes to […]",
+        "published": "2026-09-09T23:00:04+00:00"
+      },
+      {
+        "title": "The black iPhone Pro returns",
+        "url": "https://www.theverge.com/tech/993048/iphone-18-pro-black-color",
+        "source": "The Verge",
+        "summary": "Apple has seen reason: It has a black model in the iPhone Pro lineup again. Last year, Apple went bold with its colors for the iPhone 17 Pro, offering a flashy orange, a shiny silver, and a dark blue. Don't get me wrong, they looked nice. But there was no black (or dark gray) for […]",
+        "published": "2026-09-09T22:37:51+00:00"
+      },
+      {
+        "title": "The incomplete history of Duo devices",
+        "url": "https://www.theverge.com/tech/992755/apple-iphone-duo-history-of-devices",
+        "source": "The Verge",
+        "summary": "Apple announced the company's first device with a folding screen today, the iPhone Duo, but that's where the firsts end. The Duo is not only far from the first foldable on the market thanks to the efforts of Samsung and Google, but it's also not the first product to be called the Duo. Former Apple […]",
+        "published": "2026-09-09T22:23:35+00:00"
+      },
+      {
+        "title": "Automattic CEO Matt Mullenweg placed on leave",
+        "url": "https://www.theverge.com/tech/993022/wordpress-automattic-ceo-matt-mullenweg-leave-of-absence",
+        "source": "The Verge",
+        "summary": "Matt Mullenweg, the CEO of WordPress.com owner Automattic, has been placed on a paid leave of absence, as reported earlier by 404 Media. In an internal message by the outlet, Mullenweg claims Automattic chief financial officer Mark Davies \"conspired\" with board members to place him on leave. \"They voted to put me on a paid […]",
+        "published": "2026-09-09T22:15:52+00:00"
+      },
+      {
+        "title": "It’s the year of smartphone price hikes",
+        "url": "https://www.theverge.com/gadgets/993005/smartphone-price-hikes-apple-iphone-18-pro",
+        "source": "The Verge",
+        "summary": "Paying more for a new phone seems almost unavoidable after Apple's event today. The new iPhone 18 Pro and Pro Max start at $1,199 and $1,299, respectively - a $100 price hike over their predecessors. You can't dodge the price hike by opting for an older iPhone, either, because Apple raised prices on those by […]",
+        "published": "2026-09-09T21:52:43+00:00"
+      },
+      {
+        "title": "Suno releases its first AI music model made with record industry help",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+        "source": "The Verge",
+        "summary": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data that our previous models were trained on.\" The data includes content licensed […]",
+        "published": "2026-09-09T21:42:19+00:00"
+      },
+      {
+        "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+        "source": "The Verge",
+        "summary": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI is transforming mathematics. But before it was even formally announced, the breakthrough had been complicated by the unusual […]",
+        "published": "2026-09-09T21:16:34+00:00"
+      },
+      {
+        "title": "Read the Apple document explaining how new listening features still protect your privacy",
+        "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+        "source": "The Verge",
+        "summary": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its announcement, Apple released a document laying out how it plans to balance AI \"ambient listening\" and users' privacy. It says the raw audio from the new […]",
+        "published": "2026-09-09T20:44:43+00:00"
+      },
+      {
+        "title": "How the new Apple Watches compare to the last-gen models",
+        "url": "https://www.theverge.com/gadgets/990508/apple-watch-series-12-ultra-4-spec-comparison",
+        "source": "The Verge",
+        "summary": "Apple rolled out the Apple Watch Series 12 and Apple Watch Ultra 4 at its \"Surprise and shine\" event. The new watches feature sizable improvements to their health sensors and tracking, plus the ability to create brief audio transcriptions and summaries, plus a ceramic case option for the Series 12. Despite the new features, the […]",
+        "published": "2026-09-09T20:42:51+00:00"
+      },
+      {
+        "title": "Verge staffers react to the iPhone Duo: What we love and don’t love",
+        "url": "https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react",
+        "source": "The Verge",
+        "summary": "Apple has just announced its first foldable iPhone, the iPhone Duo. The new phone has a 5.4-inch outer screen and a 7.6-inch inner screen, two back cameras, Touch ID for authentication, an IP68 rating, and all sorts of slick software tricks to make iOS feel more at home on the new device. Preorders start on […]",
+        "published": "2026-09-09T19:45:00+00:00"
+      },
+      {
+        "title": "Trump pushes Fed for lower rates, but consumers may be better off with a hike, experts say",
+        "url": "https://www.cnbc.com/2026/09/09/fed-interest-rates-consumers-benefit-rates-stay-higher.html",
+        "source": "CNBC Technology",
+        "summary": "As the Trump administration ramps up pressure on the Federal Reserve, consumers may be better served if senior officials back off, experts say.",
+        "published": "2026-09-09T18:29:51+00:00"
+      },
+      {
+        "title": "Demand for riskier mortgages rises again, along with interest rates",
+        "url": "https://www.cnbc.com/2026/09/09/demand-for-riskier-mortgages-rises-again-along-with-interest-rates.html",
+        "source": "CNBC Technology",
+        "summary": "Mortgage rates continue to climb, so more borrowers are turning to adjustable rate mortgages, which offer lower interest rates comparatively.",
+        "published": "2026-09-09T11:59:55+00:00"
+      },
+      {
+        "title": "Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999",
+        "url": "https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html",
+        "source": "NYT Technology",
+        "summary": "At the company’s annual September product event, Apple also demonstrated its work on artificial intelligence and other new devices.",
+        "published": "2026-09-09T22:04:28+00:00"
+      },
+      {
+        "title": "How Amazon’s Zoox Is Taking On Waymo in San Francisco",
+        "url": "https://www.nytimes.com/2026/09/09/technology/zoox-waymo-san-francisco.html",
+        "source": "NYT Technology",
+        "summary": "The Amazon-owned driverless car company is a distant second to Waymo. Its pitch to riders? Wine pop-ups, festival sponsorships and a car built to be filmed.",
+        "published": "2026-09-09T22:14:29+00:00"
+      },
+      {
+        "title": "Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity",
+        "url": "https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html",
+        "source": "NYT Technology",
+        "summary": "Their warnings echo concerns that other artificial intelligence experts have voiced in recent months, as calls increase for a slowdown in the pace of development.",
+        "published": "2026-09-10T00:12:18+00:00"
+      },
+      {
+        "title": "Why California Is Reconsidering Its Decision to Shun Nuclear Power",
+        "url": "https://www.nytimes.com/2026/09/09/business/energy-environment/california-diablo-canyon-nuclear-energy.html",
+        "source": "NYT Technology",
+        "summary": "The state is considering extending the life of its last nuclear power plant, Diablo Canyon, and allowing construction of new reactors to help meet its clean energy goals.",
+        "published": "2026-09-09T16:39:27+00:00"
+      },
+      {
+        "title": "Chinese Tech Firms’ Share Sale Spree Sparks Valuation Concerns",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-09/chinese-tech-firms-share-sale-spree-sparks-valuation-concerns",
+        "source": "Bloomberg Technology",
+        "summary": "Chinese firms are increasingly turning to equity fundraising to bankroll their AI ambitions, fueling investor concerns about earnings dilution and oversupply in an already-underperforming market.",
+        "published": "2026-09-09T23:30:00+00:00"
+      },
+      {
+        "title": "UK Is Urged to Overhaul Regulation of AI-Medical Devices",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-09/uk-is-urged-to-overhaul-regulation-of-ai-medical-devices",
+        "source": "Bloomberg Technology",
+        "summary": "The UK needs to change how it regulates AI-enabled medical devices to better protect patients, and should implement a staged approval process that includes continuous monitoring, according to an advisory panel.",
+        "published": "2026-09-09T23:01:00+00:00"
+      },
+      {
+        "title": "Why Wall Street Loves Apple’s $1,999 iPhone",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-09/opinion-wall-street-loves-apple-s-1-999-iphone-video",
+        "source": "Bloomberg Technology",
+        "summary": "It’s rare for Apple’s stock to go up after announcing a new product. Bloomberg Opinion columnist Dave Lee explains why the company’s foldable iPhone is different. (Source: Bloomberg)",
+        "published": "2026-09-09T22:37:33+00:00"
+      },
+      {
+        "title": "Apple’s iPhone Duo, New Watches, iPhone 18 Pro and AirPods 5: Everything to Know",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-09/apple-s-iphone-duo-new-watches-iphone-18-pro-and-airpods-5-everything-to-know",
+        "source": "Bloomberg Technology",
+        "summary": "Apple Inc. on Wednesday unveiled its first foldable iPhone, the $1,999-and-up iPhone Duo, finally entering a market segment that rivals such as Samsung Electronics Co., Alphabet Inc.’s Google and Huawei Technologies Co. have been dabbling in for years.",
+        "published": "2026-09-09T22:33:08+00:00"
+      },
+      {
+        "title": "AI-Driven IPO Wave Set to Accompany Anthropic Listing",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-09/wave-of-ai-driven-ipos-expected-to-accompany-anthropic-s-listing",
+        "source": "Bloomberg Technology",
+        "summary": "With the Labor Day holiday — and summer in the US — now officially over, the traditional push to the end of the year in the market for initial public offerings is on.",
+        "published": "2026-09-09T19:35:04+00:00"
+      },
+      {
+        "title": "AGCO CEO: We Can Manage Through These Tariffs",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-09/agco-ceo-we-can-manage-through-these-tariffs-video",
+        "source": "Bloomberg Technology",
+        "summary": "Eric Hansotia, CEO, Chair, and President of AGCO, discusses conditions in the agriculture equipment business. Hansotia notes that the agriculture sector faces rising costs, framing the segment around input expenses and their impact on farming and equipment demand. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+        "published": "2026-09-09T21:18:22+00:00"
+      },
+      {
+        "title": "QTS Co-CEO on Building Eco-Friendly Data Centers",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-09/qts-co-ceo-on-building-eco-friendly-data-centers-video",
+        "source": "Bloomberg Technology",
+        "summary": "Tag Greason, Co-CEO of QTS discusses the growing political and environmental backlash facing data center expansion. Greason says the AI boom is fundamentally an infrastructure buildout, and argues that U.S. leadership in AI depends on infrastructure leadership. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+        "published": "2026-09-09T21:14:57+00:00"
+      },
+      {
+        "title": "Oak Hill CEO: Irrational Selling in the Credit Market",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-09/oak-hill-ceo-irrational-selling-in-the-credit-market-video",
+        "source": "Bloomberg Technology",
+        "summary": "Glenn August, Founder and CEO of Oak Hill Advisors, discusses a recent filing that caught attention. August discusses whether OHA is making a real move into AI infrastructure, noting that the filing referred to real asset lending. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+        "published": "2026-09-09T21:13:12+00:00"
+      },
+      {
+        "title": "Apple Unveils First Foldable iPhone Duo, Starting at $1,999",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-09/apple-s-foldable-iphone-launch-event-gets-underway",
+        "source": "Bloomberg Technology",
+        "summary": "Apple Inc. unveiled the company’s first foldable smartphone during a wide-ranging event Wednesday, betting that a new category can energize growth for its biggest-selling lineup.",
+        "published": "2026-09-09T17:18:22+00:00"
+      },
+      {
+        "title": "MercadoLibre Sells $1 Billion of Bonds in Return to Market",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-09/mercadolibre-returns-to-global-debt-markets-amid-spending-push",
+        "source": "Bloomberg Technology",
+        "summary": "MercadoLibre Inc. returned to global debt markets for only the third time as it boosts investment across Latin America.",
+        "published": "2026-09-09T13:35:56+00:00"
+      },
+      {
+        "title": "S&P Dow Jones Indices CEO on Index Restructuring",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-09/s-p-dow-jones-indices-ceo-on-index-restructuring-video",
+        "source": "Bloomberg Technology",
+        "summary": "Catherine Clay, CEO of S&P Dow Jones Indices, discusses the upcoming S&P reconstitution and rebalance, noting that the process is fully transparent and routine. She says market participants already know which names are entering and leaving the index, including Bloom Energy, Illumina and Everpure joining the S&P this month, and have ample time to adjust portfolios accordingly. She speaks with Romaine Bostick & Tyler Kendall on \"The Close.\" (Source: Bloomberg)",
+        "published": "2026-09-09T20:30:46+00:00"
+      },
+      {
+        "title": "Apple Debuts Foldable iPhone Duo in Biggest-Ever Device Revamp",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-09/apple-debuts-foldable-iphone-duo-in-biggest-ever-revamp-video",
+        "source": "Bloomberg Technology",
+        "summary": "Apple unveiled the company’s first foldable smartphone during a wide-ranging event Wednesday, betting that a new category can energize growth for its biggest-selling lineup. Chris Welch was there and explains what makes this such a big deal for the brand (Source: Bloomberg)",
+        "published": "2026-09-09T20:29:28+00:00"
+      },
+      {
+        "title": "Apple’s Priciest iPhone Duo Hits $3,199, Setting Industry Record",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-09/apple-s-priciest-iphone-duo-hits-3-199-setting-industry-record",
+        "source": "Bloomberg Technology",
+        "summary": "Apple Inc.’s breakthrough new iPhone Duo costs $3,199 for the highest-end configuration, setting a record for the price of a mass-market smartphone.",
+        "published": "2026-09-09T20:27:39+00:00"
+      },
+      {
+        "title": "Former Apple CEO Sculley 'Excited' About iPhone Duo",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-09/former-apple-ceo-sculley-excited-about-iphone-duo-video",
+        "source": "Bloomberg Technology",
+        "summary": "John Sculley, Zeta Global vice chairman emeritus and former Apple CEO, reacts to Apple's new iPhone Duo, the company's first foldable smartphone, which will have a 7.6-inch display when unfolded and a 5.4-inch outer screen. He speaks on \"Bloomberg The Close.\" (Source: Bloomberg)",
+        "published": "2026-09-09T20:12:46+00:00"
+      },
+      {
+        "title": "What Is AI Distillation and Why Are US Tech Companies Worried?",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-09/what-is-ai-distillation-and-why-are-us-tech-companies-worried",
+        "source": "Bloomberg Technology",
+        "summary": "Artificial intelligence companies in the US have spent hundreds of billions of dollars to develop advanced chatbots, betting they can earn enough from customers to justify the investment. That approach carries the risk of being undermined by rivals who build competing AI systems for far less.",
+        "published": "2026-09-09T19:53:02+00:00"
+      },
+      {
+        "title": "Apple presenta iPhone Duo plegable de US$1.999",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-09/apple-presenta-iphone-duo-plegable-de-us-1-999-mtuhynia",
+        "source": "Bloomberg Technology",
+        "summary": "Apple Inc. presentó el miércoles su primer teléfono inteligente plegable, con lo que busca reactivar el crecimiento de su línea de productos más vendida.",
+        "published": "2026-09-09T19:34:12+00:00"
+      },
+      {
+        "title": "Not Traditional Bank, Staying Asset Light: Chime CEO",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-09/not-traditional-bank-staying-asset-light-chime-ceo-video",
+        "source": "Bloomberg Technology",
+        "summary": "Chime CEO Chris Britt joins Scarlet Fu on \"Bloomberg Deals.\" Chime Financial struck a deal to buy Stride Bank for $590 million in cash, snapping up its longtime partner as the fintech streamlines its operations. (Source: Bloomberg)",
+        "published": "2026-09-09T19:25:11+00:00"
+      },
+      {
+        "title": "Dell Raises $5 Billion From Bond Sale, Sees Strong Demand",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-09/dell-seeks-to-raise-4-billion-from-bond-sale-to-refinance-debt",
+        "source": "Bloomberg Technology",
+        "summary": "Dell Technologies Inc. raised $5 billion from an investment-grade bond sale that saw booming investor demand as the company rides a surge in revenue from AI servers.",
+        "published": "2026-09-09T13:41:48+00:00"
+      },
+      {
+        "title": "Awaiting Anthropic IPO, Chime Makes 'Strides,' Bugatti Deal | Bloomberg Deals 9/9/2026",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-09/bloomberg-deals-9-9-2026-video",
+        "source": "Bloomberg Technology",
+        "summary": "A weekly, midday program that delivers high-impact, editorially driven coverage of the most important corporate transactions shaping the global market. Today's guests: Chime Co-Founder & CEO Chris Britt, Class V Group Partner, Founder Lise Buyer, Deutsche Bank Chairman of Global Technology Investment Banking Ajay Shah, Renaissance Capital Senior Strategist Matt Kennedy, and HOF Capital Co-Founder & Managing Partner Hisham Elhaddad. (Source: Bloomberg)",
+        "published": "2026-09-09T19:02:21+00:00"
+      },
+      {
+        "title": "Apple Takes on AI Wearables With Always-Listening Watch Features",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-09/apple-takes-on-ai-wearables-with-always-listening-watch-features",
+        "source": "Bloomberg Technology",
+        "summary": "Apple Inc. is adding artificial intelligence-powered audio features and other new capabilities to its devices, including its premium smartwatch, to take on a growing category of AI wearables.",
+        "published": "2026-09-09T18:58:50+00:00"
+      },
+      {
+        "title": "OpenAI offers AI for chip design, touts cost advantage over open-source, CFO says",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVUJucVhXdkg2LXRFUWlWNDBaNm15VURrdEc5anpSaXNOVzJwTWJmQVE5Yms4aDlmRXhoU0RMSHN0dm5ZbF9qY19ZUUR2Y21fX3ZGZDhOTGgyVGpMS2s2UkxPNHVDZnZjRFppMzJQLUFsLXEzb1l1bWJPMWlnZm5XV21lYkt5STNRbGZuaTFzMXMxWGxIY2tGXzN6RDllSGc4a0dWcW15VlZiVENvOEJwY0JFcV9mWEJ1ZnVLb25IbUs?oc=5",
+        "source": "Reuters Technology",
+        "summary": "OpenAI offers AI for chip design, touts cost advantage over open-source, CFO says Reuters",
+        "published": "2026-09-09T00:43:00+00:00"
+      },
+      {
+        "title": "EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWXFxSC1yRTU2ejFxemZvWTFuejRhSXZTY2cwVUFCU21iLURyaGltd3BCTGlJeXR4NEJzZUpldTN2M2RfQ191TV9rb1RfeExhSms3elNGLVV4cU9nbG9oNWV3dFB5S1ctLXNBSDVOdjZsYnZoYklyb2FmdDZrLVBsYTEzT1c5Unhpd1dacUNpMWNzd1UxYnZMR2NrSWVMSEQxYXFXRGE4RDktQzIwS2xGaG9sWUFvNlAtbDVLNElSWQ?oc=5",
+        "source": "Reuters Technology",
+        "summary": "EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say Reuters",
+        "published": "2026-09-09T20:47:20+00:00"
+      },
+      {
+        "title": "Analog Devices to buy Alif Semiconductor for $1.35 billion",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmI0Ym1wdlpTVDlBV0RQdVhpY19wS1lLcFFIZ3FLd2Y4TjZoOTNaY1NHZGoxWERJLWRGOVFTMlBjeXF2dGZPVjFmU1VjMFBqUFBzMjBILUw5ekZ4UU1EeTB1cnVfbFZIcVBidERqNXFSSUJRNjFxVVVMZTFkVTkwYnhxdnJOZDJfc1IwdExVUzhJVUx1a3NFR0VBcHg?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Analog Devices to buy Alif Semiconductor for $1.35 billion Reuters",
+        "published": "2026-09-09T12:57:43+00:00"
+      },
+      {
+        "title": "Suno releases new AI music models in partnership with Warner Music, BMG",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLUU2OHhzTDE2cXROTGVBNkRiR2g1bWZSRUZDeXlDQjhidWkyVHBYeXJ2NUxfdlRhS0dxdzM1LTdiSnlHUTl5V0tzdnRGYW5DajVqWE9DaFhOckF6b2l0N2lwVmVVYWgtVmQwMmdhVWh3UWVfaWpfVTVXbDVyeDVTMEhQaXZPX3ZrUVUwZmx5a0h6NFFUeWg2RmxjcEcyOXRlSHl3RUVzMGRYNDFqV2hVZ19GUGFpU3RGR1lBWQ?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Suno releases new AI music models in partnership with Warner Music, BMG Reuters",
+        "published": "2026-09-09T18:33:46+00:00"
+      },
+      {
+        "title": "Cognition AI raises $2 billion at $48 billion valuation",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc3hsV1U1MTdYTkgwaHJhanppVTU1cUZVLW94amhlM3liQjE1SUVFdnJtRFlvcExWRkI5RURMMllzd1djSlhUT09VTGotRHhFZm1NTmdDTXpEYmdNaVhITU1STXdTSVE3NlhQVVAySTE1WUVhXzZSZzdSUl9DRVlmVWVpaEl0cXR5ZzBjYUZlaDRzbkVfSFllNVJEOWlHQQ?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Cognition AI raises $2 billion at $48 billion valuation Reuters",
+        "published": "2026-09-08T21:52:55+00:00"
+      },
+      {
+        "title": "Ooredoo-backed Zankore secures $3.1 billion financing for Nvidia AI cloud platform",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORGRWOGlmVzZad0ZOUVZNb0NBZjMyTEgtWFJwaVFWWm5tM3B4eC1DSmhlc3JBWU15NHdUVks3Yzk0a2M5VlhueWQxbnR3NERkRFNEZmhGMWVKOVg2WlU4Zkx4WmlvSmUtcHhkNVhjN0VHMU5RNllIbjNiVFdycUhvZEFzeTNjVi1OOXZoODBoc1BacC1KS2FkUlJJMlhfWDhKR19XdHI2TjJTelpGV3NCMTM0TllROHo3cVRFSGZnZ2xWTUhuVGNGNkkwMjNueGRa?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Ooredoo-backed Zankore secures $3.1 billion financing for Nvidia AI cloud platform Reuters",
+        "published": "2026-09-09T09:58:40+00:00"
+      },
+      {
+        "title": "Breakingviews - COMMENTARY: French AI minnow bags surprisingly high valuation",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOejNUQU01WWpaNDNpay1qbUtubTYwYXQtSGFVdEREOHFtRDBnY3N5MkZvOE5kendiQ1JNcTdnQ0FPY1AzdkhUTjBPb3FTZHRpT3p3Z3dYXy1yc2RjRmpoaEhZRVdWbTN3bzVOd3VDSWZldDMtQVo3WVQza2hIVDRTQkEzdG0wY1lTcldJTHh3NDF3elJGMXg0S2JSejZWY2gyNF9qaFlUdW41aEd2cm9j?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Breakingviews - COMMENTARY: French AI minnow bags surprisingly high valuation Reuters",
+        "published": "2026-09-08T13:20:50+00:00"
+      },
+      {
+        "title": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGlWeGFlRDRYZVowU2Y0Y0FJTlRmQW5ubjJwNGcxb3NsQnRBUVo5eWtMdnhoSlAzM0FKdlJHWkpJR2lxZUZHcWg5cFBqb1NxNm9Ma0MwR3AweEZpUEFTZ1JRZ3pjSDN6V2VOdE1nUjhBQU1PdlJ5Z29xSDloZHZOOExRbHotYVlRUDd0X2tpa2JVR3U1NTBHc3VhZkYzMDN4ZE9KWl9lZnFBZzkwZEE?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland Reuters",
+        "published": "2026-09-09T15:03:04+00:00"
+      },
+      {
+        "title": "Lawyer-backed VC fund launches to invest in legal tech",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeTFVUXlscG1Yam45M296WU8wYzJmMExVaGQ2MW9pNGY3Qm5WOXBDSTlCWWRkdGs2RUVqa0hJTV9USUphZHo5WTZEc19hY1FlYklLeVdCUlpPZHY2NTA2WUpUbWFUeTlwV2R3ZTFsT2JtNWFxQ19HbU5fWXNDZHVfbXd0c0tfV3k2Tk1JTHBYaUR1SXM1b1MxR2FYaWIwUkJuNE1nOFhQUQ?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Lawyer-backed VC fund launches to invest in legal tech Reuters",
+        "published": "2026-09-08T19:43:43+00:00"
+      },
+      {
+        "title": "EXCLUSIVE: China's DeepSeek taps CITIC Securities for domestic IPO, sources say",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNek1sMFNoNUdTTkFsT0lPdmU1dTIweFppQjJhZ2lBWDV4VTFkTmdDbGpmVDlCQW1pRkpIZWpzNC04S2tKNlZReGdKdzhlclc2dUZnelBTN0RxSmV5X1JXU3J6cU9WaWc3UHJRejVIc2ZxODRzVXByMk00LTE1WHg1SUZNSWstNU1Wazgzcjk4YjU5b3BWRGJGNnBYTFgwb0I1ZFJxR2U3Yw?oc=5",
+        "source": "Reuters Technology",
+        "summary": "EXCLUSIVE: China's DeepSeek taps CITIC Securities for domestic IPO, sources say Reuters",
+        "published": "2026-09-09T06:11:00+00:00"
+      },
+      {
+        "title": "OpenAI says working with Samsung on next-generation chips, deepening cooperation",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY2o2VUItNFg5QW81Z1pGUDRZejdleV9jLXpNTTRFWWd6aHVrRkEzYk04dHIwUU1DcXNBc2pGQ2hFU01UNUtkZVBseGd1RE9SdGotVkxnLWZoYk9BQ2owaHZKZ1NNQTEtUDdaSzMtZXFMcnB2RXNtbjBEMXhwUGJhQXgtNmZLTHNnODdPTVNYZ3c1ZXZJclUzOWJBTkZuaVREVWN3a2Z0TUh5MjY4MmFsTWMyWEdIVWF6LXNWQVpELXR1SXFucUNhQ3Nzbw?oc=5",
+        "source": "Reuters Technology",
+        "summary": "OpenAI says working with Samsung on next-generation chips, deepening cooperation Reuters",
+        "published": "2026-09-09T05:58:00+00:00"
+      },
+      {
+        "title": "Reuters and ITN partner to bring 70 years of broadcast history to new audiences exclusively through Reuters Connect",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3JFOF9KS3dZcVlxZ2ZHWkVScGY2YWRyRXBzTkdWcl90MUlWN3pNOXFXa1cyVFpBcEw5eVpBYl9Cb2loRzZDbVQ3OFRMdjhoS1QxdWo1Z2oxT0tiZzVxMXpyUGE1QlhTS2ozZ0p3OGU1eWYwb1RBaTNObGlJblAwN21mUXVLUWV2WlZEY2Jua2dzSHN3UWpyYlpuczZMME5TWnVqV2lGNlRjcjlLSENxdU4wSjM1YXJaaktoSHlRM1NCRUZOcFE?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Reuters and ITN partner to bring 70 years of broadcast history to new audiences exclusively through Reuters Connect Reuters",
+        "published": "2026-09-08T10:52:41+00:00"
+      },
+      {
+        "title": "Five takeaways from Apple’s biggest product showcase of the year",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2NHUUdXa0Z4cWZtOFdfWkdQLXcxZWcxMkJIblZpVkNwVnBJUENZdjNQWXprQnM5SkFXTFY1a3hqUUJFY2FCZk5TZFJhaWFtQVlqZ2F1ckhkTXlaRHl4TzFKazNTT2VYS0JPT2VROHFVNXZTV0d5TEE4N2ptR28teEdEMlp3aTNzVm5CYjZyTnRaSUdwbVd6Y0FLUlNRdERsa0JpMnh3RUJBcFY2Umt0Vm8wczBVRk51NkE?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Five takeaways from Apple’s biggest product showcase of the year Reuters",
+        "published": "2026-09-09T23:03:54+00:00"
+      },
+      {
+        "title": "UAE and Germany look to build ties with investment, energy and AI deals",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbHVyY1EyVkN0ejVTZnJMXzVmVGNCQTJzUmNmWTJkVi1ZWnRfRTJSd3NTT3V3ZmdUc2xXdGZhOHVpUnNtRVZNT1B4VkV3dWJhWFVZamJjT0FzdElsbGRvSk90UE1iSjFoR0txNmttdXFsUDNfcVVIWWlZeDhaMnFHYktsb2FuYm9qZGpUQXdCOERJcE5aWmQzWm9aS0JKMUM0YmxlY3NnSEEzUWFicThkU3VuNA?oc=5",
+        "source": "Reuters Technology",
+        "summary": "UAE and Germany look to build ties with investment, energy and AI deals Reuters",
+        "published": "2026-09-09T18:04:09+00:00"
+      },
+      {
+        "title": "Apple joins foldable phone race with $1,999 passport-shaped iPhone Duo",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbWlNdDREU0FXTWdNYTAyajJUNHR3NFVDd3dVVV92Y2dXSGpkZ1RKVGE3RVduaWtLX3piNElOQm1BWlV5RGFrNlJpSHZYQ2lHakU3T0NrVmVFNWhsVXJSazlEakQwZkN1blVSdEFZSWVnUmZZWFFmcm5KRUZ2TXFaY3ZJT0U3ckhVLWhvQ3lIalBZWXRSMzNORXV2YnBUT2dORVZFYWw1aHJWbl9MdFBpcGoyb2hOcG10VXVzZ0k0SzM4b0h5RnhMOTJB?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Apple joins foldable phone race with $1,999 passport-shaped iPhone Duo Reuters",
+        "published": "2026-09-09T21:04:32+00:00"
+      },
+      {
+        "title": "Anthropic discloses fourth AI hacking incident missed in earlier review",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaU1ZZ0ZRWnBaSnRlakoxVTU1SE9aZTEySkNZU2N2eU5XWG9remJKT29feUVoNlhhQVpfWnNFd1NKZ0xnb3lobTExTXE5dXZud0tCbGVLMzR4Y0NFRkRRUUlnWUllbjVTcXBWeHJzMDJVamFBQjJveC1PNThKSGUzNlRfUlVEVkJPbHhtendZdXdsSmdva0RvT3NidFdSb3BWSmd6R1lFb1NxYXdjR0xKeVVnZWY4c3JlbHlycFhkcXlmQ1Jv?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Anthropic discloses fourth AI hacking incident missed in earlier review Reuters",
+        "published": "2026-09-09T22:18:17+00:00"
+      },
+      {
+        "title": "As Apple prepares to make a splash, a brief history of foldable phones",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONXFBSFBWSWRTZlJRS3RSU0p1RFo5MldCdzNVdG9JMjZOT0xFSllKMlRPLTVfZkZSM2xqRDlZYmRkUnEySWwwTmRmRHQyaF82eVNieTlPVjZ5OUkyOWJFVllfSExTd2NNamtSVmtGSWF2SGhoc0U2RzI4TmRhM3VGWGFnX2Y5VXlVb2xHM2NWOFBaaHRRU2ZTdmRSbjZTTldBaHpHRXNLZjJKVWh4aTg3RmFEeHhWcVZt?oc=5",
+        "source": "Reuters Technology",
+        "summary": "As Apple prepares to make a splash, a brief history of foldable phones Reuters",
+        "published": "2026-09-09T23:00:18+00:00"
+      },
+      {
+        "title": "Legal AI startup Harvey reaches $15.5 billion valuation in new funding round",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdlB6ckhOUjNOZ3VfSVNXTVBvQWlkLTRiWUwxLU1KZG9fT0t3QVI5U043NS1pdGp6UHpCM0hjTHFzZm5OelhkWVdZbkY3RnBBbEdCVnFTXzhJNl8yTW4tOHo5UzU3SEU5VW0xNFZnQkhCNjJzWVVWTmZEQUhsUVNYalpYNnpIZUo1S0UxNEF0MHFtalVablBwWFF1ZDE5V25OSDIzd2tadlZqdU9xdDFQc1YwR1FxNW91aDJKeHNaeF9iQQ?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Legal AI startup Harvey reaches $15.5 billion valuation in new funding round Reuters",
+        "published": "2026-09-09T19:33:26+00:00"
       }
     ]
   }
