@@ -1,101 +1,5 @@
 {
   "seen": {
-    "4dc5a9b388b90b3e3268e3b3dfc8effb": "2026-09-26T00:56:34.760817",
-    "270ddc73097a5e1300f3794f81228d22": "2026-09-26T00:56:34.760839",
-    "9550a58b2b1b218d51467459e78b4b48": "2026-09-26T00:56:34.760849",
-    "8de38d3557903f2c0a94ba903bb450b2": "2026-09-26T00:56:34.760856",
-    "41845a3718a21864019f968aeb3eb068": "2026-09-26T00:56:34.760861",
-    "4b9cd4f252fed7b064957e1ea4c617ba": "2026-09-26T00:56:34.760866",
-    "49ebd97751d451bab8f2aa055457949a": "2026-09-26T00:56:34.760871",
-    "38b884af575750000119cd186ca87ae1": "2026-09-26T00:56:34.760876",
-    "6a4a022337e12f586cf66d34f99ee735": "2026-09-26T00:56:34.760881",
-    "137693ab52f61b0c74c2c3912d381c32": "2026-09-26T00:56:34.760886",
-    "656dc5dcef2da3c07fdf716d45b3b97f": "2026-09-26T00:56:34.760891",
-    "a948e5c03d79531e2186b89444b5c952": "2026-09-26T00:56:34.760896",
-    "6c6baa7010d71a0e207c1d20bb4c4fb0": "2026-09-26T00:56:34.760901",
-    "cd698a3c4ec208c9a101e02b9de6333b": "2026-09-26T00:56:34.760906",
-    "042f70b50965514cf1b4b734a6a5a018": "2026-09-26T00:56:34.760911",
-    "e3cc5ff4f95d9b90d4ae24bfdf50109b": "2026-09-26T00:56:34.760916",
-    "01b337fcbc638bc3ec073493a768b554": "2026-09-26T00:56:34.760921",
-    "c9621711fc221100308a2c81c8062ad9": "2026-09-26T00:56:34.760926",
-    "1c04fad4c986fa2bca862bc05169469f": "2026-09-26T00:56:34.760931",
-    "e0251efd99526d543c71c54122c376dc": "2026-09-26T00:56:34.760936",
-    "5971e3b806675436c64b5b111d514096": "2026-09-26T00:56:34.764471",
-    "96a613d78f3bda51ab3a50b4ed18e6d9": "2026-09-26T00:56:34.766078",
-    "0ceaa06175584b71e42f3aae505638be": "2026-09-26T00:56:34.770182",
-    "78bf185292cc93cac903a779ed28398e": "2026-09-26T00:56:34.773306",
-    "0a72912534eee72bae1dd35fc8492a22": "2026-09-26T00:56:34.776195",
-    "92d4a2983f370fc2356e3dbe4f63baab": "2026-09-26T00:56:34.779662",
-    "548f5a0f314c2af054529eda9962ad3e": "2026-09-26T00:56:34.781796",
-    "c01ce16603fc259093ee63ee7640685b": "2026-09-26T00:56:34.785112",
-    "c9b5497b9f7c1fa81ccc71e50bf0a857": "2026-09-26T00:56:34.788494",
-    "0673f7a6cee0ee21b0c8929a1c512a06": "2026-09-26T00:56:34.791427",
-    "e8af174abe4b4f2a6fc66bc8773bc568": "2026-09-26T00:56:34.798539",
-    "9d0efeae14a7cbbe7d0bef1aef76be9c": "2026-09-26T00:56:34.804948",
-    "d3118921fb916bc910e79f885f63449a": "2026-09-26T00:56:34.809623",
-    "1e1e7f496eb75736875358751961610f": "2026-09-26T00:56:34.816372",
-    "c3e2e1a28d98b94925e306acd72f637c": "2026-09-26T00:56:34.822753",
-    "3f533bda145b1c49f2d243e1f67774f5": "2026-09-26T00:56:34.828636",
-    "e0dc03ba438681439b7c6297c16b5738": "2026-09-26T00:56:34.834381",
-    "18425379d52d347d584ae1eba9227a45": "2026-09-26T00:56:34.839264",
-    "81618c73237dc23ef6903e4b365a90d7": "2026-09-26T00:56:34.845718",
-    "dbc6729a437d7b493983dfcc1e4f2b98": "2026-09-26T00:56:34.848788",
-    "8322dc27533119c1c1206d96760200d0": "2026-09-26T00:56:34.852245",
-    "b201b8e7d7dd5cd42e514a5e07f989a7": "2026-09-26T00:56:34.858568",
-    "5d746694e148349c2b06329bb7c14f9e": "2026-09-26T00:56:34.864192",
-    "7dc36e5b5ce2cc3970ab5e553808650e": "2026-09-26T00:56:34.870354",
-    "25817ed313e738e9d2368753e431344d": "2026-09-26T00:56:34.875714",
-    "2336864fa7824886be9c9ee0a9b2175f": "2026-09-26T00:56:34.881609",
-    "24ed59c1a989df95fa80402de284e13f": "2026-09-26T00:56:34.888480",
-    "e295364fbbc6f9bd7b39e329dd80cc98": "2026-09-26T00:56:34.896191",
-    "7b137ac78fd00796fb0d36b400438b65": "2026-09-26T00:56:34.902308",
-    "a660d5241a2805ebb91164bdc6893e2a": "2026-09-26T00:56:34.907573",
-    "03676efefd3d67d83c91b16ade68cff2": "2026-09-26T00:56:34.913113",
-    "275b14dca5e8d628e55e254b654fb1e6": "2026-09-26T00:56:34.918297",
-    "a7628d52a8db67e6a0c755cd024ff8de": "2026-09-26T00:56:34.925829",
-    "97189b66f2017266ecabc1725f16e8f5": "2026-09-26T00:56:34.931867",
-    "dd91c77ca8a0810dc6fbad753ff92ab1": "2026-09-26T00:56:34.938224",
-    "ba77b92ed4a9909d92f8e105a022110e": "2026-09-26T00:56:34.942230",
-    "e032a18640512c2e3871a4ff221b0c4c": "2026-09-26T00:56:34.948280",
-    "8e4bd2cd6b03539edfdfcc9da005fdd8": "2026-09-26T00:56:34.954639",
-    "1e03fe17a26ab5af516cdaf77b258370": "2026-09-26T00:56:34.960508",
-    "74b9e547072c835785d54c897a3b5fcd": "2026-09-26T00:56:34.967084",
-    "0298dba2183e5f51b68f937af50a5093": "2026-09-26T00:56:34.977275",
-    "82ba05e90ab5872e26bc8833b9f86d97": "2026-09-26T00:56:34.990664",
-    "5ec6918a941cdd21468b84c6eea2c6d6": "2026-09-26T00:56:34.998693",
-    "50bf81bf027528ccc8ffc41b09747b1c": "2026-09-26T00:56:35.008527",
-    "40ca5990a6c603247365fada82621721": "2026-09-26T00:56:35.017172",
-    "3f82b57b1867c8f64e95e0f7e7eb6587": "2026-09-26T00:56:35.026978",
-    "e13506ecfa719036255d41f6cab1134d": "2026-09-26T00:56:35.038878",
-    "dbc3745d86e1e58f337617d856f85d53": "2026-09-26T00:56:35.050962",
-    "471134d68e4dec7e82dfb86a57faa3d8": "2026-09-26T00:56:35.059666",
-    "12e13cf987a3734fced5818ae53ac06d": "2026-09-26T00:56:35.069884",
-    "db474621d18afa3672b2614d32a53c87": "2026-09-27T00:57:23.358931",
-    "4406bcba8c883843723c002fad7957e8": "2026-09-27T00:57:23.358952",
-    "cb948f29afe1e73f362bb4763ba877cd": "2026-09-27T00:57:23.358959",
-    "013b17239c5a0dcf428c2da0613f5b07": "2026-09-27T00:57:23.358965",
-    "974092efe5bb9e366a48a52ac2320aec": "2026-09-27T00:57:23.358968",
-    "e0c16d6f1c1de1ee3af97c33cecf8e2b": "2026-09-27T00:57:23.358973",
-    "cb34b629266bd7886171b1e8eb4cb4e2": "2026-09-27T00:57:23.359857",
-    "2e480811d091f146b76ba196202f27ea": "2026-09-27T00:57:23.360610",
-    "b6c23f3fc1b465db82b24a2dfb45e9e0": "2026-09-27T00:57:23.361384",
-    "ff2e233268a7a84e35062dd6b1dc9208": "2026-09-27T00:57:23.362090",
-    "3aa3a6348b5a2753d8028c057132baa8": "2026-09-27T00:57:23.362792",
-    "719eb6890ad884a6758b3836404b8d9d": "2026-09-27T00:57:23.363794",
-    "e29011b695d61d4792d02a620cd4adfb": "2026-09-27T00:57:23.364674",
-    "49f4eb63ca2ff9edefbac97ef317e6b6": "2026-09-27T00:57:23.365303",
-    "4d55ff9da15a5b9279e50765fa8c7479": "2026-09-27T00:57:23.367091",
-    "bac3880697a1f4df8bac1a9a1128b2b1": "2026-09-27T00:57:23.369282",
-    "22e3ed6cedbebbc5633f3b13ac89d015": "2026-09-27T00:57:23.371401",
-    "350b22862468b723123c0c0f328be61c": "2026-09-27T00:57:23.373459",
-    "5f1c1a30758b3e6a36ebbfa30be46946": "2026-09-27T00:57:23.375112",
-    "4f5af3341cf3c722e9921cc2910d9d56": "2026-09-27T00:57:23.377138",
-    "8e91635dd0fdadda4821bc7b9d54d73f": "2026-09-27T00:57:23.379026",
-    "0f631bce02437e62c5c94fc0263d2408": "2026-09-27T00:57:23.382414",
-    "210aabe19acefa91e14a3c6ad98e06aa": "2026-09-27T00:57:23.386161",
-    "cdf58100f4993f51c3367ca530a7e79b": "2026-09-27T00:57:23.388448",
-    "e97db5ff9bdb9473554f715592973c6c": "2026-09-27T00:57:23.392006",
-    "ec48bdba61230aca19c0753267c9f2db": "2026-09-27T00:57:23.394537",
     "920676792664d129c737454dec1c129c": "2026-09-28T01:14:12.794381",
     "ee2957dde3efd9fdeba179fb1c8089db": "2026-09-28T01:14:12.794410",
     "62faa8b88a01a5d9258877692dfdab12": "2026-09-28T01:14:12.794420",
@@ -1825,235 +1729,80 @@
     "7f4fb1e83235a83abd414089ca46134d": "2026-10-26T00:45:33.759893",
     "dfe81a852601058c618105fe8ec50bb8": "2026-10-26T00:45:33.764384",
     "115a2c26e763e11a692746b48ce9d48c": "2026-10-26T00:45:33.768031",
-    "4abcbdddf1cf4044f69a240b8b370838": "2026-10-26T00:45:33.773235"
+    "4abcbdddf1cf4044f69a240b8b370838": "2026-10-26T00:45:33.773235",
+    "636dd8e40f57df258940d50144b45208": "2026-10-27T01:38:14.111472",
+    "57ebee411e646cb8e4e4a54cf874831a": "2026-10-27T01:38:14.111501",
+    "dace5288fc19ee9cdae65fe948ac1413": "2026-10-27T01:38:14.111511",
+    "16567a8dd2cb79b54bd767afdef7dc84": "2026-10-27T01:38:14.111517",
+    "fe7393b34861e8f96b745a8f817ed902": "2026-10-27T01:38:14.111522",
+    "c51f3946ef3c8d71cc5b9f824baba375": "2026-10-27T01:38:14.111527",
+    "dd3e64ee2488a915dbd57df7a6589c95": "2026-10-27T01:38:14.111532",
+    "a1e473630673b6a342cbdee0a5302226": "2026-10-27T01:38:14.111537",
+    "f243688bda14b7af69e02241cf11b754": "2026-10-27T01:38:14.111542",
+    "52208939c27fc9bc776e738ddc3ef018": "2026-10-27T01:38:14.111547",
+    "8cbd8d09602ba622591fbf057d4ebdd0": "2026-10-27T01:38:14.113105",
+    "906ba9a6c16ada86793a463c93e76ac5": "2026-10-27T01:38:14.114720",
+    "2530538e5d756b567afde1a754914e00": "2026-10-27T01:38:14.116296",
+    "b4f9635c8b512a1d427134126110f8b3": "2026-10-27T01:38:14.117999",
+    "7e40279e72fc6a31bed239fec9b54feb": "2026-10-27T01:38:14.119841",
+    "94e8bf07f775e7741124d4c66f79c8d5": "2026-10-27T01:38:14.121270",
+    "8f4c26bb6bac1e753b823b858f91ab85": "2026-10-27T01:38:14.123112",
+    "2b01b79f74d7a719b3f80a2c9e023210": "2026-10-27T01:38:14.124235",
+    "d581a6e13878f9893a8552fab30804bd": "2026-10-27T01:38:14.125255",
+    "bb06af6daa7407fb24133bd0bf139e76": "2026-10-27T01:38:14.126381",
+    "05a190b91f3651ce62a40600d3ca804b": "2026-10-27T01:38:14.128008",
+    "1d15cdd667da31007c7e15f5b6f56724": "2026-10-27T01:38:14.129359",
+    "d53a98aa499d2d986b79e0f5a7a13b31": "2026-10-27T01:38:14.130717",
+    "227785d1c8cbe64516029ac12808b8b5": "2026-10-27T01:38:14.132059",
+    "662827081cfe585602755055d6b6b32b": "2026-10-27T01:38:14.137731",
+    "0314cbacd17dd67f0179969f222b5537": "2026-10-27T01:38:14.141500",
+    "1af9c31b3869ba504326341fd92b50a0": "2026-10-27T01:38:14.144677",
+    "02ab182d9cdd766f5f923543f47b8341": "2026-10-27T01:38:14.148869",
+    "47d61d086d7de3d882a4338fe4241689": "2026-10-27T01:38:14.151438",
+    "a5793b2102a189ba4a37893ad8cb3503": "2026-10-27T01:38:14.152277",
+    "b7e154922e419d3146f844988ab19faa": "2026-10-27T01:38:14.156167",
+    "703b1ccae45b8f3479a0794d2c0206ee": "2026-10-27T01:38:14.161351",
+    "d444ad2cae98444858792b18757a1336": "2026-10-27T01:38:14.165362",
+    "9f96b897b8ad2a33a234c26dbb6afdc8": "2026-10-27T01:38:14.169451",
+    "85fefb667b26639acd7a4cbac23c220d": "2026-10-27T01:38:14.174065",
+    "4ce57ae184efd6b202aec48a9a66c118": "2026-10-27T01:38:14.177844",
+    "166b23b115ceedde4824e7063677aa35": "2026-10-27T01:38:14.181309",
+    "2f24b17ba8e4b942f0ba005db97f5d62": "2026-10-27T01:38:14.185150",
+    "52cf40f02881b01fd2497f95623323c7": "2026-10-27T01:38:14.189516",
+    "8d091756d3812bdb63a9b279c0ddbdb6": "2026-10-27T01:38:14.193178",
+    "6dedf4ff52202371e695992f0736a8db": "2026-10-27T01:38:14.197256",
+    "461c72572f547a02812fd3f2352278ff": "2026-10-27T01:38:14.200774",
+    "f463a454049c46859d1c39ab0fc2fecf": "2026-10-27T01:38:14.205041",
+    "aac4c4f35c7104f712e8edf4b059c355": "2026-10-27T01:38:14.208826",
+    "f805e8e504631e80fa14e309b62ba434": "2026-10-27T01:38:14.213026",
+    "625c13a09ec2f2a0e0e8cf9db01a9612": "2026-10-27T01:38:14.216643",
+    "6fe8bf876ade2ab2dd39606069cd6513": "2026-10-27T01:38:14.221386",
+    "1be78c880618bcc0ed2434bcd2d2d674": "2026-10-27T01:38:14.225712",
+    "a9be6e5fc4a5f2fd807f7ce0547d745c": "2026-10-27T01:38:14.231065",
+    "2be9dd6843f662f2a0cc7607e384a586": "2026-10-27T01:38:14.235016",
+    "6cfbce0862e92e2c13bee8373d499733": "2026-10-27T01:38:14.239027",
+    "34c8ca813672f0aadb9c504032ffef2f": "2026-10-27T01:38:14.242963",
+    "83c42d5d442c49cf872c46e93915dc8d": "2026-10-27T01:38:14.249683",
+    "0e8d5e045f957c0d7b4597d3d99e3e85": "2026-10-27T01:38:14.257988",
+    "284d63aee84baa5e750afe24c2d374a8": "2026-10-27T01:38:14.265861",
+    "9486e5031964f1f6fc2e19555796f799": "2026-10-27T01:38:14.274240",
+    "f43c8aa4f003a01cd738354c4275c90d": "2026-10-27T01:38:14.281512",
+    "1092dcaa982ae16866633faf28cbb69d": "2026-10-27T01:38:14.289008",
+    "2e8356c69212e8af54909e0aa6798777": "2026-10-27T01:38:14.297482",
+    "655cbd5040bf516c2dc89a6736660312": "2026-10-27T01:38:14.305882",
+    "95efc26e7b55c8f58cf564de494154f2": "2026-10-27T01:38:14.308387",
+    "aeac314fb70e0c2594e0ba1802d0c54c": "2026-10-27T01:38:14.316994",
+    "ee2b9f390369d314063733534a3b427e": "2026-10-27T01:38:14.325621",
+    "49ea0386a92e8e7807b32cea19234648": "2026-10-27T01:38:14.332636",
+    "5b0226274120d3779100b218bae8f342": "2026-10-27T01:38:14.338656",
+    "feeceb48ca0ee451b000b50b18770aa7": "2026-10-27T01:38:14.346697",
+    "9c1a579d11a091fbb2075dff7c80acb8": "2026-10-27T01:38:14.353875",
+    "9b5aaf0b969bf2af9c10a5f05db7da82": "2026-10-27T01:38:14.360649",
+    "6673d69f1f18e0d1061d628bdd3989fb": "2026-10-27T01:38:14.369300",
+    "386b8c945fab7ceb1c00df858bd52b9d": "2026-10-27T01:38:14.376703",
+    "e195a94a384b8b1e27fe09c1916b7a43": "2026-10-27T01:38:14.383934"
   },
   "today_articles": {
-    "2026-10-25": [
-      {
-        "title": "Starlink seems to be working normally again in Ukraine",
-        "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
-        "source": "TechCrunch",
-        "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
-        "published": "2026-10-24T20:46:34+00:00"
-      },
-      {
-        "title": "Will AI expose the rickety infrastructure of the internet?",
-        "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-        "source": "TechCrunch",
-        "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
-        "published": "2026-10-24T20:15:33+00:00"
-      },
-      {
-        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-        "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-        "source": "TechCrunch",
-        "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-        "published": "2026-10-24T19:00:00+00:00"
-      },
-      {
-        "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
-        "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
-        "source": "TechCrunch",
-        "summary": "Instacart might sell itself to a larger competitor.",
-        "published": "2026-10-24T16:30:00+00:00"
-      },
-      {
-        "title": "Block’s new voice model sounds eerily human",
-        "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-        "source": "TechCrunch",
-        "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
-        "published": "2026-10-24T16:00:00+00:00"
-      },
-      {
-        "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
-        "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
-        "source": "TechCrunch",
-        "summary": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
-        "published": "2026-10-24T15:30:00+00:00"
-      },
-      {
-        "title": "These clever apps show off the iPhone Duo’s potential",
-        "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-        "source": "TechCrunch",
-        "summary": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
-        "published": "2026-10-24T15:00:00+00:00"
-      },
-      {
-        "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-        "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-        "source": "TechCrunch",
-        "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-        "published": "2026-10-24T15:00:00+00:00"
-      },
-      {
-        "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
-        "url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
-        "source": "TechCrunch",
-        "summary": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.",
-        "published": "2026-10-24T14:15:00+00:00"
-      },
-      {
-        "title": "Here are the top AI agents that can live in your text messages",
-        "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-        "source": "TechCrunch",
-        "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-        "published": "2026-10-24T14:00:00+00:00"
-      },
-      {
-        "title": "Blue Planet III is keeping the rough edges in the age of AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-        "source": "The Verge",
-        "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue […]",
-        "published": "2026-10-24T21:29:12+00:00"
-      },
-      {
-        "title": "Pennsylvania will require labels on AI-generated ads",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-        "source": "The Verge",
-        "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as […]",
-        "published": "2026-10-24T18:32:21+00:00"
-      },
-      {
-        "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
-        "url": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
-        "source": "The Verge",
-        "summary": "Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project before growing into something closer to R&B. But from moment one, her take on the genre was restless, relentlessly playing with what R&B […]",
-        "published": "2026-10-24T15:00:00+00:00"
-      },
-      {
-        "title": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
-        "url": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
-        "source": "The Verge",
-        "summary": "Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and various soundbars through November 1st. Right now, for instance, you can snag a 55-inch […]",
-        "published": "2026-10-24T15:00:00+00:00"
-      },
-      {
-        "title": "What to expect from Apple’s ‘Pro and tell’ event",
-        "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
-        "source": "The Verge",
-        "summary": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its \"Pro and tell\" event is scheduled for October 28th at 1PM ET in Los Angeles. […]",
-        "published": "2026-10-24T14:15:00+00:00"
-      },
-      {
-        "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
-        "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
-        "source": "The Verge",
-        "summary": "It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a touchscreen MacBook. Like the Apple silicon in modern MacBook Pros, RTX Spark is […]",
-        "published": "2026-10-24T14:00:00+00:00"
-      },
-      {
-        "title": "Lee Chang Dong ponders the ethics of the camera",
-        "url": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
-        "source": "The Verge",
-        "summary": "Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love is the latest in a long line of Lee movies that engage with themes of class or labor […]",
-        "published": "2026-10-24T12:30:00+00:00"
-      },
-      {
-        "title": "Laika has spent 20 years building up to Wildwood",
-        "url": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
-        "source": "The Verge",
-        "summary": "Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot, worked on sequences in The Godfather and Titanic, and directed a few episodes of Twin Peaks. Even still, nothing could quite prepare him for his first stop-motion project: working […]",
-        "published": "2026-10-24T12:00:00+00:00"
-      },
-      {
-        "title": "It’s time to find a new browser",
-        "url": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
-        "source": "The Verge",
-        "summary": "Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Demis […]",
-        "published": "2026-10-24T12:00:00+00:00"
-      },
-      {
-        "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
-        "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
-        "source": "NYT Technology",
-        "summary": "The comments were his first since the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.",
-        "published": "2026-10-25T00:10:07+00:00"
-      },
-      {
-        "title": "Bank of Israel Slams Netanyahu’s Anti-Sanctions Crypto Proposal",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-24/netanyahu-says-israel-mulls-crypto-ahead-of-possible-sanctions",
-        "source": "Bloomberg Technology",
-        "summary": "Prime Minister Benjamin Netanyahu floated using cryptocurrency to get around potential financial sanctions on Israel, prompting a strongly-worded rebuke from the central bank.",
-        "published": "2026-10-24T10:54:35+00:00"
-      },
-      {
-        "title": "AI Boom Faces a Growing Public Backlash",
-        "url": "https://www.bloomberg.com/news/videos/2026-10-24/ai-boom-faces-a-growing-public-backlash-video",
-        "source": "Bloomberg Technology",
-        "summary": "The Atlantic CEO Nicholas Thompson tells Bloomberg This Weekend that AI offers powerful tools for businesses but poses significant risks to media, while its broader economic impact continues to lag behind rapidly advancing capabilities. Speaking with hosts David Gura and Christina Ruffini, Thompson also discusses the discipline of distance running and how the sport shaped his relationship with his father and became an organizing force in his life.  (Source: Bloomberg)",
-        "published": "2026-10-24T14:08:22+00:00"
-      },
-      {
-        "title": "AI Boom Brings New Business to Matchmakers",
-        "url": "https://www.bloomberg.com/news/videos/2026-10-24/ai-boom-brings-new-business-to-matchmakers-video",
-        "source": "Bloomberg Technology",
-        "summary": "Linx Dating founder and CEO Amy Andersen tells Bloomberg This Weekend that newly wealthy AI creators are fueling demand for high-end matchmaking as busy professionals seek an alternative to dating apps. Speaking with hosts David Gura and Christina Ruffini, Andersen explains how her firm vets and recruits potential partners for selective clients, with matchmaking packages that can exceed $500,000. (Source: Bloomberg)",
-        "published": "2026-10-24T12:35:19+00:00"
-      },
-      {
-        "title": "Making Advanced MicroChips Takes a Global Ecosystem",
-        "url": "https://www.bloomberg.com/news/videos/2026-10-24/making-advanced-microchips-takes-a-global-ecosystem-video",
-        "source": "Bloomberg Technology",
-        "summary": "On Bloomberg This Weekend, Gideon Lewis-Kraus explains how advanced chipmaking depends on a deeply interconnected global network of specialized companies, including ASML and TSMC, making semiconductor supply chains extraordinarily difficult to replicate or relocate. Speaking with hosts David Gura and Christina Ruffini, Lewis-Kraus describes the remarkable engineering behind ASML’s EUV machines and why rebuilding a semiconductor ecosystem in the US is a generational project rather than a simpl...",
-        "published": "2026-10-24T12:00:10+00:00"
-      },
-      {
-        "title": "Technical Colleges Bet on AI-Driven Demand for Skilled Workers",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-24/technical-colleges-bet-on-ai-driven-demand-for-skilled-workers",
-        "source": "Bloomberg Technology",
-        "summary": "Technical colleges are betting a surge in demand for skilled workers will lift profits, though the payoff may take time as they expand campuses and programs to accommodate more students.",
-        "published": "2026-10-24T12:00:00+00:00"
-      },
-      {
-        "title": "Secretive Ukrainian Unit Behind Rapid Expansion of Deep-Strike Campaign",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-24/secretive-ukrainian-unit-behind-rapid-expansion-of-deep-strike-campaign",
-        "source": "Bloomberg Technology",
-        "summary": "When he started flying unmanned aircraft in combat, “Ray” was flying some of Ukraine’s earliest mid-range strike drones, on missions of about 100 kilometers with a warhead about the weight of a bowling ball.",
-        "published": "2026-10-24T09:00:00+00:00"
-      },
-      {
-        "title": "Japan’s GMO Internet Requests Government Cyber Defense Measures",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-24/japan-s-gmo-internet-requests-government-cyber-defense-measures",
-        "source": "Bloomberg Technology",
-        "summary": "Japanese IT services provider GMO Internet Group Inc. said it has asked the government to deploy active cyber defense as the company works to contain the fallout from a hacking incident.",
-        "published": "2026-10-24T06:06:35+00:00"
-      },
-      {
-        "title": "Malaysia May Widen Ban on Israel-Based Waze Traffic App, PM Says",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-24/malaysia-may-widen-ban-on-israel-based-waze-traffic-app-pm-says",
-        "source": "Bloomberg Technology",
-        "summary": "Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app Waze and said authorities aren’t ruling out even wider restrictions.",
-        "published": "2026-10-24T02:08:35+00:00"
-      },
-      {
-        "title": "Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered cyberattacks",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWlpZNXVZQXBxZ1hCTzA4X0VZYUh0QkhJb281X3VmMUt0VVZRY0N2N1Fja1dyZlB4cGlsTGktdjRaRzEzSDgtR01QS1F4V0ZsN0lsbzdTRjhRbG1MMlhfMkluTkxwTXFhOG1XZVVpRlRJX29ULXBEcUdTQUpoa2NkUmRMZFhDbkF3a0N3SDlqbTg1QnR3aFkwSW9LS181X0hsbXM1bXF2a0ZTWldQdlBMSlJRSzFoOGI2aFRF?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered cyberattacks Reuters",
-        "published": "2026-10-24T04:25:00+00:00"
-      },
-      {
-        "title": "Mark Cuban says AI hack agents are like cockroaches, but can be controlled",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUkFmbWpMV3VyOS0wWUNFVjQtOWlqM29COWc3eTVzRlhTWERBNXQ4emJfS1BZNU14NjY5WmxRN3dVLWVoZ3pJeTRDbUR3ZVVTRUpQSDQtTGRFUTA4Y3NGOXhmaEpzd2h0MVh6Z0ZQSFNHZTVFbVdCWVpxaDkyUVBHRFN6Zzc3WWRSd05ETldhZWszR29pT0I1YXhYb01iRU5HWmJkeWdLM1NSdV94Y2stS2hCQ2RpMHJ6bXZzejVCYTgtVVd5S2lUQnc3ODQ4c3NjdjNHQWpDTk8?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Mark Cuban says AI hack agents are like cockroaches, but can be controlled Reuters",
-        "published": "2026-10-23T22:30:37+00:00"
-      },
-      {
-        "title": "After previous day's slump, trading is quieter among AI shares",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM0M0UTBfYWZ4MlVRd2x0SHBLZjVTMGRfMkk2YkM0V2M5aTEwS0lqRUpuamp2YzVOakt5ek5lZTkyR2V5TTA1MUE5VHd1N05RMW9rQWZmZ1AwVWhld2c4a1VjRFpGcGpyNHh2N1BxSnU4cWhyR2NSajZ3MEtBWGxYbDlRbzVqdXJCTXYtdEF2ZTA3SGlqR0xiOFBobGVlTXFLbmFoTDVqOFI?oc=5",
-        "source": "Reuters Technology",
-        "summary": "After previous day's slump, trading is quieter among AI shares Reuters",
-        "published": "2026-10-23T19:54:14+00:00"
-      },
-      {
-        "title": "AI 'hallucinations' in court filings show signs of slowdown, but judges still sound alarms",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY2dhNE1kOVJZN1UxTml4bjMxLXdnUjI4YjA4OFRjRGkxTWV4M21VMEhEbloxWXZtTDV2N3dKQ2k4YndZUHlVb2RZbDVYUkE4b2RKZGMtTjJEZTFCZlc0bEFGOGZ5ODQ2VzdmSlBzUFNDaTk4RmdvbkhwNEMzMHNEd1FzS20wNW52MGVidTVoMV9IdVJmQ1ZWZUJWZzI4TnBVM0l0VWo4M3VlMGFjNExubHhCWkVWRWVERXVYYjA1NUZCY3E0TWxlcS1R?oc=5",
-        "source": "Reuters Technology",
-        "summary": "AI 'hallucinations' in court filings show signs of slowdown, but judges still sound alarms Reuters",
-        "published": "2026-10-23T20:07:45+00:00"
-      }
-    ],
     "2026-10-26": [
       {
         "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
@@ -2299,6 +2048,484 @@
         "source": "Reuters Technology",
         "summary": "HKEX launches AI and semiconductor indexes, licenses AI index in China Reuters",
         "published": "2026-10-23T10:15:06+00:00"
+      }
+    ],
+    "2026-10-27": [
+      {
+        "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+        "source": "The Verge",
+        "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in […]",
+        "published": "2026-10-26T23:34:58+00:00"
+      },
+      {
+        "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
+        "url": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
+        "source": "The Verge",
+        "summary": "Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&H Photo) and the 512GB version $99 (Amazon, B&H Photo). The smaller card typically sells for around $80, and the larger option usually sells between $150 and […]",
+        "published": "2026-10-26T21:56:36+00:00"
+      },
+      {
+        "title": "Anthropic is burning gas to feed the AI boom",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+        "source": "The Verge",
+        "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" […]",
+        "published": "2026-10-26T21:45:31+00:00"
+      },
+      {
+        "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
+        "url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
+        "source": "The Verge",
+        "summary": "Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an \"Edge Light\" feature for the iPhone Duo that's intended to illuminate your face during video calls. Apple previously said the iPhone Duo would add support for the Apple Pencil \"later this year.\" The company's first […]",
+        "published": "2026-10-26T18:51:06+00:00"
+      },
+      {
+        "title": "The NBA’s response to gambling scandals is to add more gambling partnerships",
+        "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+        "source": "The Verge",
+        "summary": "From the bright minds that brought you FTX Arena and NBA Top Shot NFT maketplace (where sales last month dropped to $762,781, which is a 99.66 percent decrease compared to the February 2021 peak of $226,350,843), the NBA announced Monday that it has new \"preferred\" prediction market deals for Kalshi and Polymarket, as well as […]",
+        "published": "2026-10-26T18:22:06+00:00"
+      },
+      {
+        "title": "The RealReal won’t let AI agents hog designer clothing",
+        "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+        "source": "The Verge",
+        "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve system. On the retailer's website, […]",
+        "published": "2026-10-26T17:30:55+00:00"
+      },
+      {
+        "title": "Apple acknowledges iPhone Duo display &#8216;issue&#8217; after reports of cracked screens",
+        "url": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
+        "source": "The Verge",
+        "summary": "Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomberg and 9to5Mac that it's aware of \"an issue impacting the inner display\" on a \"small number of iPhone Duo units.\" If your iPhone Duo […]",
+        "published": "2026-10-26T17:28:07+00:00"
+      },
+      {
+        "title": "Nothing&#8217;s eye-catching Ear 3A earbuds are matching their best price to date",
+        "url": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
+        "source": "The Verge",
+        "summary": "If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s Ear 3A are worth considering. The wireless earbuds offer a lot of features for the price, and they’re an even better value now that all four colors are on sale at Amazon, Walmart, and Best Buy for $79 ($20 off), matching […]",
+        "published": "2026-10-26T17:25:34+00:00"
+      },
+      {
+        "title": "Five weird details from Anthropic’s IPO filing",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+        "source": "The Verge",
+        "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300 pages, there's a lot to […]",
+        "published": "2026-10-26T17:10:23+00:00"
+      },
+      {
+        "title": "Everything old is new again with the Fitbit Edge",
+        "url": "https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health",
+        "source": "The Verge",
+        "summary": "Last week, I sank into my living room couch and watched a bedraggled, nihilistic Matthew McConaughey take a drag of a cigarette in season 1 of True Detective. \"You know, someone once told me time is a flat circle. Everything we've done, or will do, we're gonna do over and over and over again.\" I […]",
+        "published": "2026-10-26T17:00:00+00:00"
+      },
+      {
+        "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+        "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+        "source": "TechCrunch",
+        "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+        "published": "2026-10-27T01:12:21+00:00"
+      },
+      {
+        "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
+        "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
+        "source": "TechCrunch",
+        "summary": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.",
+        "published": "2026-10-26T22:00:00+00:00"
+      },
+      {
+        "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
+        "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
+        "source": "TechCrunch",
+        "summary": "After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.",
+        "published": "2026-10-26T21:05:11+00:00"
+      },
+      {
+        "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
+        "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
+        "source": "TechCrunch",
+        "summary": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.",
+        "published": "2026-10-26T19:22:40+00:00"
+      },
+      {
+        "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
+        "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
+        "source": "TechCrunch",
+        "summary": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
+        "published": "2026-10-26T18:59:52+00:00"
+      },
+      {
+        "title": "This startup’s self-driving excavators help dig up $600M in new funding",
+        "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+        "source": "TechCrunch",
+        "summary": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.",
+        "published": "2026-10-26T17:45:00+00:00"
+      },
+      {
+        "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+        "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+        "source": "TechCrunch",
+        "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+        "published": "2026-10-26T16:49:42+00:00"
+      },
+      {
+        "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+        "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+        "source": "TechCrunch",
+        "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+        "published": "2026-10-26T16:46:36+00:00"
+      },
+      {
+        "title": "Microsoft offers buyouts to around 60,000 employees",
+        "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
+        "source": "TechCrunch",
+        "summary": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce.",
+        "published": "2026-10-26T15:58:25+00:00"
+      },
+      {
+        "title": "Anthropic officially files for its public debut",
+        "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+        "source": "TechCrunch",
+        "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+        "published": "2026-10-26T14:35:22+00:00"
+      },
+      {
+        "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
+        "url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
+        "source": "TechCrunch",
+        "summary": "The new iPad mini features a thinner and lighter design than its predecessor.",
+        "published": "2026-10-26T14:25:43+00:00"
+      },
+      {
+        "title": "Matiks raises $10M to expand its math and puzzle gaming platform",
+        "url": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
+        "source": "TechCrunch",
+        "summary": "Matiks has introduced a new platform for users to create games using AI.",
+        "published": "2026-10-26T14:08:04+00:00"
+      },
+      {
+        "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
+        "url": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/",
+        "source": "TechCrunch",
+        "summary": "Eligible Turo hosts will also get a one-month free trial of Tesla's FSD software.",
+        "published": "2026-10-26T12:58:40+00:00"
+      },
+      {
+        "title": "The best apps for tracking your reading and discovering new books",
+        "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+        "source": "TechCrunch",
+        "summary": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
+        "published": "2026-10-26T01:10:00+00:00"
+      },
+      {
+        "title": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
+        "url": "https://www.cnbc.com/2026/10/26/fed-decision-expectations-october-meeting.html",
+        "source": "CNBC Technology",
+        "summary": "The Federal Reserve is expected to keep its overnight rate unchanged at the conclusion of its October meeting this week.",
+        "published": "2026-10-26T18:51:23+00:00"
+      },
+      {
+        "title": "Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO",
+        "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html",
+        "source": "NYT Technology",
+        "summary": "Ahead of what could be the largest public listing ever, Anthropic said revenue soared to $16.3 billion in the first half of the year, and it planned to spend $807 billion on A.I. infrastructure.",
+        "published": "2026-10-26T18:08:07+00:00"
+      },
+      {
+        "title": "What’s Riding on Anthropic Going Public? Nearly Everything.",
+        "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html",
+        "source": "NYT Technology",
+        "summary": "Anthropic sits atop a pyramid of business partners and suppliers, making it a barometer of the broader economy. Its initial public offering will have widespread implications.",
+        "published": "2026-10-26T18:44:18+00:00"
+      },
+      {
+        "title": "Meet Anthropic’s Seven Founders as the A.I. Firm Prepares for an IPO",
+        "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-founders.html",
+        "source": "NYT Technology",
+        "summary": "Former OpenAI employees started the company in 2021 after disagreements over how to safely build artificial intelligence. An I.P.O. could make them billionaires.",
+        "published": "2026-10-26T15:24:56+00:00"
+      },
+      {
+        "title": "Anthropic’s IPO S-1 Spells Out a Future of Promise and Peril",
+        "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-s1-dario-amodei.html",
+        "source": "NYT Technology",
+        "summary": "The A.I. company took great pains to describe the many benefits that can come from using its Claude chatbot and technology, but also offered up a heavy dose of gloom.",
+        "published": "2026-10-26T19:36:41+00:00"
+      },
+      {
+        "title": "Darline Graham Gets Help From the Data Center Industry in South Carolina Senate Race",
+        "url": "https://www.nytimes.com/2026/10/26/us/politics/darline-graham-data-centers-south-carolina.html",
+        "source": "NYT Technology",
+        "summary": "As political fights over artificial intelligence accelerate, there is now a super PAC aligned with the data center industry. Its first bet is on Ms. Graham, a Republican in an unexpectedly tight race.",
+        "published": "2026-10-26T09:03:34+00:00"
+      },
+      {
+        "title": "AI Fund a ‘Fiscal Dam’, Says South Korea Budget Minister",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-27/ai-fund-a-fiscal-dam-says-south-korea-budget-minister-video-mvpxe6yk",
+        "source": "Bloomberg Technology",
+        "summary": "In an exclusive conversation with Bloomberg's Heesu Lee, South Korean budget minister Park Hong Keun says that the fund financed by semiconductor-driven tax gains will serve as a fiscal dam to cushion from higher yields (Source: Bloomberg)",
+        "published": "2026-10-27T00:06:45+00:00"
+      },
+      {
+        "title": "South Korea’s AI Fund Offers ‘Fiscal Dam’ Against Higher Yields",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-27/south-korea-s-ai-fund-offers-fiscal-dam-against-higher-yields",
+        "source": "Bloomberg Technology",
+        "summary": "As nations across the globe grapple with a surge in borrowing costs, almost none enjoy the option now being eyed in South Korea: deploying a major new source of cash to simply cut back on selling debt.",
+        "published": "2026-10-27T00:00:00+00:00"
+      },
+      {
+        "title": "Anthropic’s IPO Sets Up Defining Moment for Wall Street and AI Boom",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-s-ipo-sets-up-defining-moment-for-wall-street-and-ai-boom",
+        "source": "Bloomberg Technology",
+        "summary": "Anthropic PBC’s initial public offering is laying bare the stark extremes of the multi-trillion-dollar AI boom business model: astonishing growth paired with uncertainty about demand and the spending required to continue developing the technology. The startup, which publicly filed IPO paperwork on Monday, is poised to be the first major US firm focused solely on building AI software to make its market debut.",
+        "published": "2026-10-26T23:23:19+00:00"
+      },
+      {
+        "title": "Iran War Boosts Malaysian Data Center Appeal, SD Guthrie Says",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-26/iran-war-boosts-malaysian-data-center-appeal-sd-guthrie-says",
+        "source": "Bloomberg Technology",
+        "summary": "Malaysia is expected to attract more interest as a data center hub following the outbreak of the US-Iran war, according to SD Guthrie Bhd., giving the palm oil giant and the country’s biggest landowner an opportunity to capitalize on the boom.",
+        "published": "2026-10-26T23:00:00+00:00"
+      },
+      {
+        "title": "The High Price of India’s iPhone Manufacturing Boom",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-26/the-high-price-of-india-s-iphone-manufacturing-boom",
+        "source": "Bloomberg Technology",
+        "summary": "India now makes one in four iPhones, but its dependence on imported components remains substantial. Bloomberg Opinion columnist Andy Mukherjee says the country's manufacturing gains may not justify the growing taxpayer subsidies needed to replicate China's success. (Source: Bloomberg)",
+        "published": "2026-10-26T22:01:03+00:00"
+      },
+      {
+        "title": "Spain Eases Data Center Energy Rules in Win for Big Tech",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-26/spain-eases-data-center-energy-rules-in-win-for-big-tech",
+        "source": "Bloomberg Technology",
+        "summary": "Spain is easing rules for data center power usage after an initial government proposal faced strong industry backlash.",
+        "published": "2026-10-26T22:00:10+00:00"
+      },
+      {
+        "title": "AirTrunk Secures $3 Billion Green Loan for Sydney Data Center",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-26/airtrunk-secures-3-billion-green-loan-for-sydney-data-center",
+        "source": "Bloomberg Technology",
+        "summary": "AirTrunk secured a A$4.25 billion ($3 billion) green loan to finance the development of a Sydney data center campus, a signal of confidence in a sector that’s taken a slew of hits in recent weeks.",
+        "published": "2026-10-26T21:43:25+00:00"
+      },
+      {
+        "title": "Intel to Acquire Startup Classiq in Quantum Computing Push",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-26/intel-to-buy-israeli-startup-classiq-in-quantum-computing-push",
+        "source": "Bloomberg Technology",
+        "summary": "Intel Corp. agreed to buy Israeli startup Classiq Technologies Ltd. as part of a push to capitalize on quantum computing, a still-nascent field that is seeking commercial applications.",
+        "published": "2026-10-26T20:01:00+00:00"
+      },
+      {
+        "title": "SVP’s Khosla: Credit Markets Have a Lot of Tail Risk",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-26/svp-s-khosla-credit-markets-have-a-lot-of-tail-risk-video",
+        "source": "Bloomberg Technology",
+        "summary": "Victor Khosla, Founder and CIO of Strategic Value Partners, discusses headwinds worsening since his previous appearance. While markets have already repriced amid mounting pressure, he says risks remain unusually high: whereas he would normally put the chance of severe tail events at about 5%, he estimates a 20% to 30% chance that such risks could materialize now. He speaks with Romaine Bostick & Kristine Aquino on \"The Close.\" (Source: Bloomberg)",
+        "published": "2026-10-26T21:39:30+00:00"
+      },
+      {
+        "title": "ValueEdge’s Minow on Anthropic’s Share Class Structure",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-26/valueedge-s-minow-on-anthropic-s-share-class-structure-video",
+        "source": "Bloomberg Technology",
+        "summary": "Anthropic’s IPO filing outlines a governance structure in which seven cofounders direct Class F shares representing about 50.1% of total voting power on key issues. Nell Minow, Chair at ValueEdge Advisors, says the filing asks investors to trust a multilevel structure: an independent board would appoint most directors, while the founders retain controlling votes. She speaks with Romaine Bostick & Kristine Aquino on \"The Close.\" (Source: Bloomberg)",
+        "published": "2026-10-26T21:31:00+00:00"
+      },
+      {
+        "title": "Odd Lots: AI Agents Are Already Changing the Price of Goods",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-26/odd-lots-ai-agents-are-changing-the-price-of-goods-video",
+        "source": "Bloomberg Technology",
+        "summary": "With the release of AI agents like Meta's Muse, tech companies are promising consumers that they will start saving them tons of money by finding the best deals.\n\nOn this episode of the Odd Lots podcast, President and CEO of Groundwork Collaborative Lindsay Owens joins Joe Weisenthal and Tracy Alloway to discuss her think tank's research into agentic commerce and how agents may not be operating in the best interest of the consumer. (Source: Bloomberg)",
+        "published": "2026-10-26T21:28:48+00:00"
+      },
+      {
+        "title": "Applied Materials Boosts BE Semiconductor Stake to About 20%",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-26/applied-materials-boosts-be-semiconductor-stake-to-about-20",
+        "source": "Bloomberg Technology",
+        "summary": "Applied Materials Inc. boosted its stake in fellow chip-equipment maker BE Semiconductor Industries NV and vowed to step up their work together, citing the European company’s growing role in energy-efficient AI computing.",
+        "published": "2026-10-26T21:11:53+00:00"
+      },
+      {
+        "title": "Anthropic Warns of Existential Risk, Liability and Slowing Sales",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-warns-of-existential-risk-liability-and-slowing-sales",
+        "source": "Bloomberg Technology",
+        "summary": "Anthropic PBC’s filing for a landmark initial public offering included nearly 100 pages of risk factors, an unusually exhaustive set of disclosures for how the company’s artificial intelligence business could go awry.The list included everything from slowing revenue growth and government regulation to “catastrophic or existential risks to humanity.” The scope of the risks hints at unique challenge public market investors face in gauging the promise and peril of Anthropic’s technology.",
+        "published": "2026-10-26T21:11:21+00:00"
+      },
+      {
+        "title": "Netflix Hires Former Apple Executive to Oversee Podcasts",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-26/netflix-hires-former-apple-executive-to-oversee-podcasts",
+        "source": "Bloomberg Technology",
+        "summary": "Steve Wilson joins the streamer in its nascent efforts to push into video podcasts.",
+        "published": "2026-10-26T21:01:54+00:00"
+      },
+      {
+        "title": "SK Hynix, Samsung, Kioxia, CXMT Earnings Test AI Boom in Memory Market",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-26/memory-titans-test-ai-demand-while-bubble-fears-transfix-markets",
+        "source": "Bloomberg Technology",
+        "summary": "From South Korea to Japan and China, the world’s biggest memory chipmakers will this week seek to quell fears that AI spending is outpacing future demand. How they handle back-to-back earnings disclosures and investors’ questions will help determine the trajectory for markets and shed light on the broader outlook for the artificial intelligence industry.",
+        "published": "2026-10-26T21:00:00+00:00"
+      },
+      {
+        "title": "Instacart to Wind Down Smart Cart Business Amid Sale Talks",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-26/instacart-to-wind-down-smart-cart-business-amid-sale-talks",
+        "source": "Bloomberg Technology",
+        "summary": "Instacart will stop offering high-tech shopping carts to grocers, its first announced strategy shift since reports emerged that the company is in talks to sell itself.",
+        "published": "2026-10-26T20:05:00+00:00"
+      },
+      {
+        "title": "Wall Street Week | SpaceX Goes Public, Google’s AI Bet, World Cup Price Backlash",
+        "url": "https://www.bloomberg.com/news/videos/2026-06-12/wall-street-week-google-s-ai-bet-world-cup-backlash-video",
+        "source": "Bloomberg Technology",
+        "summary": "This week, the arrival of mega-IPOs is testing capital markets as investor appetite grows larger than supply. The federal government is making a direct investment in private technology companies, betting on quantum computing. Plus, Google is making its most radical change to search in twenty years by incorporating AI. Later, the most lucrative World Cup in history is testing how much fans are willing and able to pay for football.  (Source: Bloomberg)",
+        "published": "2026-06-12T23:14:43+00:00"
+      },
+      {
+        "title": "Anthropic Grows More Reliant on Google, Amazon, Microsoft",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-ipo-filing-cites-reliance-on-google-amazon-microsoft",
+        "source": "Bloomberg Technology",
+        "summary": "Anthropic PBC is relying more and more on Alphabet Inc.’s Google, Amazon.com Inc. and Microsoft Corp. to sell its artificial intelligence technology to customers, despite the three companies being rivals, investors and key suppliers of computing power.",
+        "published": "2026-10-26T17:09:43+00:00"
+      },
+      {
+        "title": "What Anthropic’s IPO Reveals About the AI Boom: Live Q&A",
+        "url": "https://www.bloomberg.com/sessions/2026-10-27/live-q-amp-a-what-anthropic-s-ipo-reveals-about-the-ai-boom",
+        "source": "Bloomberg Technology",
+        "summary": "Anthropic’s IPO is offering a rare look inside the business of frontier AI. Bloomberg journalists answer your questions in an interactive Live Q&A on Tuesday, Oct. 27 at 1 p.m. EDT.",
+        "published": "2026-10-26T20:38:26+00:00"
+      },
+      {
+        "title": "Broadcom Arranges $63 Billion Deal to Finance Anthropic’s Chips",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-26/broadcom-arranges-63-billion-deal-to-finance-anthropic-s-chips",
+        "source": "Bloomberg Technology",
+        "summary": "Chipmaker Broadcom Inc. has arranged a $63 billion deal with Bank of America Corp., Blackstone Inc., Citigroup Inc. and Morgan Stanley to finance the purchase of chips for AI model developer Anthropic PBC.",
+        "published": "2026-10-26T20:36:14+00:00"
+      },
+      {
+        "title": "AI scaling race accelerates investments in microgrid technology",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZDQyblpKbHQxQ25YR2J4UDBvMFBPV1pkNlJoRV9BR0hDSHh2WEtMNWhDQnBpakNfLWtNNUVnZkE0UXlCa0p5VmhKdndKQ09ub3ZDOFdiSmF1RW5STUpUeWxQdGE1VmlVZUhKUlc4NTJpSUdNd0UzMk8zZ0xLM1lPRC1jNkZweVphQjgyVGtrTC1UYWRrWTdwcWNCWkc4Q3Jycnh2SHpMUm9mOGlaZC1oX0xkTnFUZEhidlBr?oc=5",
+        "source": "Reuters Technology",
+        "summary": "AI scaling race accelerates investments in microgrid technology Reuters",
+        "published": "2026-10-26T15:29:15+00:00"
+      },
+      {
+        "title": "Anthropic's IPO: A close look at AI frontrunner's rapid growth, spiraling costs",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1UzRjJ6M0VaSXoydWlIZ2pzc2tGcUZtMjlzR1JhUE9UR0llUERrRWRJNUdTRWNNQU9IUUEycmZUVk40cEtCSjZ5TzRqZVRWT1JvMEtmQmlENklzd19LLWlDREZZakJ0MWdTOTZleEdBN1FVRFJGMGxHWnpkY2owdVFSQ0FWWHNFcWlPTUtpb1ZDRkZrY0tUMkZrdHRJMnFJZEZveXVQaG41OHFibWFyMWpfNG9jTlR0aTM1enNKT18?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Anthropic's IPO: A close look at AI frontrunner's rapid growth, spiraling costs Reuters",
+        "published": "2026-10-26T19:19:44+00:00"
+      },
+      {
+        "title": "Instant View: Anthropic IPO filing to put AI investment boom to the test",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNlJETmo1Z21kOWpEaXF5T25sQTVFTHE3Y3FRMWtHMEVyNlpNMXU0OVllN3dnRTlhRS1kMUx2T3JLZ0psUVJPQ29UMmNDREpWWGFpVUFEcHgxWjFzSFoydHgwR3o2R01sTVJaQjh6NlZHSV9sbFZTQ0RTSXhsSnNIV3Uxc1NVQUJla1ZZb3I2aDdiQ0x3Mm1wOUxvamE5a1k5dFRxRW5rWEVRZEpoZmc?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Instant View: Anthropic IPO filing to put AI investment boom to the test Reuters",
+        "published": "2026-10-26T19:03:41+00:00"
+      },
+      {
+        "title": "Honeywell Technologies launches new AI platform at Dangote's Nigeria refinery",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNEZtVmpUbmNiR1FJOEVtaG4xV213RWxpd3lDZ281MDIxSFVhNnN2SDUyUkFnMV9wWl9HRXY4ejVBVWhxOV9mWDhpZ2YxQ09sWXFsVkF4Wk03REdjcmxuTThLaDJBTzdyMnBZbnc4RFVEMzVxbHFUMllIVkhfSUlfc3pDeVF6eW1XV2VqNjNDTnFYWEdWQVBUQW5aN3lWYTZTRXVkcWY3NnBJWEt6TXVNQ1I2SmgzRV90ZWhtV0pSWUo0anM?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Honeywell Technologies launches new AI platform at Dangote's Nigeria refinery Reuters",
+        "published": "2026-10-26T12:07:12+00:00"
+      },
+      {
+        "title": "Anthropic's soaring sales, steep losses put AI frenzy to IPO test",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVVZWVV6TXQtR3ZqaWZKZERKZ3J3VVpIZlNtUjVfRjdTS0tuVTlRQ0F0UzRhcW9Hd2hxR1BtNzF4UVBVYXBpTkc0Rmozb3pRekc2RVNnOVBYd19KUGZ5VE1UN29haXQ2M0w0Qk1QTm5INk5KRlhxLUR6Q3REWHR3OG9EYkpFMGJUUm5HMGFiX3pBLXhZMHV5Qkgwdlc0RTczMnhOc3Q4NFpORFE5SlRfRkVDOWdmZw?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Anthropic's soaring sales, steep losses put AI frenzy to IPO test Reuters",
+        "published": "2026-10-26T20:56:05+00:00"
+      },
+      {
+        "title": "AI cuts some Deutsche Bank corporate loan decisions to minutes",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2dfRjFacm90bExOc2hSOXZXQlN0T3hSQUNid1RtUS1VWjdMZU1aaTNXUzZndzBWcmllY2owREYwM3ZfVHFXQnF3QTB4MVEyM25CRTJQN3ctQmx1WlJJdDBlaVJ4OG41X2llQ3BIOTVySTBrbktsczdhSFFEZTlqeGdTTklwTUh0LWNtTWt1cnN6NzRaaEVYRFhaeU5MR1VMclBsT0VlZnVpQXlST0J2ZWN3?oc=5",
+        "source": "Reuters Technology",
+        "summary": "AI cuts some Deutsche Bank corporate loan decisions to minutes Reuters",
+        "published": "2026-10-26T16:07:49+00:00"
+      },
+      {
+        "title": "AI stocks rise as Anthropic nears Wall Street debut amid investor caution",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNVdGRWF4eUpFNlQ2QkxGSWVrdlZZMU9OVlgtNkduS1JrMVdzQ0VJRVJPak4xcERFNENPWGE3YUM3VHpSSnFybzZJRWRTSW53eWwzTW1jLTR5dmpjelcxam96czEycUZ3a1piY2kwcC15WTR3ZFJUeGdIUkxuLXl6b0d4dGJ0T0hWcUl0ejVSMzI1UlpJdzRnZ09Td05wRDlJbVJaT0ktM3Z4Q2ZNdnNSWnA1bkZGVl9iYVI1TEtCc0VhRjRJ?oc=5",
+        "source": "Reuters Technology",
+        "summary": "AI stocks rise as Anthropic nears Wall Street debut amid investor caution Reuters",
+        "published": "2026-10-26T15:35:43+00:00"
+      },
+      {
+        "title": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZU9zQUUycTh6SXBkQ25GQUJKTWJabmR3Q1gtYXlZWDJSUWk2cmxGWWRsUlZlSTdVNEtsdDY5d0hVakZ1ZkVDMDFiV2NrdjFaQnNVZUxRMjNESzluZFVBc0s3YU9pZjNZMVR1WEdIOVFrc2phbnRZYWpuYnRXY29Rd0FiVnItWTR1akVvNXhfWDAyNHJId040M2R0Q29HZTAwVzYxUl9OVy0wNWFrV2M3ME1Td25NUGI5cnhOY2JyQUVFS3ZOUGdEZVh1X2pQZWp4NGc?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic Reuters",
+        "published": "2026-10-26T23:56:37+00:00"
+      },
+      {
+        "title": "Anthropic discloses month-long training pause, AI security breaches in IPO filing",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWUlrWDlwMnBvb2RvQ1ZTVHpNdEFETnkycHVyVnlJNDVqdnNJRVo3MTZEZGxfbHFjczk2YmJVc2lqb25kZnZtcDhObmFYZ3BoMmtZUi02ZkNBTFZLMEE1VHE4clRXbWJSQTE3MWNMRFNSNDQ3c0tZeWRTdUZDODEyQWFnRlgwLVdkVnctalBhTEE1SjNQRk04REtWQ2VNOGk0c0ZnS2JvZkNjX3VfSWFaZjNBbExVOEYxS0dSRzc5azFFR3ltb2hqOHNn?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Anthropic discloses month-long training pause, AI security breaches in IPO filing Reuters",
+        "published": "2026-10-26T20:38:29+00:00"
+      },
+      {
+        "title": "Unconventional AI buys Israeli chip startup NeuReality to speed product development",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU1FHdFMxQmVxandsdXFSYTBuVzBGUklybTJrbUpRZ3JaOHRoSmFKNFFxMTJJdTFmc1h2SmU0YzRweGszTm4takFQMmo2WWNpZkQzNlo1dHItQW9tOEFfMFFCcXI1aUFTcG5ENEVxSlRLUmVlUXFEUFp4TGxEQjFSQmFwaFNJSzAwdXdPTUpTQUN2a3pVWW5Kd1NkTFlRN1c4aXJqai1KQjFaWnFYck4wYV9DQjdhYVRVTDNEdU9fSmx6ZWc?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Unconventional AI buys Israeli chip startup NeuReality to speed product development Reuters",
+        "published": "2026-10-26T16:21:01+00:00"
+      },
+      {
+        "title": "US growth boosted by AI, but no sign of a turning point higher",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQWJDYTAzYXBReXFpWXVtczNMSktHdnZTRzl3QktrREpMbTgzR3B2OTdqRUo4bjlBb0Y5ZDl0ZXd1TnRYY0RwMmlEMExselZFQUZtNURZQ242S1dXdnRPT2JHbmhnWGxLeVpPNFlkb0JsM0ZYRjZTOENFUVZFWVVENTk3dC1BdFlSOVNMYUsxNWNCZFdJNk0wRVF1UU9nZw?oc=5",
+        "source": "Reuters Technology",
+        "summary": "US growth boosted by AI, but no sign of a turning point higher Reuters",
+        "published": "2026-10-26T10:05:44+00:00"
+      },
+      {
+        "title": "From Amazon to Google, the deep-pocketed investors in Anthropic",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdUNGUW5tbnZDMW55VkkxZXBQYkF3a1dOQmw2Unk3MGVVRWlsdWttLVRWTmNkWVpERlVPZVNpeGhPMlJCYWdWczhlQjN0SHc3czRuaVNOQVBGZlV4aGZycFE4S1hlUGRXSkROWmVNYU0waG44cHNiaDM1MjdiVjQyVV9FRmdBeW1WVmREXzl3QVFDUlRXczd3NmYwWjVIeld6RXpIVkZ3?oc=5",
+        "source": "Reuters Technology",
+        "summary": "From Amazon to Google, the deep-pocketed investors in Anthropic Reuters",
+        "published": "2026-10-26T13:19:00+00:00"
+      },
+      {
+        "title": "Senator says planned Meta commercial terms update could harm US businesses",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOWpYZWs5b0ZUaHpWaTQ3NDloSHRpXy1KVFMzUFVtUENVd29FeDljcWdzb1FpWmJoWFJROUwtWjBFUEZpamdObTF4b2JKTGJpV0JTX1FDczRaTlg3QXFUMXlqQU13WEVHOEhLLS0tU1pydWt6NU9jaFNxMXIzMlRpdjNYaS1WZ3F5c3pTSlI2QTAwQkpmMHNyMWhXUGFtcEhNRWlIQS1MenpJRC0wRTYyampvNndTXzQ?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Senator says planned Meta commercial terms update could harm US businesses Reuters",
+        "published": "2026-10-23T21:46:16+00:00"
+      },
+      {
+        "title": "Cadence unveils suite of AI models that chipmakers can run in-house",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSXZrWlJVYTllelhNczNoX2dHZ2pQYk1FTUZtLVNPYUdZUEdEVElSZGpLR0QzWTJZS25DOUNHdXdvakRCcHBLVmxKbFBwVmNXWUhtZllwZ2p5ZzdjdnBUb3ZkOWRmT3VzbUNLQ09YRVVJQk5WSWtncHVkRjZUWlJYbDJ2TzRFM0hEM1YtOHd0c05XaW1GRFJhMU1aZEpzOVJZaU5UQTZCMi1EMExhNnRKRmRmR2gyaGZq?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Cadence unveils suite of AI models that chipmakers can run in-house Reuters",
+        "published": "2026-10-26T17:22:18+00:00"
+      },
+      {
+        "title": "ASML may account for up to 1.6% of Dutch economy in 2026, ING says",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONGtjNXdMdmcyX3V6bDA3N3QtSVVwRjVBWEVCNm1CS3dtdmJfYklJNzhHR1JsT0hxa2V2UHJlQ1pXRnRCbGlVc0pKMHhxRXFoUVV6el9Qa0l6Z3llbEdqN25fNnIzVHl0OGthcGpJUHVhemZRaHdLQ0lWck5GNXdOdEtrWHpURlEzNy1adk15MWpxQU0wZmViMlhkTQ?oc=5",
+        "source": "Reuters Technology",
+        "summary": "ASML may account for up to 1.6% of Dutch economy in 2026, ING says Reuters",
+        "published": "2026-10-26T14:44:58+00:00"
+      },
+      {
+        "title": "India's Infosys falls after revenue growth view cut flags AI, competitive pressures",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWkVSX0U4bzJ0NS15dGRlUG96cGItNW5zNXZ0bF84bmRiNmJQOEdubGdlVkZUVnUzNDl1UFNvZHhZRVJZMXpzanBGRGtCQnRueTZKR3gweTdWYXlCWE4zOUZ1Q3RoUjBZaHpobVlNZHo5SXhzbTF1ZmpOODlnUWFJUER1TVp6Z1Jnc0QyemxOdEhOdzlyYndvVFNjelI2Rnpicm14U2pjSU1zM1ZFVWJOYU51NWctdnlJRnc?oc=5",
+        "source": "Reuters Technology",
+        "summary": "India's Infosys falls after revenue growth view cut flags AI, competitive pressures Reuters",
+        "published": "2026-10-26T03:50:00+00:00"
+      },
+      {
+        "title": "Cable capacity emerges as bottleneck for AI data centres, Nexans says",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVRlTk43TXA0bVkzdF80RjNTY05JWGZhVGxiTndIMWREQzctcEhNZVUxbVQ0OTJ5bjByX19yMnItRHI5WFJRVzhJSlFmczJSNWpMZjNweHhfZmRRc1NuUjhxeEJyZnhLRW9zT3NCTmVtOTI5T09UTUJDV0IzVWNHUko1cDExaTBNNnpUNUlMMjNiMUVLcGlyaDZDNmx2S1B6dnRpUVRsaWlqWkdH?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Cable capacity emerges as bottleneck for AI data centres, Nexans says Reuters",
+        "published": "2026-10-22T14:47:58+00:00"
+      },
+      {
+        "title": "Meta eyes record $95 billion equity raise to fund AI expansion",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclhjOFJvYkM0S0hLUmxaY0l2X3hCdWI0N1prZlo2QXhXdmt5T0pNQVpFODVpYzgycWdZcHM2NkZ2LTdaMEVUVlpTXzVFUzc2ZEdVdlpTeThUVkZtc3V4cEFTelk5bDd2Z0dfRDFsb0dGQ0MxRXhYMExFZTlXVkNjRXF6TDBLalZ5ZTFBbFMyX24wMVBTQW1GQkJNRjNYWTRiVGJJWWdialBfV1oyQUZNN3I4RQ?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Meta eyes record $95 billion equity raise to fund AI expansion Reuters",
+        "published": "2026-10-26T19:07:55+00:00"
       }
     ]
   }
