@@ -1,66 +1,5 @@
 {
   "seen": {
-    "20fa858c61634bcbabab4bf7ada17e3f": "2026-10-13T03:13:19.924509",
-    "15f0749a6da14105ba17b50493d53df3": "2026-10-13T03:13:19.924748",
-    "7b6bf13f385b34a20faaba3973a545c7": "2026-10-13T03:13:19.924932",
-    "3167f1c8b10b3352397656236df41608": "2026-10-13T03:13:19.925141",
-    "e9c9ac8e21acdd9037b0c111bfd0b787": "2026-10-13T03:13:19.925230",
-    "b32e4e4429644b2abdde9cb968fade66": "2026-10-13T03:13:19.925403",
-    "5a1b68cae34e7142368741392725ae6c": "2026-10-13T03:13:19.925584",
-    "41388b4746242d36c033b39d78c28424": "2026-10-13T03:13:19.925752",
-    "d9350c73bbc30fd0736b40589532008e": "2026-10-13T03:13:19.925983",
-    "f1588e6ffbfd9c4253434ce0974c21b6": "2026-10-13T03:13:19.926169",
-    "e1fd83b19dc8467bd4c304783a9fd945": "2026-10-13T03:13:19.927362",
-    "e41af6ba26382e404c21e1f5f2c93cdd": "2026-10-13T03:13:19.928319",
-    "5a9f7cea1162028155160200c1d85dc3": "2026-10-13T03:13:19.929886",
-    "bf5a1216203206841971fc50b6d2148f": "2026-10-13T03:13:19.931025",
-    "77fade98c4fd520efa0f09a390c7b905": "2026-10-13T03:13:19.932687",
-    "f480e42398f051b19b5393788ca9eeb3": "2026-10-13T03:13:19.933932",
-    "153b17e8ba1992f6af9d8b766b9ffad2": "2026-10-13T03:13:19.935091",
-    "d25f04a192b8588e7d5361c1be5cc69f": "2026-10-13T03:13:19.936566",
-    "4d060ed6c79d32f2a8cfc0d850538422": "2026-10-13T03:13:19.938128",
-    "a6c0b3f7580b69fea79f526df7a92855": "2026-10-13T03:13:19.939870",
-    "d5df949ca6a0218d65baa310da53ddea": "2026-10-13T03:13:19.942625",
-    "c40a900b4533b1a476409a0a5e98047c": "2026-10-13T03:13:19.945482",
-    "157cac988790e9e190da044d03be9e7c": "2026-10-13T03:13:19.948359",
-    "ea4b7c1b4274517fac71218721b769dd": "2026-10-13T03:13:19.950662",
-    "2f979408703f3ac639df3f8394eced23": "2026-10-13T03:13:19.952766",
-    "92ca21e1c4aba576dcfea01d9e1c8558": "2026-10-13T03:13:19.956443",
-    "c756b20afd1ad5e413db95ac1da74e7a": "2026-10-13T03:13:19.958913",
-    "56955436b58cdb49015cbe08b84e2398": "2026-10-13T03:13:19.961161",
-    "26be95749f06e3bc2f1cafe45247f27d": "2026-10-13T03:13:19.964027",
-    "b2816b084917ed696c5e7217867f4de8": "2026-10-13T03:13:19.967246",
-    "4623f0888d32548c815a6a0ec4a9eef6": "2026-10-13T03:13:19.969502",
-    "824aef88044311246a8937c50972c5d9": "2026-10-13T03:13:19.971789",
-    "3c8f1c9e53c8ace927869aaec206f6ce": "2026-10-13T03:13:19.974204",
-    "6b998cc6edf2cfc45eed887213a1824b": "2026-10-13T03:13:19.976878",
-    "4d78a487d293da69e240dc5b5ba7fc4f": "2026-10-13T03:13:19.979918",
-    "81d269507b5d5bcafe134f2dd80005f2": "2026-10-13T03:13:19.983111",
-    "b342179a801c2e02a33b1f41b89fea02": "2026-10-13T03:13:19.985932",
-    "4c1179819fe1c0b08e281317f2750318": "2026-10-13T03:13:19.988173",
-    "509ba3364cd08dc28d6e53a73a6a10f1": "2026-10-13T03:13:19.991189",
-    "0e14759c50392bb6d23dbca87ad1258b": "2026-10-13T03:13:19.993690",
-    "8c9f60548e72dce7d79847636305c585": "2026-10-13T03:13:19.999147",
-    "2f70ee0997ede95a050b114c3bd3b8d0": "2026-10-13T03:13:20.003699",
-    "22b9ad4424177e67d7cc593a0e75c3b6": "2026-10-13T03:13:20.008389",
-    "cf00b889de90ab47b0a2d1155a6c2d16": "2026-10-13T03:13:20.014486",
-    "c0eab2dc91cca4cd6da8f0d4d9e6ebe1": "2026-10-13T03:13:20.023507",
-    "bb6e558dc3a350317d669dc8a2aa3b4c": "2026-10-13T03:13:20.030149",
-    "c4c9747197ef98598338c9e14eded0bc": "2026-10-13T03:13:20.037452",
-    "d9f55ac75fac9e612c0b9d795001c82a": "2026-10-13T03:13:20.043521",
-    "6dac8e908a75866d0aa8c9376d8b0b6e": "2026-10-13T03:13:20.051447",
-    "e58ec9345977ef3dad899ffb5084903d": "2026-10-13T03:13:20.057787",
-    "264806d4996990fec42a8d1f1cc5391c": "2026-10-13T03:13:20.065274",
-    "3d2ceb8044eafc9c470bc0e216e18cd9": "2026-10-13T03:13:20.070946",
-    "89f7ebf949bedbb8950cf76afd32908b": "2026-10-13T03:13:20.078728",
-    "578b37975dba96a70142b32069c9106b": "2026-10-13T03:13:20.084005",
-    "a54d933a51762849e6ce108af7afc653": "2026-10-13T03:13:20.090304",
-    "8bce03998c6609891ee27483b821d78e": "2026-10-13T03:13:20.097476",
-    "3b73cf0f3b178ae455f222fe603eff2f": "2026-10-13T03:13:20.104171",
-    "29aa020ab30121e82b0afa76ee1ab775": "2026-10-13T03:13:20.111071",
-    "e524f6004837a5a50973ceffc07e4bfa": "2026-10-13T03:13:20.118846",
-    "c1e676dc47c510dada24593748550625": "2026-10-13T03:13:20.125607",
-    "e342a8ce080b40ba6aded0f068573577": "2026-10-13T03:13:20.133075",
     "d1805adfa8a5dc79a91060ac712bf055": "2026-10-14T01:26:14.880994",
     "40b44721e47fb99ff77619e16b48f23c": "2026-10-14T01:26:14.881015",
     "e37f51eca02d68c4db7234a3a3847184": "2026-10-14T01:26:14.881023",
@@ -1878,543 +1817,84 @@
     "21190d6365a71e5bed4c85f9a70fcd76": "2026-11-11T02:17:38.601991",
     "b4a5da3b8a05548f9f79ea7c3206d3a4": "2026-11-11T02:17:38.612846",
     "223a359eadd2ab7047cc0a5b72199ec6": "2026-11-11T02:17:38.625419",
-    "2b3086c953f0a92308b4fc8e4899eb55": "2026-11-11T02:17:38.634556"
+    "2b3086c953f0a92308b4fc8e4899eb55": "2026-11-11T02:17:38.634556",
+    "ae4995f679c2816fd50be41445eea16e": "2026-11-12T03:25:39.951265",
+    "4d80da40d446e621a96ad4c956347981": "2026-11-12T03:25:39.951291",
+    "bf9a8df53a7ffea12952e5235f9f1e4a": "2026-11-12T03:25:39.951300",
+    "514b502da5e28df4a3f6da738c22c943": "2026-11-12T03:25:39.951306",
+    "b749a843620395d5527345ede299c818": "2026-11-12T03:25:39.951311",
+    "4b8a3ddcbba9ec6982f457232ea97968": "2026-11-12T03:25:39.951316",
+    "5c1f8d564a4056f6fdab31a12116795a": "2026-11-12T03:25:39.951321",
+    "546c365caa1bad2dd9d9476677eed90d": "2026-11-12T03:25:39.951326",
+    "69792f3c808437d7b258bec4f45bc408": "2026-11-12T03:25:39.951330",
+    "d9ab5c088fc68f533ee13ab708d17a5c": "2026-11-12T03:25:39.951334",
+    "bb7e05135d407142be296f7d34a3eec4": "2026-11-12T03:25:39.951338",
+    "b577d6b06f32358e6bb6761c381bd6c5": "2026-11-12T03:25:39.951343",
+    "70c564bfdb73959448ae5054c45ef99a": "2026-11-12T03:25:39.951347",
+    "a12c5f3d8f2dcc714a62a3902d89da73": "2026-11-12T03:25:39.951352",
+    "c469d7bbc40ab1420a7e0e14f657ad6a": "2026-11-12T03:25:39.951357",
+    "844ff10dd21c63a217651485a2206854": "2026-11-12T03:25:39.951361",
+    "f269105f8f6e68e1bb34309759d65ce8": "2026-11-12T03:25:39.953172",
+    "0fee9245644694b27be47aab5eed003d": "2026-11-12T03:25:39.955529",
+    "a3a0c9996cbe1c5ad36edbf42e91053e": "2026-11-12T03:25:39.957452",
+    "f3abfc0714fccddde5f55cf411d999f8": "2026-11-12T03:25:39.960122",
+    "b2b9c84339aff4090abbbc5c257a2d18": "2026-11-12T03:25:39.962847",
+    "fd7c9361a612e0ea794a41cb937851c2": "2026-11-12T03:25:39.965468",
+    "cee57cec450d9daee5f068d29bd1a4b0": "2026-11-12T03:25:39.967418",
+    "c5f801a2833d87beed78b9d6686de523": "2026-11-12T03:25:39.969771",
+    "a1009e9a34fff3dd1deb2e33673f97d3": "2026-11-12T03:25:39.972080",
+    "872573b4c15b2f70b0474d387983371a": "2026-11-12T03:25:39.974578",
+    "31e5aa7a827f9164295d25d1baa0ba0a": "2026-11-12T03:25:39.979393",
+    "8966fd3eb4f78dde7de9334363a957c7": "2026-11-12T03:25:39.983936",
+    "b9ea178d383d9680432dd39717b0f068": "2026-11-12T03:25:39.988224",
+    "b7dc9d63ed8f052a320baf313d3191fe": "2026-11-12T03:25:39.991243",
+    "e624260c076d0b5a7b9eade2ec941035": "2026-11-12T03:25:39.995540",
+    "e1d77add3565b5cc5d530d37f9eafba2": "2026-11-12T03:25:39.999149",
+    "cd05f1bd837389ffbb614deb9633c676": "2026-11-12T03:25:40.004008",
+    "5309dec6e2006a8275c11d7901c09c31": "2026-11-12T03:25:40.008207",
+    "11408ba9197ede20c8a64842549837c4": "2026-11-12T03:25:40.012472",
+    "d1994ce754f50b0829761acd4cca5c70": "2026-11-12T03:25:40.017443",
+    "b76650e349d710e8d6ed3b2e57d0ee72": "2026-11-12T03:25:40.023734",
+    "00073d7450c64c85552eec4274c9a9fe": "2026-11-12T03:25:40.026937",
+    "6f25b660e6b0029974ea7f34ef5cd67b": "2026-11-12T03:25:40.031871",
+    "f6c886acf4ab0c164c4858f1d566429d": "2026-11-12T03:25:40.036436",
+    "527dd3340b7911edc392f52a167e9496": "2026-11-12T03:25:40.041232",
+    "53c8666195c03954f6caeef9c81341e9": "2026-11-12T03:25:40.046157",
+    "c3b040705882cab649f0fac6d09434a4": "2026-11-12T03:25:40.050720",
+    "f4e218b3e3718b84814b5909226e62dd": "2026-11-12T03:25:40.055530",
+    "533006bc732356b8a5cddf2a0ff6f153": "2026-11-12T03:25:40.060469",
+    "66213799a1bcda04d6a78e81425a854e": "2026-11-12T03:25:40.065526",
+    "6478c3c09ba7e953a0fea3dd2b4f96d4": "2026-11-12T03:25:40.070670",
+    "896f7111db3f17a50913201329d3a9d8": "2026-11-12T03:25:40.075184",
+    "0c6fe52c41ffa36dff85835fa1ea78cc": "2026-11-12T03:25:40.079597",
+    "4a2b9770c0099b7b978de09bf5cb9b35": "2026-11-12T03:25:40.082419",
+    "d4789cb99db9389ff37fce89a0dcc31e": "2026-11-12T03:25:40.087126",
+    "4f5f576b127ad5708c03dc7972a66e76": "2026-11-12T03:25:40.092363",
+    "62bb7e60fd2d0475da1c62eeb67e350e": "2026-11-12T03:25:40.096725",
+    "76123e678cc4aee2530f2e4df3ebc77f": "2026-11-12T03:25:40.101403",
+    "bd08ba26859045640bc52ce026a00618": "2026-11-12T03:25:40.105560",
+    "faee0b8f1a215a9bb05a95f3d9004506": "2026-11-12T03:25:40.111156",
+    "a375490d16d13b07fdc69fc715ea0237": "2026-11-12T03:25:40.121405",
+    "0959d0b4c1a6f5edca0f405bdcdb2434": "2026-11-12T03:25:40.128404",
+    "ba4e7c73afadc9094e5107f9d8c2e77d": "2026-11-12T03:25:40.136883",
+    "31f604b8d2bd5d4452f6bbc106d7d483": "2026-11-12T03:25:40.145365",
+    "87a545140193f9f8c8e3d6346f327ad9": "2026-11-12T03:25:40.154437",
+    "32ae1c3e03d23d4a7ac1f6c9d0c5d355": "2026-11-12T03:25:40.163559",
+    "da846ab2713ce8e27ab014b8938dde3b": "2026-11-12T03:25:40.172812",
+    "b8b4dc0adb384cc0f98e3503e3949b05": "2026-11-12T03:25:40.181714",
+    "ac4828838bb0b136dba84c8fef1e8e11": "2026-11-12T03:25:40.189733",
+    "22fa5524779e65edab9fb52581beff46": "2026-11-12T03:25:40.198753",
+    "199ed1fa3b33e98c7b7d0a86be99b568": "2026-11-12T03:25:40.206723",
+    "f80726e63e6d283393dd7e2c7914b806": "2026-11-12T03:25:40.212947",
+    "c99fb53d620acd9efe13f2bdfc1539b1": "2026-11-12T03:25:40.219288",
+    "043879b5c8c59c54d9a92b536ffcc23c": "2026-11-12T03:25:40.228682",
+    "9732a53880f0206f6c8e5634b79f7682": "2026-11-12T03:25:40.236574",
+    "1c441fc3a76436369c484350246e7566": "2026-11-12T03:25:40.245532",
+    "87d1dca39972be40db07682ded3445e6": "2026-11-12T03:25:40.259468",
+    "b4203504af5ca7ba0e7fdb9df9bfc6c6": "2026-11-12T03:25:40.268033",
+    "80dd5b2c506232122c14d65947727cf8": "2026-11-12T03:25:40.277790"
   },
   "today_articles": {
-    "2026-11-10": [
-      {
-        "title": "Anthropic reportedly plans to move forward with IPO plans",
-        "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-        "source": "TechCrunch",
-        "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
-        "published": "2026-11-10T01:27:12+00:00"
-      },
-      {
-        "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
-        "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-        "source": "TechCrunch",
-        "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
-        "published": "2026-11-09T23:28:37+00:00"
-      },
-      {
-        "title": "Hotel giant Wyndham exposed customer data after app security lapse",
-        "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
-        "source": "TechCrunch",
-        "summary": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
-        "published": "2026-11-09T23:03:46+00:00"
-      },
-      {
-        "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-        "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-        "source": "TechCrunch",
-        "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-        "published": "2026-11-09T22:46:09+00:00"
-      },
-      {
-        "title": "The race is on to sue Nvidia",
-        "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-        "source": "TechCrunch",
-        "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
-        "published": "2026-11-09T22:23:42+00:00"
-      },
-      {
-        "title": "Fervo now has $12B in orders for its geothermal power tech",
-        "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
-        "source": "TechCrunch",
-        "summary": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
-        "published": "2026-11-09T20:55:34+00:00"
-      },
-      {
-        "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-        "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-        "source": "TechCrunch",
-        "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-        "published": "2026-11-09T20:09:06+00:00"
-      },
-      {
-        "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
-        "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
-        "source": "TechCrunch",
-        "summary": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.",
-        "published": "2026-11-09T19:39:41+00:00"
-      },
-      {
-        "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-        "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-        "source": "TechCrunch",
-        "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-        "published": "2026-11-09T19:24:51+00:00"
-      },
-      {
-        "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-        "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
-        "source": "TechCrunch",
-        "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
-        "published": "2026-11-09T19:21:46+00:00"
-      },
-      {
-        "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
-        "url": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
-        "source": "TechCrunch",
-        "summary": "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe.",
-        "published": "2026-11-09T19:19:24+00:00"
-      },
-      {
-        "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-        "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-        "source": "TechCrunch",
-        "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
-        "published": "2026-11-09T18:09:52+00:00"
-      },
-      {
-        "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-        "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-        "source": "TechCrunch",
-        "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-        "published": "2026-11-09T18:00:00+00:00"
-      },
-      {
-        "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
-        "url": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
-        "source": "TechCrunch",
-        "summary": "Uber Parking is the latest example of the company offering products beyond its core ride-hailing service.",
-        "published": "2026-11-09T17:00:00+00:00"
-      },
-      {
-        "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-        "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-        "source": "TechCrunch",
-        "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
-        "published": "2026-11-09T16:56:54+00:00"
-      },
-      {
-        "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-        "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-        "source": "TechCrunch",
-        "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
-        "published": "2026-11-09T16:12:28+00:00"
-      },
-      {
-        "title": "Meta expands Instagram’s AI age-guessing tech globally",
-        "url": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
-        "source": "TechCrunch",
-        "summary": "Meta says it will use its AI technology to look for clues about people it suspects to be teenagers — even if they use an adult birthday.",
-        "published": "2026-11-09T15:32:27+00:00"
-      },
-      {
-        "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
-        "url": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
-        "source": "TechCrunch",
-        "summary": "The update to Waymo's self-driving system was rolled out nearly a year ago.",
-        "published": "2026-11-09T15:24:59+00:00"
-      },
-      {
-        "title": "Meet Drops, the new music app bringing back the fun of sharing songs with friends",
-        "url": "https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/",
-        "source": "TechCrunch",
-        "summary": "The new music discovery app lets users scroll through 10- to 30-second snippets of songs, comment, and share with friends.",
-        "published": "2026-11-09T14:00:00+00:00"
-      },
-      {
-        "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
-        "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-        "source": "TechCrunch",
-        "summary": "Automattic aims to compete with the likes of Lovable with Spacefast.",
-        "published": "2026-11-09T14:00:00+00:00"
-      },
-      {
-        "title": "Property Play:",
-        "url": "https://www.cnbc.com/video/2026/11/09/cnbcs-diana-olick-talks-real-estate-with-bain-capitals-ryan-cotton.html",
-        "source": "CNBC Technology",
-        "summary": "CNBC's Diana Olick sits down with Ryan Cotton, Bain Capital's head of real estate.",
-        "published": "2026-11-10T02:59:57+00:00"
-      },
-      {
-        "title": "Home listings pile up in October, but sellers won't slash prices",
-        "url": "https://www.cnbc.com/2026/11/09/home-listings-pile-up-in-october-but-sellers-wont-slash-prices.html",
-        "source": "CNBC Technology",
-        "summary": "After a rough month in September, the housing market remained in a deep freeze in October as listings piled up. Sellers are still reluctant to cut prices.",
-        "published": "2026-11-09T13:54:29+00:00"
-      },
-      {
-        "title": "Tennessee Governor-elect Marsha Blackburn weighs in on affordability, tackling taxes",
-        "url": "https://www.cnbc.com/video/2026/11/09/tennessee-governor-elect-marsha-blackburn-weighs-in-on-affordability-tackling-taxes.html",
-        "source": "CNBC Technology",
-        "summary": "Senator Marsha Blackburn joins 'Squawk Box' to discuss her election as Tennesee governor, the affordability crisis, and more.",
-        "published": "2026-11-09T13:30:55+00:00"
-      },
-      {
-        "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-        "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-        "source": "The Verge",
-        "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has the potential to […]",
-        "published": "2026-11-10T00:28:49+00:00"
-      },
-      {
-        "title": "What could China get from Jensen Huang?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-        "source": "The Verge",
-        "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about […]",
-        "published": "2026-11-09T23:51:58+00:00"
-      },
-      {
-        "title": "Here’s what Trump said he knew about Jensen Huang",
-        "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
-        "source": "The Verge",
-        "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" to his wife, and the company has opened an investigation into Huang. Recent articles from The New […]",
-        "published": "2026-11-09T23:47:46+00:00"
-      },
-      {
-        "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-        "source": "The Verge",
-        "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to […]",
-        "published": "2026-11-09T23:07:59+00:00"
-      },
-      {
-        "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
-        "url": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
-        "source": "The Verge",
-        "summary": "One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI’s factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th with a 180-day manufacturer warranty for $290.99, which is more than $100 cheaper than the full MSRP of $399.99. MSI’s 27-inch screen is well-featured […]",
-        "published": "2026-11-09T21:43:41+00:00"
-      },
-      {
-        "title": "The global pledge to use AI for climate good is a cruel joke",
-        "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
-        "source": "The Verge",
-        "summary": "At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love beer and our planet enough to give it a whirl - and hey, why not try a […]",
-        "published": "2026-11-09T21:13:16+00:00"
-      },
-      {
-        "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-        "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-        "source": "The Verge",
-        "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set […]",
-        "published": "2026-11-09T19:09:58+00:00"
-      },
-      {
-        "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-        "source": "The Verge",
-        "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable […]",
-        "published": "2026-11-09T19:00:00+00:00"
-      },
-      {
-        "title": "You can grab three months of Game Pass Ultimate for under $20 per month",
-        "url": "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale",
-        "source": "The Verge",
-        "summary": "The price of Xbox Game Pass Ultimate has fluctuated between $20 and $30 per month over the last year, but you can get three months of the top plan for around $19 per month. At Newegg, using the coupon code BNWF2656 at checkout knocks $11 off the usual cost of a three-month subscription. That brings […]",
-        "published": "2026-11-09T18:35:25+00:00"
-      },
-      {
-        "title": "Instagram’s Effect Builder makes new filters from AI prompts",
-        "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-        "source": "The Verge",
-        "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style […]",
-        "published": "2026-11-09T18:07:23+00:00"
-      },
-      {
-        "title": "Japan’s Rapidus Is Said Likely to Miss Mass Production Deadline",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-10/japan-s-rapidus-is-said-likely-to-miss-mass-production-deadline",
-        "source": "Bloomberg Technology",
-        "summary": "Japanese government-backed startup Rapidus Corp. has fallen behind schedule on its high-stakes pledge to mass produce cutting-edge chips by March 2028 and may no longer be able to make that deadline.",
-        "published": "2026-11-10T04:15:00+00:00"
-      },
-      {
-        "title": "Hong Kong Listings Raise 6-Year High of $51.9 Billion, Second Best Ever",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-10/hong-kong-listings-raise-6-year-high-of-51-9-billion-second-best-ever",
-        "source": "Bloomberg Technology",
-        "summary": "Hong Kong listing proceeds have climbed to the highest in six years after a fresh wave of offerings helped the market regain some of the momentum it had lost in recent months.",
-        "published": "2026-11-10T03:57:15+00:00"
-      },
-      {
-        "title": "Australia to Create AI Safety Regulator, Mandatory Rules",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-10/australia-to-create-ai-safety-regulator-mandatory-safety-rules",
-        "source": "Bloomberg Technology",
-        "summary": "Australia will create a new artificial-intelligence safety regulator that will have the power to impose “significant penalties” on companies that do the wrong thing, Prime Minister Anthony Albanese said Tuesday in Canberra.",
-        "published": "2026-11-10T02:26:20+00:00"
-      },
-      {
-        "title": "Anthropic Plans IPO Live Stream With Amodei, JPMorgan CEO Dimon",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-plans-ipo-live-stream-with-amodei-jpmorgan-ceo-dimon",
-        "source": "Bloomberg Technology",
-        "summary": "Anthropic PBC is planning a live-streamed event, at which co-founder and Chief Executive Officer Dario Amodei will discuss the Claude chatbot maker’s initial public offering with JPMorgan Chase & Co. CEO Jamie Dimon, according to a person familiar with the matter.",
-        "published": "2026-11-10T03:14:54+00:00"
-      },
-      {
-        "title": "Citi's Rizvi Sees 100 Hires in China Over Next Years",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-10/citi-s-rizvi-sees-100-hires-in-china-over-next-years-video",
-        "source": "Bloomberg Technology",
-        "summary": "Kaleem Rizvi, Global Co-head of Corporate Banking at Citi, says the bank envisions hiring 100 bankers over the next several years after it won approval for its securities venture in China. He speaks with Stephen Engle on the sidelines of the Citi China Conference in Shanghai. (Source: Bloomberg)",
-        "published": "2026-11-10T02:52:50+00:00"
-      },
-      {
-        "title": "China Chip Supplier Xinde Jumps in HK Debut as Denglin Slumps",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-09/china-chipmakers-to-debut-in-hk-in-test-of-tech-stock-demand",
-        "source": "Bloomberg Technology",
-        "summary": "Jiangsu Xinde Semiconductor Technology Co.’s shares surged in their Hong Kong debut, while Suzhou Denglin Technology Co.’s stock slumped on their first day after the Chinese chip suppliers raised a combined $301 million in their initial public offerings, entering the market at a time of extreme volatility especially for technology stocks.",
-        "published": "2026-11-09T23:25:31+00:00"
-      },
-      {
-        "title": "Anthropic Retracts Filing That Showed IPO Target, Reuters Says",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-seeks-to-raise-69-3-billion-via-its-ipo-reuters-says",
-        "source": "Bloomberg Technology",
-        "summary": "Anthropic PBC sent out and retracted a filing that appeared to show it was aiming to raise as much as $69.3 billion ⁠through an initial public offering, Reuters said.",
-        "published": "2026-11-10T01:43:10+00:00"
-      },
-      {
-        "title": "OpenAI Backer Altimeter Targets More Than $3 Billion for Private Markets Funds",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-10/openai-backer-altimeter-targets-more-than-3-billion-for-private-markets-funds",
-        "source": "Bloomberg Technology",
-        "summary": "Altimeter Capital Management, a prominent OpenAI and Anthropic PBC investor, is raising a set of new funds for its private markets investment work.The firm is targeting a $2.5 billion new venture capital fund to back late-stage, pre-IPO companies, according to securities filings and a person familiar with the matter. Altimeter is also in discussions to raise around $800 million to $900 million for a new venture fund that will back a diverse group of younger startups, according to the person, who",
-        "published": "2026-11-10T01:46:11+00:00"
-      },
-      {
-        "title": "Nvidia CEO Jensen Huang's Affair With Alleged Spy Raises Succession Concerns",
-        "url": "https://www.bloomberg.com/news/features/2026-11-09/nvidia-ceo-jensen-huang-s-affair-with-alleged-spy-raises-succession-concerns",
-        "source": "Bloomberg Technology",
-        "summary": "The board is probing whether its CEO was targeted by a foreign agent and facing the risk of a future without its singular leader.",
-        "published": "2026-11-09T23:41:26+00:00"
-      },
-      {
-        "title": "Marvell-Lumentum Deal Odds Near Coin Flip as AI Trade Shakes",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-09/marvell-lumentum-deal-odds-near-coin-flip-as-ai-trade-shudders",
-        "source": "Bloomberg Technology",
-        "summary": "Marvell Technology Inc.’s plan to double down on AI through a blockbuster $115 billion acquisition of Lumentum Holdings Inc. is getting a lukewarm early verdict from investment experts who bet on deals.",
-        "published": "2026-11-09T19:49:59+00:00"
-      },
-      {
-        "title": "Nvidia Intervened in US Megaspeed Chip Smuggling Probe",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-intervened-in-us-megaspeed-chip-smuggling-probe-video",
-        "source": "Bloomberg Technology",
-        "summary": "Nvidia's general counsel intervened in a US government probe of suspected smuggling of AI chips by Megaspeed International. Bloomberg's Lynn Doan and Annabelle Droulers explain what we know. (Source: Bloomberg)",
-        "published": "2026-11-09T23:59:14+00:00"
-      },
-      {
-        "title": "Comcast Job Cuts to Begin With Hundreds Let Go in Pennsylvania",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-09/comcast-job-cuts-to-begin-with-hundreds-let-go-in-pennsylvania",
-        "source": "Bloomberg Technology",
-        "summary": "Comcast Corp. is planning to cut more than 1,000 jobs in the company’s connectivity and platforms divisions as it prepares to separate the declining units from its faster-growing media and entertainment division.",
-        "published": "2026-11-09T23:22:48+00:00"
-      },
-      {
-        "title": "Big Take: The Markets Fallout From the Huang Scandal",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-09/big-take-the-markets-fallout-from-the-huang-scandal-video",
-        "source": "Bloomberg Technology",
-        "summary": "The AI economy runs on Nvidia GPUs. Can it survive the explosive revelation of an affair between CEO Jensen Huang and an alleged Chinese spy? Bloomberg’s Sarah Frier joins Sarah Holder on the Big Take podcast to explain. (Source: Bloomberg)",
-        "published": "2026-11-09T22:45:43+00:00"
-      },
-      {
-        "title": "Morgan Stanley Wealth Mgmt. Head on Vinyl Equity Deal",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-09/morgan-stanley-wealth-mgmt-head-on-vinyl-equity-deal-video",
-        "source": "Bloomberg Technology",
-        "summary": "Morgan Stanley is acquiring fintech company Vinyl Equity to add its digital, cloud-based transfer-agent technology to the firm’s workplace business. Jed Finn, Morgan Stanley’s Head of Wealth Management, said transfer agents maintain the official record of stock ownership, and argued that bringing the function in-house will reduce reliance on outside providers during companies’ transition from private to public ownership. He speaks with Vonnie Quinn & Scarlet Fu on \"The Close.\" (Source: Bloomb...",
-        "published": "2026-11-09T22:31:46+00:00"
-      },
-      {
-        "title": "Ross Gerber Sees 75% Chance Huang Remains Nvidia CEO",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-09/ross-gerber-sees-75-chance-huang-remains-nvidia-ceo-video",
-        "source": "Bloomberg Technology",
-        "summary": "Ross Gerber, co-founder, president and CEO of Gerber Kawasaki Wealth and Investment Management, reacts to the investigation into Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. He speaks on \"Bloomberg The Close.\" (Source: Bloomberg)",
-        "published": "2026-11-09T22:07:56+00:00"
-      },
-      {
-        "title": "US Lawmakers Demand Details on Nvidia Amid Jensen Huang Scandal",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-09/us-lawmakers-demand-details-on-nvidia-amid-jensen-huang-scandal",
-        "source": "Bloomberg Technology",
-        "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang’s affair with an alleged Chinese spy prompted bipartisan demands on Capitol Hill for more information as lawmakers rushed to assess the potential national security fallout from the scandal.",
-        "published": "2026-11-09T21:57:43+00:00"
-      },
-      {
-        "title": "Skydance Growing But Has a Lot of Work to Do, Ross Gerber Says",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-09/skydance-growing-but-has-work-to-do-ross-gerber-says-video",
-        "source": "Bloomberg Technology",
-        "summary": "Ross Gerber, co-founder, president and CEO of Gerber Kawasaki Wealth and Investment Management, reacts to Skydance's plan to release a streaming bundle that includes both the Paramount+ and HBO Max services early next year. He speaks on \"Bloomberg The Close.\" (Source: Bloomberg)",
-        "published": "2026-11-09T21:45:24+00:00"
-      },
-      {
-        "title": "Uber Engineering Leader for Robotaxis, Delivery Network to Exit",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-09/uber-engineering-leader-for-robotaxis-delivery-network-to-exit",
-        "source": "Bloomberg Technology",
-        "summary": "A longtime Uber Technologies Inc. executive leading engineering efforts for robotaxi partnerships and core services for maps and memberships is leaving, adding to a string of recent executive departures at the ride-hailing giant.",
-        "published": "2026-11-09T21:40:41+00:00"
-      },
-      {
-        "title": "Nvidia Intervened in US Probe of Megaspeed Chip Smuggling",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling",
-        "source": "Bloomberg Technology",
-        "summary": "Nvidia Corp.’s general counsel intervened in a US government probe of suspected smuggling of AI chips by Megaspeed International, questioning whether the Trump administration played a role in detaining an executive from the Singapore-based firm who’s now at the heart of a scandal threatening Jensen Huang.",
-        "published": "2026-11-09T21:28:26+00:00"
-      },
-      {
-        "title": "Is Jensen Huang Too Powerful to Be Punished by Nvidia?",
-        "url": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-affair-nvidia.html",
-        "source": "NYT Technology",
-        "summary": "The chief executive has a tight grip on his company, presenting a challenge for Nvidia’s board, which is investigating his affair with a woman believed to be a Chinese spy.",
-        "published": "2026-11-09T13:54:04+00:00"
-      },
-      {
-        "title": "A.I. Fueled Nvidia CEO Jensen Huang’s Elite Status, but Scandal Followed",
-        "url": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html",
-        "source": "NYT Technology",
-        "summary": "As chips became essential components for A.I., executives like Nvidia’s Jensen Huang saw their personal wealth and profiles soar in a way the industry has not experienced before.",
-        "published": "2026-11-09T17:58:29+00:00"
-      },
-      {
-        "title": "What to Know About Nvidia’s Investigation of CEO Jensen Huang",
-        "url": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang.html",
-        "source": "NYT Technology",
-        "summary": "Jensen Huang, the chief executive of the A.I. chip company, admitted to a romantic relationship with a woman who U.S. intelligence says was recruited by China’s top spy agency.",
-        "published": "2026-11-09T13:49:56+00:00"
-      },
-      {
-        "title": "Giant Merger of NextEra and Dominion Could Fail Amid Anger Over Electricity Bills",
-        "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html",
-        "source": "NYT Technology",
-        "summary": "State leaders and residents in Virginia have opposed NextEra’s acquisition of Dominion Energy, fearing that it will accelerate rate increases.",
-        "published": "2026-11-09T15:18:30+00:00"
-      },
-      {
-        "title": "'No ordinary CEO': Why the AI race cannot do without Nvidia's Jensen Huang",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMERscVA0bmtmSTlEYWRSTzV1bzVFVnFOQnR4ZjMtMzgyR0o0aFpzVmZDTklKMjUxZ2ptTTU2ZlA3UzRiNU1HUFIzd2gycHliSlo3ZkpOMk93akxqcjdQX05iSWZuQU9ZWlV2Q2o5cV80TTBqckFzOFlOREtOTHR4dVpFb29ZRkRTbDl3RGJrN0FrNEp1aGdTeVN2bkR3UlNYa0padDRqTTNINlNNdzVzTG9CcjlZV2tUaFV2SHlxcENUS28?oc=5",
-        "source": "Reuters Technology",
-        "summary": "'No ordinary CEO': Why the AI race cannot do without Nvidia's Jensen Huang Reuters",
-        "published": "2026-11-09T18:09:43+00:00"
-      },
-      {
-        "title": "Tech set to still sway US stock market's course despite AI-driven swoon",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOXdISHo5SVE3RnA1bXZ4V05tYlAzSk5ZcUgwRUpycnVmOHlPeHQwbURpeHF2am5xQjU3ZVhMY0tweVVndXNjMUVpQUdCcXEyZlg5a1ZFVW9TNkkxdGJLaGllT3ZiM3pqLUxYVnRaNDVWZG1USmItMlJkU0pnc3Z0U2Zwd0l3UnowbDQ0UVN5cEJDQU9nS3FxbDFEc2RJRjV3NkpSeEdUNDEwWXJIUkVwR2ZB?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Tech set to still sway US stock market's course despite AI-driven swoon Reuters",
-        "published": "2026-11-09T16:55:16+00:00"
-      },
-      {
-        "title": "Impossible Metals says it has successfully tested AI seabed mining robot",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV1M4ajA4SWJ0OUxmWnBNZFhVaGJaVmxmNXY1eGR0dU5ERDVTd0lzcHBLYnNJTjZicFhvbWxDaGlOZ1FLekZQM3pIUTFpRnFNTHRIRkpPS2k5aEllNEtBNUhXaldQTnJYWTdPaG1MQVd0OXFjRlVEUnZCQ0dGOHp4UXdFSVdiY2F0NkI3SGRIekZoeTRZT2F4MlNaSlA1cmw0cjZTQnR2em9LUHFXUjRMZlhPMGtSNXNra09J?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Impossible Metals says it has successfully tested AI seabed mining robot Reuters",
-        "published": "2026-11-09T17:07:45+00:00"
-      },
-      {
-        "title": "AI power rush sends data centres hunting for used turbines and jet engines",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbFFRQWRkVjczS1ZIelZTc0pKUVhEVzFLaWFDSS1GcnNCMEZld21WVEM3UDJ5U2h5MDhwdDVPLTliSnhjX1lfUi1XR3VhQ0tJS3hscF9PbXpLMjY5dm1FWDhiOGtnUERDNUZ4NjdEZXI1bEszeFpPVThMQTJiRkRRQzNpWGpQcjBMZFJVY2FFTUFwajFlbWZOX2MwNTZXWmNQRGFiV0F1RUVnRmo0eWdTdzF2MUVzSkxhUlBweXZJZC1WMkZwRkZRSQ?oc=5",
-        "source": "Reuters Technology",
-        "summary": "AI power rush sends data centres hunting for used turbines and jet engines Reuters",
-        "published": "2026-11-09T06:13:00+00:00"
-      },
-      {
-        "title": "Meta expands AI age checks for Instagram teens as lawsuits mount",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcEh1SWhQYVpodTlET20tR1AyNUVzQmdZTzNpclljYmdIT21OTXpiNHVOQUE1RFdaUkdydnpkOWp6Z0xONUluTkpzR0ZXbk9ld24zZlpQekhFakdPYy1DU2NJVUhpdnBRRTlRY1FOeUdOdElRMFo5dmxzQW8tMnY0MFpwN080NjFRbXgzODBudmU0MldDU1g0OGhqVFV4SWMyR1JNRFREUGd2MWJjR09R?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Meta expands AI age checks for Instagram teens as lawsuits mount Reuters",
-        "published": "2026-11-09T15:20:05+00:00"
-      },
-      {
-        "title": "Google unveils new AI chip variants as cloud demand surges",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1JDNDVNcnh0MU5wSzdrUVhVY3FpSklfazJZVWEtbGwyUkxydzhTcUVhV2F5aHdHV29OUE9Ea1JkZm93d2xVcU1VMEdEZE1xamt3RlktMVlqLUNGRVlIalpNd3ZRS2Z2LVN3b24yNUcyV1lkQm01MmJ3eHJLZVk3a3ZDSkhHcllvVHVxX1c1d3YtRHV3Q1g5d241UGNpLXJpSXRwTUYzcEdPcUhmN2FqdnBRNVZUYlM1WmJF?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Google unveils new AI chip variants as cloud demand surges Reuters",
-        "published": "2026-11-09T15:24:44+00:00"
-      },
-      {
-        "title": "RBA's Hunter says AI has yet to deliver productivity boost, trigger job losses",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNW9UVDViMV80RXpjYmswQ1lNQ0pMVG02UDEwcUVINjZRNTI5R2cydUxFYm9nMEI2YVUtNm5KT2xzdUwyNW93cGpldzBudzJkSWU0dEg2NU5LN1UyVW9tVW0zbDJ6Z0JmVl84UVc5ZEdBakZUcGhDMjNFX1ZhX2JfM0NIanRJM0tuYnVSZHZrTU5lSVNSSVZJZVdmZjRIclNic2UyYjZacE40cUxWMnJVeFg5RGNlUkdxSGRPVnBDdUZhV3UtT2hZ?oc=5",
-        "source": "Reuters Technology",
-        "summary": "RBA's Hunter says AI has yet to deliver productivity boost, trigger job losses Reuters",
-        "published": "2026-11-08T22:43:45+00:00"
-      },
-      {
-        "title": "UBS CEO says AI investors had been pricing for 'perfection' until sector's sharp correction",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSFY4Y0d2eFRORUl6QUN3enk4b3JhdVFzWlJEbzlWN05qVFA0QXNWZzA2QmdqY1lzZ1A0d0lGalo0R0RmMTRYY0RQLV9YR3pjTDBtaDRoVlFkZGZ2ZXM5UXZScGttSG1adFR1eU9HeFpaM09PT3NhYWlDXzBrelZfU1cxanJuN0dQS1VobWRYRWJMYTh6M21hS0JZX0J0SFRpaFRhXzNETlJPTnI5UDlvX2RUclM4QUNtZ20tbWpzSnk5cXhn?oc=5",
-        "source": "Reuters Technology",
-        "summary": "UBS CEO says AI investors had been pricing for 'perfection' until sector's sharp correction Reuters",
-        "published": "2026-11-09T02:43:00+00:00"
-      },
-      {
-        "title": "Banks, investors grow wary of AI debt, spooked by market selloff",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUktuREpUZjNlTWxZaER3aXVBUlJvazI5Q2d6STdNekNFVjk0UDYydFNlYS1zQzBlOFdzdk9waFZOeFBvLUhKUG5YOURmWE1xTkFvcFhqTmdTa3dvZ2NFTW12VW15XzA0MW9LWmlDb3BCTGc3ZllkWS1FMU9lbS1JbllDV0FhVGs3elh3azhtYWx0WkVpYnk2eDVSU1NtU2hZQXc4UUJJdkdELXNuVW1mZWJDLWFtZw?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Banks, investors grow wary of AI debt, spooked by market selloff Reuters",
-        "published": "2026-11-09T16:22:20+00:00"
-      },
-      {
-        "title": "Australia tightens AI oversight rules after OpenAI agent breached government website",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVJXX0F6amhIRlpRZGpsTmNHenBVYndTci03aEFma05jOHYtNElITWF6TnVscnNfTndvaHFjeEVHNTRfSGZubWxESVlLQ295RWNCb3ZWMmpBdDJ0aVNYYktyb1RVTVRaZTFQVmRORXZ2TmpfakRQWm1aNGdlS0J3d3pENXc3NmNoSDN4Rms4UDNkYzFLNkFBSjJJSHRoNUhhYktVNl9XYmdNdFZVNjdTdk9YQlR4bDRpcmc?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Australia tightens AI oversight rules after OpenAI agent breached government website Reuters",
-        "published": "2026-11-10T01:30:00+00:00"
-      },
-      {
-        "title": "Citigroup downgrades US equities to 'neutral' on AI concerns",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPby11OHpZbFM0UFdPdnpndU5oUUFhbWttRnlVc0FOejE2STdmSzNMNVlDMXoxbnlJLWplSHBRMXowOHFOVFE3ZVZhM1dFRGJFVm10T3h6NV9NSWs5MVFwWUpJNG9DOC1ieGRBbkRlRXJZTDRtVHQ1OGtwYk52MTB2dnMwaDBqYTU2RFM0and5Y05uNlY1bUg4UVRkWHVuUQ?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Citigroup downgrades US equities to 'neutral' on AI concerns Reuters",
-        "published": "2026-11-09T13:07:43+00:00"
-      },
-      {
-        "title": "Nvidia spy allegations likely to spur laws to tighten China's access to AI chips",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd3I1WGxHazNEeGdYc1VaNnZPbWZwN2xOQjVRZFhEbHBXVU9iYUNxQzRpZ0wtaktjcjV5NHFBNDgyWTN5OEkyRlcwMFhEbFRSZTc3ZUhjbm5nRkFrRmNQQnlIWk5WeE5RYWNPbDZlLWFWdkhuY1puVDNqaFVySUN6WWRoUWxOaDJYNGtPRVZncGh6cENyNjU5NkVSU3VnTFM3d29iOE9LZGp5TTlKclhiVUtfUzZKMWwwdnVOZ2Y2SF9PaEUt?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Nvidia spy allegations likely to spur laws to tighten China's access to AI chips Reuters",
-        "published": "2026-11-09T22:04:30+00:00"
-      },
-      {
-        "title": "Morning Bid: Fragile calm after AI whiplash",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fNFFqYzRzRm1EWVdXeFFaRUtfazI2a2dQVEFKVlVBcGt0S3pMN19wNmVuR1Vwal9yeHJQSFVYeU80SjdWc0hsM1V1ZDhGUjJZbDJ4Zlo3SVM0eHAxWEVTZGdFRHdRdnZsRTF2ZC1GM19ZTi1SWUYwZGtiSjkwTFE?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Morning Bid: Fragile calm after AI whiplash Reuters",
-        "published": "2026-11-09T05:45:00+00:00"
-      },
-      {
-        "title": "Trump says AI risks can be managed, signals openness to guardrails",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR0pjQ3BqWnFTMHRZQTVMM0NKR0FIN3RFUnZadVNsY0N5cGV2VkEzeFRtSUhhOEtZLUNyVDBMa05vZDdIS05Qa0s2QUhNWTRJZ3F1OE11SG53RFYtY1pPeWFIQ1d3YTJkNFNyaS11aUJ5UU1zU3pWQ08wNXJ2N2lVajJnblJSLUh4Zks2TTdaaXRVWFpKdEJRMTM3c2hPRy11aXpDTlM3cw?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Trump says AI risks can be managed, signals openness to guardrails Reuters",
-        "published": "2026-11-09T00:29:00+00:00"
-      },
-      {
-        "title": "Taiwan's October exports surge again on strong AI demand",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMGozN29TakxGT1pJQUJkdkNrcVI0dFdQM1k1aDBEdkw0QVZpUTF0ZVVmb1FGUVdxSld1QThiUEQtR3N1QXR2X1ZNSnBpSW83UE04REhBbFVtWGxDWVZUS2xFRFhMb0NfUURSSGZjaURtaTl4azloVHU1ZGZnVGVrdWNRODFmWHFwYnhhcVRhcTRZdHVyVmxNZkxuSXl6V19jc3dvWmdjZ2lPWjg?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Taiwan's October exports surge again on strong AI demand Reuters",
-        "published": "2026-11-09T08:49:44+00:00"
-      },
-      {
-        "title": "Nvidia probes whether CEO Huang was target of foreign spying as he admits affair",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFNRSy1yS0duakdXT1hKbjI2MkFsMVhHeTQ1VVh4QlZYOVdvd0ZKaWVjTzFXT2JCRlR2T2IzSjRKcENSTkNLbVR2VU90Q1VyUHhEZWp0NGZLQUZPRXJ1NlNVNG9OZ0U0T2VwYmJuaURBMWVBYXhHd1hDb00zZU9aUXJGaU10bmFrclgySUZoUE1GX210Q19TQ1pXRjJTVFpoZjN2NG9qblVQMXhHUC1vV3JxaHkxbVJiVkhldEZISHlCdw?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Nvidia probes whether CEO Huang was target of foreign spying as he admits affair Reuters",
-        "published": "2026-11-08T20:16:00+00:00"
-      },
-      {
-        "title": "OpenAI gets $11 billion funding at $1.25 trillion valuation, source says",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdlpNRm5XVy11c3hLY0NRdjh2T3VmOE1LOWQ2LXlvcFhmZlFJYkQya3N3QWxud2UteUZpWVlCTXVHUXZZTjIwRlVQaUhqOGhyM2lDaDJTSGcxMnE5MzhOZ1NHYlJIc1p5bHRxaVZjZDd4MFY2RWMtRkNlYkhSVkdpMlRBWi1PYUNmZGNydXZnOTZFMTFoOHR0azBpUlU1aHpVdFA4dlhCV0dDNm91VE0xSVg0bXZhcF9jaVAzcXYzaldOdw?oc=5",
-        "source": "Reuters Technology",
-        "summary": "OpenAI gets $11 billion funding at $1.25 trillion valuation, source says Reuters",
-        "published": "2026-11-08T15:12:57+00:00"
-      },
-      {
-        "title": "FTSE 100 posts weekly loss as AI jitters spark risk-off move",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ1RObmZRd1NXMGlCYnY1a3d4cC1EelByQktKTEswQXc3d2d0NFBqMW1sRlRDcjM3LTVWZk95dFJjbnZuRnUtOTBIcWI3RXN1VV9sQ0paT1dCanpRUGVraUFuRnlocE5ENGIyRlllSVpxc1JFRm5iVEZod21rajcwLVhlcTc4R1lYb0hfRnNhQWxhbXRteUJUNTM2Y0gyYl9zS0NOa1FR?oc=5",
-        "source": "Reuters Technology",
-        "summary": "FTSE 100 posts weekly loss as AI jitters spark risk-off move Reuters",
-        "published": "2026-11-06T17:53:25+00:00"
-      },
-      {
-        "title": "US consumer sentiment improves in November; worries about AI bubble emerge",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU2hxVzJrd2JjSnRZanJBcnVQVWx2a1dWaDNpVjVhLVZUenl0THYtUzJVMmViV0VmbTEwd1Bvd2xKRDNjbGRySXhsbDZuakRXcWFjQVpHR1RtYW16akJfdFNscU9zelF4VUlmenY4Vzh2aUpLZXUxcFA4QW9jSmJia0lrWUhqT2g0cVp0V3ZuMmg4WW5jSm1GUnRiMl83TDBPSHNnSS1TVnVGTTUwOFNGY1lVX1J5dw?oc=5",
-        "source": "Reuters Technology",
-        "summary": "US consumer sentiment improves in November; worries about AI bubble emerge Reuters",
-        "published": "2026-11-06T15:31:43+00:00"
-      },
-      {
-        "title": "Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzhYdUhsNzNPQkZ3aVh2eGJ4NEgtNlpiX0tRaDA3UFpFclkzMWRycGVrQlhaZVRNSnVoSlFBY2tWR0dyV2JTWWRBcy1qVnZyQ0VFWWE4SkozSFgyMmdzSXdQMkVLaXVJS0dFUUh5WXd6N1UyRjFGczJvU2VycHVEemxlZkRKQk5PRWtyakNiM0dSdzllZ1ItcjlJRzcyWnhkVE0zTy1paTZpWmJhLWZPaFVpeVFvWjMwNDdn?oc=5",
-        "source": "Reuters Technology",
-        "summary": "Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO Reuters",
-        "published": "2026-11-09T20:21:57+00:00"
-      }
-    ],
     "2026-11-11": [
       {
         "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
@@ -3031,6 +2511,533 @@
         "source": "Reuters Technology",
         "summary": "Wall St jumps as oil slide cools inflation worries; Nvidia slumps Reuters",
         "published": "2026-11-09T10:35:00+00:00"
+      }
+    ],
+    "2026-11-12": [
+      {
+        "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+        "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+        "source": "TechCrunch",
+        "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+        "published": "2026-11-12T03:13:10+00:00"
+      },
+      {
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+        "source": "TechCrunch",
+        "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+        "published": "2026-11-11T23:50:00+00:00"
+      },
+      {
+        "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+        "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+        "source": "TechCrunch",
+        "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+        "published": "2026-11-11T23:28:45+00:00"
+      },
+      {
+        "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+        "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+        "source": "TechCrunch",
+        "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+        "published": "2026-11-11T23:17:05+00:00"
+      },
+      {
+        "title": "Why the data center you dread might never even be built",
+        "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+        "source": "TechCrunch",
+        "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure […]",
+        "published": "2026-11-11T20:15:15+00:00"
+      },
+      {
+        "title": "Meta is losing its longtime head of  infrastructure",
+        "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+        "source": "TechCrunch",
+        "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+        "published": "2026-11-11T20:12:01+00:00"
+      },
+      {
+        "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
+        "url": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
+        "source": "TechCrunch",
+        "summary": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible.",
+        "published": "2026-11-11T20:04:28+00:00"
+      },
+      {
+        "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+        "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+        "source": "TechCrunch",
+        "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+        "published": "2026-11-11T19:54:00+00:00"
+      },
+      {
+        "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+        "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+        "source": "TechCrunch",
+        "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+        "published": "2026-11-11T19:34:55+00:00"
+      },
+      {
+        "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+        "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+        "source": "TechCrunch",
+        "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+        "published": "2026-11-11T19:22:22+00:00"
+      },
+      {
+        "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+        "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+        "source": "TechCrunch",
+        "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+        "published": "2026-11-11T16:16:07+00:00"
+      },
+      {
+        "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+        "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+        "source": "TechCrunch",
+        "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+        "published": "2026-11-11T16:14:44+00:00"
+      },
+      {
+        "title": "Siri co-founder backs Helix for its voice ID tech",
+        "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
+        "source": "TechCrunch",
+        "summary": "With the rise of AI agents like Instinct and Muse, the industry needs to rethink human identity on the internet and rely on biometric signals like voice, which is where Helix comes in.",
+        "published": "2026-11-11T15:02:47+00:00"
+      },
+      {
+        "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+        "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+        "source": "TechCrunch",
+        "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+        "published": "2026-11-11T15:00:00+00:00"
+      },
+      {
+        "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+        "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+        "source": "TechCrunch",
+        "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+        "published": "2026-11-11T14:00:00+00:00"
+      },
+      {
+        "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+        "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+        "source": "TechCrunch",
+        "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+        "published": "2026-11-11T07:30:51+00:00"
+      },
+      {
+        "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+        "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+        "source": "The Verge",
+        "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who […]",
+        "published": "2026-11-11T22:44:36+00:00"
+      },
+      {
+        "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
+        "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
+        "source": "The Verge",
+        "summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly. And it's working. I've been testing […]",
+        "published": "2026-11-11T22:00:00+00:00"
+      },
+      {
+        "title": "United won’t let your AI agent book your flight",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+        "source": "The Verge",
+        "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned […]",
+        "published": "2026-11-11T21:54:21+00:00"
+      },
+      {
+        "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
+        "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
+        "source": "The Verge",
+        "summary": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices that exploit consumers into spending more of their time and money online, […]",
+        "published": "2026-11-11T18:13:52+00:00"
+      },
+      {
+        "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
+        "url": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
+        "source": "The Verge",
+        "summary": "Toyota is dusting off the Scion badge for a radically different mission. Rather than targeting youth-market hatchbacks, \"Scion by Toyota\" is being positioned as an experimental mobility incubator - and its first vehicle is an authentic Japanese-style kei truck built in Indiana. Kei vehicles, which are built to satisfy Japan's light vehicle regulations, are enjoying […]",
+        "published": "2026-11-11T17:09:58+00:00"
+      },
+      {
+        "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+        "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+        "source": "The Verge",
+        "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing […]",
+        "published": "2026-11-11T16:00:00+00:00"
+      },
+      {
+        "title": "The best early Black Friday deals you can already shop",
+        "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+        "source": "The Verge",
+        "summary": "The countdown to Black Friday is on, and the first discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn’t necessarily mean you’re getting a historically low […]",
+        "published": "2026-11-11T15:53:55+00:00"
+      },
+      {
+        "title": "Sharge’s eye-catching MacBook charger is over 25 percent off",
+        "url": "https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale",
+        "source": "The Verge",
+        "summary": "Looking for a MacBook and device charger that’s as stylish as it is capable? Both Amazon and Sharge are selling the Pixel 140W GaN charger for $69.88 and $69.90, respectively, a $24 discount on its usual price. If you’re not in need of that much wattage but like the style, Sharge is also selling the […]",
+        "published": "2026-11-11T15:30:00+00:00"
+      },
+      {
+        "title": "Ocarina of Time is even better if you use a smartphone app",
+        "url": "https://www.theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula",
+        "source": "The Verge",
+        "summary": "I never liked hunting for Golden Skulltulas in The Legend of Zelda: Ocarina of Time. The game has 100 of them tucked all over Hyrule, and even over my many hours with the N64 classic growing up, I can't remember ever actually finding all of them, or even wanting to. Jumping into the Ocarina of […]",
+        "published": "2026-11-11T15:00:00+00:00"
+      },
+      {
+        "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+        "source": "The Verge",
+        "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. AlphaGenome 2 is the successor […]",
+        "published": "2026-11-11T15:00:00+00:00"
+      },
+      {
+        "title": "Mortgage rates jump sharply after latest CPI report: Here's what you need to know",
+        "url": "https://www.cnbc.com/video/2026/11/11/mortgage-rates-jump-sharply-after-latest-cpi-report-heres-what-you-need-to-know.html",
+        "source": "CNBC Technology",
+        "summary": "CNBC's Diana Olick joins 'Squawk on the Street' with the latest news surrounding mortgage rates.",
+        "published": "2026-11-11T16:51:30+00:00"
+      },
+      {
+        "title": "Mortgage rates jump sharply higher, after easing for four straight weeks. Here's why",
+        "url": "https://www.cnbc.com/2026/11/11/mortgage-rates-jump-sharply-higher-after-easing-for-4-straight-weeks.html",
+        "source": "CNBC Technology",
+        "summary": "After falling for a month, mortgage rates jumped sharply higher on a hotter-than-expected inflation report.",
+        "published": "2026-11-11T12:38:32+00:00"
+      },
+      {
+        "title": "Nvidia Scandal Puts Lori Huang, Jensen Huang’s Wife, In the Spotlight",
+        "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html",
+        "source": "NYT Technology",
+        "summary": "Lori Huang, who has been married to the Nvidia chief executive for more than 40 years, stands out among tech titan spouses for how private she has been.",
+        "published": "2026-11-11T14:46:43+00:00"
+      },
+      {
+        "title": "Silicon Valley Tech Allies Support Jensen Huang",
+        "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html",
+        "source": "NYT Technology",
+        "summary": "Elon Musk and other Silicon Valley figures cast the Nvidia chief’s relationship with a woman believed to be a Chinese spy as a personal lapse, not a security failure.",
+        "published": "2026-11-11T17:29:52+00:00"
+      },
+      {
+        "title": "This Trader Raised Alarm About Nvidia’s China Entanglements Months Ago",
+        "url": "https://www.nytimes.com/2026/11/11/business/nvidia-megaspeed-christian-lamarco.html",
+        "source": "NYT Technology",
+        "summary": "Christian Lamarco, a 31-year-old short seller and trader, warned about financial and personal problems at Nvidia in May.",
+        "published": "2026-11-11T10:03:57+00:00"
+      },
+      {
+        "title": "Nvidia’s Board Is Meeting to Discuss Jensen Huang’s Future",
+        "url": "https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html",
+        "source": "NYT Technology",
+        "summary": "Mr. Huang has been under scrutiny for an affair with a woman said to be a Chinese spy, as well as a relationship with an executive at his A.I. chip company.",
+        "published": "2026-11-11T23:32:14+00:00"
+      },
+      {
+        "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+        "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+        "source": "NYT Technology",
+        "summary": "Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy.",
+        "published": "2026-11-12T01:57:34+00:00"
+      },
+      {
+        "title": "Court Rules That Sexual Harassment Case Against SpaceX Can Proceed",
+        "url": "https://www.nytimes.com/2026/11/11/business/sexual-harassment-spacex-elon-musk.html",
+        "source": "NYT Technology",
+        "summary": "The company had argued that the case, involving eight former workers, must be resolved before an arbitrator.",
+        "published": "2026-11-11T20:51:49+00:00"
+      },
+      {
+        "title": "Trump Officials Clashed Over Megaspeed, Firm at Heart of Nvidia Affair",
+        "url": "https://www.nytimes.com/2026/11/11/business/economy/nvidia-affair-spy-bessent-lutnick.html",
+        "source": "NYT Technology",
+        "summary": "Treasury Secretary Scott Bessent confronted Commerce Secretary Howard Lutnick last week about why the administration had not put restrictions on advanced chip sales to Megaspeed.",
+        "published": "2026-11-11T17:11:59+00:00"
+      },
+      {
+        "title": "Why Is It So Hard to Teach A.I. Agents to Behave? Researchers Have a Theory.",
+        "url": "https://www.nytimes.com/2026/11/11/magazine/ai-behavior-incorrigible.html",
+        "source": "NYT Technology",
+        "summary": "The makers of A.I. want to build systems that follow human direction, without resisting or deceiving their operators.",
+        "published": "2026-11-11T10:01:51+00:00"
+      },
+      {
+        "title": "Will Nvidia Replace Jensen Huang as CEO? What’s Next for AI, Markets?: Live Q&A",
+        "url": "https://www.bloomberg.com/sessions/2026-11-11/live-q-amp-a-will-jensen-huang-be-replaced-as-ceo-what-s-next-for-nvidia",
+        "source": "Bloomberg Technology",
+        "summary": "Bloomberg reporters answer your questions on Nov. 12 at 12 p.m. HKT / Nov. 11 at 11 p.m. ET.",
+        "published": "2026-11-12T03:13:16+00:00"
+      },
+      {
+        "title": "Nvidia to Decide on Jensen Huang’s Fate",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-to-decide-on-jensen-huang-s-fate-video",
+        "source": "Bloomberg Technology",
+        "summary": "Nvidia’s board has been working with an outside firm to identify potential replacements for Chief Executive Officer Jensen Huang following reports of multiple extramarital affairs, including one with a woman who is reportedly suspected of spying for China. (Source: Bloomberg)",
+        "published": "2026-11-12T02:31:20+00:00"
+      },
+      {
+        "title": "Chinese Robotics Platform Amicro Surges 83% in Hong Kong Debut",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-11/hosin-amicro-set-to-trade-in-hong-kong-as-ipos-gather-pace",
+        "source": "Bloomberg Technology",
+        "summary": "Chinese robotics platform Amicro Technology Co.’s shares surged in their Hong Kong debut after the company raised HK$709.7 million ($90 million) in an initial public offering, in a test of investor appetite for the technology stocks ahead of Anthropic PBC’s blockbuster US listing.",
+        "published": "2026-11-11T23:00:00+00:00"
+      },
+      {
+        "title": "Anthropic IPO Risks Causing AI Correction, Selby Says",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-lockup-risks-triggering-ai-correction-selby-says",
+        "source": "Bloomberg Technology",
+        "summary": "Anthropic PBC’s blockbuster initial public offering may become the catalyst for major reversal in the artificial intelligence trade, according to Jack Selby, who runs the venture capital firm Copper Sky.",
+        "published": "2026-11-11T06:13:06+00:00"
+      },
+      {
+        "title": "Alleged Chinese Spy at Center of Nvidia Firestorm Is in Beijing",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-12/alleged-chinese-spy-at-center-of-nvidia-firestorm-is-in-beijing",
+        "source": "Bloomberg Technology",
+        "summary": "The suspected Chinese spy at the heart of a scandal that threatens to take down Nvidia Corp. Chief Executive Officer Jensen Huang has returned to her home country, people familiar with the matter said.",
+        "published": "2026-11-12T01:19:42+00:00"
+      },
+      {
+        "title": "Alphabet Kicks Off Asia Bond Sale as AI Firms Face Scrutiny",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-12/alphabet-kicks-off-asia-bond-sale-as-ai-firms-face-scrutiny",
+        "source": "Bloomberg Technology",
+        "summary": "Alphabet Inc. began marketing its inaugural Hong Kong and Singapore dollar bond sale, testing investor interest at a time of increasing volatility for companies focused on artificial intelligence.",
+        "published": "2026-11-12T01:12:49+00:00"
+      },
+      {
+        "title": "ANZ CEO Matos Warns of Global Jobs Crisis Without AI Rules",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-12/anz-ceo-matos-warns-of-global-jobs-crisis-without-ai-rules",
+        "source": "Bloomberg Technology",
+        "summary": "ANZ Group Holdings Ltd. Chief Executive Officer Nuno Matos has called for global regulation to manage the impact of artificial intelligence on the labor market, which he warned could trigger an international crisis.",
+        "published": "2026-11-12T00:41:09+00:00"
+      },
+      {
+        "title": "Nvidia’s CEO Change Won’t Derail AI Trade: Pepperstone",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-s-ceo-change-won-t-derail-ai-trade-pepperstone-video",
+        "source": "Bloomberg Technology",
+        "summary": "Chris Weston, head of research at Pepperstone Group, said he doesn’t expect changes to Nvidia’s leadership to impact the outlook for the company. A new CEO will probably come with a deep knowledge of its business and will probably not change the rollout of products and direction of AI, he said. He spoke to Haidi Stroud-Watts on Asia Trade. (Source: Bloomberg)",
+        "published": "2026-11-12T00:40:14+00:00"
+      },
+      {
+        "title": "Nvidia Working With Outside Firm to Identify CEO Options",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-working-with-outside-firm-to-identify-ceo-options-video",
+        "source": "Bloomberg Technology",
+        "summary": "Nvidia's board has been working with an outside firm to identify potential replacements for Chief Executive Officer Jensen Huang following reports of multiple extramarital affairs, including one with a woman who is reportedly suspected of spying for China. (Source: Bloomberg)",
+        "published": "2026-11-12T00:19:45+00:00"
+      },
+      {
+        "title": "Nvidia Working With Outside Firm to Identify CEO Candidates",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-working-with-outside-firm-to-identify-ceo-candidates",
+        "source": "Bloomberg Technology",
+        "summary": "Nvidia Corp.’s board has been working with an outside firm to identify potential replacements for Chief Executive Officer Jensen Huang following reports of multiple extramarital affairs, including one with a woman who is reportedly suspected of spying for China, a person familiar with the situation said.",
+        "published": "2026-11-11T23:46:39+00:00"
+      },
+      {
+        "title": "Nvidia Board Meets on Huang’s Fate After Affair With Alleged Spy",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-board-meets-on-huang-s-fate-after-affair-with-alleged-spy",
+        "source": "Bloomberg Technology",
+        "summary": "Nvidia Corp.’s board is meeting to discuss the fate of Chief Executive Officer Jensen Huang, who admitted to having an affair with a woman that US officials reportedly believe to be a Chinese spy, according to a person with knowledge of the matter.",
+        "published": "2026-11-11T23:28:56+00:00"
+      },
+      {
+        "title": "Nvidia CFO Favored to Replace Jensen Huang as Board Meets",
+        "url": "https://www.bloomberg.com/news/live-blog/2026-11-11/nvidia-turmoil-board-to-weigh-ceo-jensen-huang-future-over-alleged-affairs",
+        "source": "Bloomberg Technology",
+        "summary": "",
+        "published": "2026-11-11T22:57:22+00:00"
+      },
+      {
+        "title": "We Are Probably Overbuilding Data Centers: Gary Marcus",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-11/we-are-probably-overbuilding-data-centers-gary-marcus-video",
+        "source": "Bloomberg Technology",
+        "summary": "Gary Marcus argues that investors should avoid Anthropic’s IPO because its financial outlook depends on rapid, sustained growth. He speaks with Romaine Bostick and Vonnie Quinn on The Close. (Source: Bloomberg)",
+        "published": "2026-11-11T23:05:40+00:00"
+      },
+      {
+        "title": "Zocdoc Brings AI to Healthcare",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-11/zocdoc-brings-ai-to-healthcare-video",
+        "source": "Bloomberg Technology",
+        "summary": "AI agents are moving into health care, taking on tasks from finding an in-network doctor to booking appointments around a patient's schedule. Zocdoc CEO Oliver Kharraz says traffic to the platform from AI agents has grown nearly 30-fold since July and has been doubling roughly every 10 days since early September. He joins Bloomberg Businessweek Daily to discuss how the company is openings its doors to AI while keeping patient privacy intact.  (Source: Bloomberg)",
+        "published": "2026-11-11T22:54:40+00:00"
+      },
+      {
+        "title": "Nvidia Preparing to Oust Jensen Huang After Affairs, WSJ Says",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-ceo-had-an-affair-with-health-executive-at-firm-nyt-says",
+        "source": "Bloomberg Technology",
+        "summary": "Nvidia Corp.’s board is preparing to oust Chief Executive Officer Jensen Huang after multiple extramarital affairs, including one with a woman who is reportedly suspected of being a Chinese spy, the Wall Street Journal said Wednesday.",
+        "published": "2026-11-11T22:27:33+00:00"
+      },
+      {
+        "title": "CoreWeave Plans to Raise at Least $4 Billion in High-Grade Loan",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-11/coreweave-plans-to-raise-at-least-4-billion-in-high-grade-loan",
+        "source": "Bloomberg Technology",
+        "summary": "CoreWeave Inc. plans to raise at least $4 billion through an investment-grade loan offering after the AI computing supplier boosted its annual sales forecast, easing investor concerns about its debt-laden business.",
+        "published": "2026-11-11T22:42:47+00:00"
+      },
+      {
+        "title": "Huang Said to Have Had Affair With Nvidia Executive: NYT",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-11/huang-said-to-have-had-affair-with-nvidia-executive-nyt-video",
+        "source": "Bloomberg Technology",
+        "summary": "Nvidia CEO Jensen Huang had a relationship with Kimberly Powell, Nvidia’s vice president of health care, according to the New York Times. Michael Shepard has more on \"Balance of Power: Evening Edition.\" (Source: Bloomberg)",
+        "published": "2026-11-11T22:35:57+00:00"
+      },
+      {
+        "title": "Microsoft Vows to Pay Its Own Way to Power Data Centers",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-11/microsoft-vows-to-pay-its-own-way-to-power-data-centers",
+        "source": "Bloomberg Technology",
+        "summary": "Microsoft Corp. aims to find ways to power its data centers without relying on government subsidies or driving up costs for other electricity consumers.",
+        "published": "2026-11-11T20:33:16+00:00"
+      },
+      {
+        "title": "Stocks Slide as AI Trade Roars Back | Closing Bell",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-11/stocks-slide-as-ai-trade-roars-back-closing-bell-video",
+        "source": "Bloomberg Technology",
+        "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Vonnie Quinn, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+        "published": "2026-11-11T21:58:37+00:00"
+      },
+      {
+        "title": "OpenAI, Anthropic Valuations Fuel VC Fears of Startup Correction",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-11/openai-anthropic-valuations-fuel-vc-fears-of-startup-correction",
+        "source": "Bloomberg Technology",
+        "summary": "In late September, OpenAI entered discussions for its latest funding round with confidence. After having early discussions with prospective backers who had expressed interest, the company presented its terms: at least $30 billion in new capital at a $1.4 trillion valuation.Few startups have been as successful at fundraising as OpenAI, which was last valued at $852 billion. This time, however, some investors felt the terms were too lofty, according to people familiar with the matter, who spoke on",
+        "published": "2026-11-11T21:39:14+00:00"
+      },
+      {
+        "title": "US and China should stay clear-eyed on AI cooperation and competition, Bessent says",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWUdDU2JVSnpLTmIzYVRmNm5Wb2Y3UC1vVElXMTZwdlM4M2YwRGZKT2tkYXI5YVlzRk1GZm5HRmY3NDlPQm1UaC1McjQ3STR0ME1LeDJCQ2NPQlVyU1RBa0RkSUotV2tSWndkN3NiQmdsVFFoVENFUVdFTExITml0bnc3RVdGcU1mSTB1T1gzcHpWMUM4MXFnSm1oWTdhZ0I2TG11M1JBU0xfUUtYLTNDRlcxeFpWcWZSUFVz?oc=5",
+        "source": "Reuters Technology",
+        "summary": "US and China should stay clear-eyed on AI cooperation and competition, Bessent says Reuters",
+        "published": "2026-11-11T01:25:00+00:00"
+      },
+      {
+        "title": "PODCAST: An AI pioneer on extracting value from technology",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUJBWHFsZThzQ0NIRzZPNVh3U3RjVEdRVkx4NS1kMDhHXzBaSWdHb3BPTUpjU3RYLUE3OFRKTjR5LUNOUzFYRmx1ci1pZUN4eEc4bGNHMml4UTRlMGFhTVJKNGg2aTRNWXJLSkxhbU5ZSno1M09CU2hxOGZoN2hLc1RUNDR6d1hadUthelQyWTZkTnJhTHZ0cExQV2tMd3dL?oc=5",
+        "source": "Reuters Technology",
+        "summary": "PODCAST: An AI pioneer on extracting value from technology Reuters",
+        "published": "2026-11-10T05:15:00+00:00"
+      },
+      {
+        "title": "UK-backed AI chip startup Fractile hits $7 billion valuation in funding round",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU0V1VVc2X0ppTUpCU0lET0pMdzV1YjFLbV83a0luR0VCdmVFN0g0ZzFzZXpZeWdWMjBNWVppUWV5QlNNYkFEdkY3QnJadVhleU5saHFaMk1USXRUZkpoTGEzeE9rejdTbGFnYVVMdk5DZVBLWlFuNnlKZi0wRnR2cE96UlRTWXluUGdpME53bkEtQWZPSGowd2l5OXU0WVM2ZHZ0OXlHSW5KZjFuUFVSYWpSZWlobFZJSnNiblE1YVZSc0ozVlNJaA?oc=5",
+        "source": "Reuters Technology",
+        "summary": "UK-backed AI chip startup Fractile hits $7 billion valuation in funding round Reuters",
+        "published": "2026-11-11T17:12:38+00:00"
+      },
+      {
+        "title": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli?oc=5",
+        "source": "Reuters Technology",
+        "summary": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist Reuters",
+        "published": "2026-11-11T05:13:00+00:00"
+      },
+      {
+        "title": "Australian companies face 'AI washing' claims after wave of job cuts, offshoring",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcXQ3SDJSOHBVMlp3MFdMSllYZzd2V0t1WEpiNklxU081VXk0dmZZa2dzV0xhcXRSNnJnVkpLbmUtaFlUQ05icmdEMXV4cGZzWnV3RE9XbGRuWjhxbUxaZzhwakYxWDZFUkx2OWpOWFJUYnZXaGdyUzIzSXBwbmpfWVRQbVlaOFRtNXJLUGRlMU5PeDBHWFZiUTZ3UVJxWEplYXZFWmVFRUdKTWMwNUhVdXJSYVY4djFKbEd4RlRuQm1pRnpIVVd5U1dSNWc1QQ?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Australian companies face 'AI washing' claims after wave of job cuts, offshoring Reuters",
+        "published": "2026-11-11T21:02:09+00:00"
+      },
+      {
+        "title": "CoreWeave sparks AI cloud stock rally, lifts Nvidia as results ease bubble fears",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaTZzT256WkU3aE4zUnA1UXBqX05FOENKeXI4MFZtUDQtc28zeDBLWEE2UGdydUU0OXI0LVotdWEwUVBJeDB0bVh6Z1BrN0dQbHFRa0RwZ2xEdDlBaS12T3ZSQXlzcHNSTHAxN2FBUjFXTTlaTmRUWWVJdFZmaXBDZTJteWlWQ2d0MDYzRHRyLWV3Y0xiMU5ndjRMdlBOaDR0T25uVVFNZS12ZDhjWkRMRzBDc2EzN2RyR0dvTnZqWlgxZw?oc=5",
+        "source": "Reuters Technology",
+        "summary": "CoreWeave sparks AI cloud stock rally, lifts Nvidia as results ease bubble fears Reuters",
+        "published": "2026-11-11T20:54:06+00:00"
+      },
+      {
+        "title": "Russia's Yandex says nearly 3% of cloud customer data lost after attacks",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdzdkdUxBRTVJVUxpMjgxTXpSLWxUOVM1bFJvSW1hbFJHZUpONFYtNThRUEtlcGtiWTZEYTF2bjhXZ0d2d1FkNVQxYVkxWnhtV2FIdFhoekFYOVo1YkNZR3lZTVJ0MTJ4YzgzcE82NU5BS2F5c3kydC1zVjB4MkctWlFmNEVKcVEyaFVkR3d2VkJOZkRIN3pwY3hfakd4YlRNb2pDeUlGNzhjV0J1V0NJbTV2dGU?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Russia's Yandex says nearly 3% of cloud customer data lost after attacks Reuters",
+        "published": "2026-11-10T13:25:44+00:00"
+      },
+      {
+        "title": "COMMENTARY: Law firms want to bring AI to legal aid, but it's not easy",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY2RQMGEyQVl2RzFvR0FHSXdQX2N6QXNqOXlGbjJ6bFBBc3BldnNrbHdRbGNFMkxpNE1ibnVqeDVwdDRES3BtSGZpNG9ETkdoTkRhQlN4Z3c4dlJlV1N0SWw2dFBMYl91c0FzVFFqNnVUY1lLZF9teHdYaHl5QzA5NmtfeEJMY2JKT1Vza0Nsa01xWS0tblBTUVVDWjJUVFh6R2ZfUA?oc=5",
+        "source": "Reuters Technology",
+        "summary": "COMMENTARY: Law firms want to bring AI to legal aid, but it's not easy Reuters",
+        "published": "2026-11-11T11:16:09+00:00"
+      },
+      {
+        "title": "Man wrongly jailed after AI mismatch can pursue lawsuit for now",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPblBjM29fQlVzTGhiMVRYSHhGellZVmp1OURyd0ltdGJJOHNrcnU4bEdiVkI1dmNsMjBIM3Bwc3d6dmpyY1hTbS01YTJuRXplcFczdmlrbGZ1eUpWaVl2THhpaUpSWkZ2d2xRNnlUVmFfVDhWS3REVC1NVVF5THN5Y1hVU0doOTZ0NkhJRE4xY3pURVE2NW1WZ1R2czB4OU50eUdRTmlhRl81RDVnMXhtOS1R?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Man wrongly jailed after AI mismatch can pursue lawsuit for now Reuters",
+        "published": "2026-11-10T15:13:44+00:00"
+      },
+      {
+        "title": "Nvidia board meets to decide CEO Huang's future as leadership crisis deepens",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTlA5REZDN0pJYkxyUXM4YjE1Q1BLN0tKNENxM3NsV3RKblNhbWpsdEFUUVRieUtNckY4S3YwdkFUdjhvZVk4Nm1Ga1JNUmZkRzMtaEhHazhHNmZDX3Z1WUNzZnJmdEpLeVRmcngzdEMwM2N3b1I1ckQ1Q2N2a2NRNWtfa0ZTTkhYaXlqc1NqbklwWUxIdktqdzZvS0M2cGhSYkE?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Nvidia board meets to decide CEO Huang's future as leadership crisis deepens Reuters",
+        "published": "2026-11-11T22:34:00+00:00"
+      },
+      {
+        "title": "Automation startup Rox raises $100 million at $1.3 billion valuation",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMUtrODMtSnhzZldZdEpjMmFEdHlzdTBlTTdDZkJObUJMenZOSkZ0eGhpT3R0Z3prQ0ZZazE0dVVsMlFKMklla0dMVGhVOURMSG1fTHRjSFFoZE0xS3IwRUYyNm14T2RRbktPNERZVXdBejduY1U3T0xJelZsbXJ1T0U4Q1prZTR0Z2NmYXV4RDRrdWw0UE5GdE1vdjFJamFBb25JTElKMTdXV2s?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Automation startup Rox raises $100 million at $1.3 billion valuation Reuters",
+        "published": "2026-11-11T14:18:33+00:00"
+      },
+      {
+        "title": "Stocks rise on tech gains; Nvidia falls after hours",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON2pqenNYSWUzSVBxc3U2RlhRT29TZGNJWFVMRVVQa0NkaDd6STY3VzhiZTB1b0RPcXB4c0ZEM1RwaGdkZUpkZHp2Q0ZCenBZZF90eTZFMnJvT2F4elJlZlMzOFFiaTVfUmxxNVcxNFZLOVpRY1ZHTjFITVpqVlJHdDJ6UXVUNXU4Z2NoOGZrVjB0QQ?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Stocks rise on tech gains; Nvidia falls after hours Reuters",
+        "published": "2026-11-11T02:05:00+00:00"
+      },
+      {
+        "title": "Israeli AI security startup Bay raises $50 million",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR1FUM21STWZfakdFdy1yUEE3dHhGTUtoazJLcHAtZ3hlVXRvbEV5LVA0YXAwRlVGQ05qQ0Z1azV5Wk5wTWFVVXdKZ0FjSy04bkxlcDc5N2xsMFp2eUs5RzF6endfbXA0Ymt3WGo2UllEYzB1aWZmT0I2Smd1MVFBaHBtZzFWZC1pci1icms2cFJFZWxOTVg0aWpyaDU?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Israeli AI security startup Bay raises $50 million Reuters",
+        "published": "2026-11-10T13:10:38+00:00"
+      },
+      {
+        "title": "Drugmakers tap China AI app boom to reach doctors as crackdown upends marketing",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNUhMNG1KUG10c1p6SkJRa3N4T3pGcHN6dU9fOWU4MDdEbFJGLV9mQlRRYUVZYU1FQ2kzb2NiTV92elFwQ0ZMalh4VzF4LWJ0NDZXUC1FUzZ4QzMtb0VvRUcxRFVqSmY4VWRpLS1uTHFwZGNxbWtlMHVFZ2YtWW9xU19ha3ctOGVyRE1nbzhpaFVKUXRtdHA1VVRKSld5NDlqcVVURFc0VFVlMGowUVFhcHN4VVM3TWwyRW1EUmNtS1N4dm5R?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Drugmakers tap China AI app boom to reach doctors as crackdown upends marketing Reuters",
+        "published": "2026-11-11T07:03:00+00:00"
+      },
+      {
+        "title": "Amazon's Ring launches flying camera, autonomous security robot",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUE9yTnVGeDUteVpSZzY1QW5jUzVxSmpna2hSb29VUE9hVTRjWHhuUTNsZlQtVGtoRkQxQ0JWNkl5amNoWksxdXQyT2c0LV9jNUctdXp3LUZGaDZsaUJCcDlIX0pHWG04WER3clpEVWtzVGI4RXRjaEZoTDBLbkVBZjUtOXhEUjM2N3FENHBrNEJlaU91elR6UmZFZjlxMWdPdHI5YnZIYmpMTkhv?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Amazon's Ring launches flying camera, autonomous security robot Reuters",
+        "published": "2026-11-10T14:13:47+00:00"
+      },
+      {
+        "title": "China's Singles Day shopping festival puts AI selling power to the test",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd0ZRNDVrTEpZSnpqaDdwU01NX2c3SElnV09nZEsyQlpSSHlFR3FDQkt3Y1hYS0twOFJxMzk1Vm93aFZxTzZwUWlsRDJaZ1JtS0NJTE02VkdZaWpwMzFKYnRjV3BSYmxyTEtmYjhFRXZOZ1dnWEZfN0RCUVBsSUpkUGZQUUhCa3pSRW9IV1o5dkpacWxkVzVfcWthaXc2T0VwNG5ESVVFZW5tQ2dUcTYzM1RlWk1jaVBQMVhHNzdiY0UtQQ?oc=5",
+        "source": "Reuters Technology",
+        "summary": "China's Singles Day shopping festival puts AI selling power to the test Reuters",
+        "published": "2026-11-11T06:14:00+00:00"
+      },
+      {
+        "title": "Meta, TikTok join Google to push back on Indonesia's planned AI copyright law revisions",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeDZLSGp0MHRPWUgzVTNmZEhMLWR6Z2lvdmZiQzRzblJobjdGdlRMUmhHV1dzM3lUUHdocXNoMnp4bFZHOEZtUU41T3BGT0d0blpyYnViSDZ3bklQNG50bnRyVmtYTE0xZTdWc0dDODhrd1hIRXVKTXVWMWVqWVY1aEFLN040QzJRMW40QzJzTHVYMjNEVTRuZ0NEdFI3eS1EV05WWDdjZ3g4TldaRnBrd01GY0lKckRvOTFCRUc5QVBXb0d2WHFaMXdPWno?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Meta, TikTok join Google to push back on Indonesia's planned AI copyright law revisions Reuters",
+        "published": "2026-11-11T12:18:33+00:00"
+      },
+      {
+        "title": "Baird, Morgan Stanley sour on Nvidia as CEO affair controversy deepens",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVVFZRkRxczJkVHdhU0pCMUlmd0tpdGFjdFBkRjhPY3NiLXJtMmYwX1hfNkM1MEdCd2hjalRhWFhYOUtRanJUcHhyY2RXeFJYbGpZRWZIVVRGSml5cFN0MnkyWkFuaUppMGp6b3l0YmRWWTNGVHkwOV9LaFVOdkFxMjJXSmpzQmZkRU5ad1Zob0tvYkgzd1Bkb2VfT0RWQ0lrZWNR?oc=5",
+        "source": "Reuters Technology",
+        "summary": "Baird, Morgan Stanley sour on Nvidia as CEO affair controversy deepens Reuters",
+        "published": "2026-11-11T17:04:16+00:00"
+      },
+      {
+        "title": "United Airlines moves to block AI agents from its platform over security concerns",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVlJLSUtLZnlkQ2FuamtrbzJqMUw5RFVQWnAtV0tyUmI4YVJzeXpSYS0wS2dGSkdvb0RybTR5ck9FRFFGY25pb1V6cm1RbFpSTGhhZUNIN3BjVHFyTmpoYVJOTWhGZjFDb21WNUYtMFFVUWgzUG9CTURNUTFsQWtUcGw5Tmh5TFA3ZHRKZzhRWFVVRjZFaFBWQzZrV0tkYkZSS2FMWGN5OFpTM1JsR0xKSEhkYWFKRFBKcVFTU0hDaktQMEox?oc=5",
+        "source": "Reuters Technology",
+        "summary": "United Airlines moves to block AI agents from its platform over security concerns Reuters",
+        "published": "2026-11-11T20:05:38+00:00"
       }
     ]
   }
